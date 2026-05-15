@@ -2,6 +2,8 @@
 
 Dashboard analitico em construcao para acompanhamento de indicadores de clinicas e hospitais, com foco em gestao operacional, monitoramento de atendimento e uso futuro de machine learning para apoio a previsao de demanda.
 
+Este projeto sera evoluido como proximo destaque do portfolio depois da finalizacao do `retail-analytics-pipeline`.
+
 ## Objetivo
 
 Construir uma solucao de analytics para saude capaz de acompanhar indicadores importantes para gestao hospitalar e ambulatorial.
@@ -73,7 +75,7 @@ app.py
 
 Projeto em construcao.
 
-O foco inicial e estruturar a base do dashboard, definir os dados, criar os indicadores principais e evoluir para modelos simples de machine learning.
+O foco inicial e estruturar a base do dashboard, definir os dados, criar os indicadores principais e evoluir para modelos simples de machine learning. A evolucao principal deste projeto vem apos a conclusao do pipeline de analytics para varejo.
 
 ## Proximos Passos
 
