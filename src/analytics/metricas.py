@@ -1,0 +1,12 @@
+def top_medicos(df):
+    return df
+def pacientes_risco(df):
+    return df
+def especialidades_lucrativas(df):
+    return df
+def horarios_pico(df):
+    return df
+def tempo_espera(df):
+    return df
+def previsao_consultas(df):
+    return df

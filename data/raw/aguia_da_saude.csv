@@ -1,0 +1,926 @@
+﻿id_consulta,id_paciente,nome,sobrenome,idade,sexo,cidade,estado,data_consulta,hora_consulta,especialidade,medico,tipo_exame,resultado_exame,valor_consulta,tempo_espera_min,status_consulta,retorno_30_dias,convenio,clinica
+C00001,P0063,Vanessa,Lima,57,F,São Paulo,SP,25/12/2022,09:45,Psiquiatria,Dra. Helena Duarte,Avaliação Psiquiátrica,Não realizado,380,0,Cancelada,Não,Amil,Águia Saúde Centro
+C00002,P0119,Rafael,Carvalho,45,F,Osasco,SP,20/01/2022,17:45,Endocrinologia,Dr. André Teixeira,Insulina,Não realizado,340,0,Falta,Não,NotreDame,Águia Saúde Centro
+C00003,P0114,Patricia,Martins,10,M,São Paulo,SP,18/05/2024,15:45,Psiquiatria,Dr. Samuel Brito,Escala de Depressão,Não se aplica,400,54,Realizada,Sim,NotreDame,Águia Saúde Centro
+C00004,P0098,Sabrina,Silva,47,M,  guarulhos  ,SP,28/08/2023,08:45,Psiquiatria,Dr. Samuel Brito,Escala de Depressão,Normal,400,77,Realizada,Não,NotreDame,Águia Saúde Norte
+C00005,P0059,Sabrina,Ferreira,8,F,Guarulhos,SP,25/01/2023,15:15,Ginecologia,Dra. Bianca Vieira,Mamografia,Não se aplica,230,44,Realizada,Sim,NotreDame,Águia Saúde Sul
+C00006,P0094,Vanessa,Oliveira,19,F,Curitiba,SP,11/03/2026,11:15,Cardiologia,Dra. Renata Alves,Ecocardiograma,Não realizado,350,,Falta,Não,Bradesco Saúde,Águia Saúde Sul
+C00007,P0129,Matheus,Pereira,26,F,Osasco,SP,28/08/2023,16:30,Ortopedia,Dra. Amanda Torres,Ressonância,Não realizado,250,0,Cancelada,Não,Amil,Águia Saúde Centro
+C00008,P0058,Yasmin,Costa,45,F,,SP,19/03/2024,08:00,Neurologia,Dra. Isabela Moura,Eletroencefalograma,Em análise,470,91,Realizada,Não,SulAmérica,Águia Saúde Sul
+C00009,P0015,Guilherme,Almeida,89,M,São Paulo,SP,23/02/2025,11:15,Endocrinologia,Dra. Sofia Ramos,Insulina,Não realizado,290,,Cancelada,Não,Unimed,Águia Saúde Sul
+C00010,P0003,Bruno,Silva,13,F,Curitiba,SP,26/08/2022,09:15,Clínico Geral,Dra. Paula Rocha,Glicemia,Não realizado,230,,Cancelada,Não,SulAmérica,Águia Saúde Sul
+C00011,P0179,Matheus,Gomes,5,F,Campinas,SP,03/09/2025,09:45,Neurologia,Dr. Henrique Lopes,Ressonância,Em análise,470,9,Realizada,Sim,NotreDame,Águia Saúde Norte
+C00012,P0114,Patricia,Martins,10,M,São Paulo,SP,23/01/2024,14:30,Ginecologia,Dra. Bianca Vieira,Mamografia,Não realizado,230,,Cancelada,Não,NotreDame,Águia Saúde Centro
+C00013,P0032,Beatriz,Martins,58,M,Rio de Janeiro,SP,11/03/2023,15:00,Endocrinologia,Dra. Sofia Ramos,Insulina,Alterado,290,36,Realizada,Sim,Unimed,Águia Saúde Centro
+C00014,P0014,Fernanda,Almeida,22,M,Guarulhos,SP,05/05/2025,08:15,Pediatria,Dr. João Pedro,Hemograma Infantil,Não realizado,220,,Falta,Não,Amil,Águia Saúde Centro
+C00015,P0029,Wesley,Oliveira,idade_desconhecida,M,Rio de Janeiro,SP,04/01/2024,16:15,Clínico Geral,Dr. Marcos Lima,Hemograma,Em análise,200,27,Realizada,Sim,NotreDame,Águia Saúde Centro
+C00016,P0108,Ana,Lima,32,F,Osasco,SP,12/01/2024,14:00,Cardiologia,Dra. Renata Alves,Ecocardiograma,Não realizado,400,0,Falta,Não,Hapvida,Águia Saúde Sul
+C00017,P0012,Rafael,Martins,22,M,Campinas,SP,10/08/2025,18:00,Oftalmologia,Dra. Natália Castro,Tonometria,Não realizado,300,,Cancelada,Não,Unimed,Águia Saúde Sul
+C00018,P0028,Daniela,Martins,41,F,São Paulo,SP,22/10/2023,15:00,Endocrinologia,Dra. Sofia Ramos,TSH,Em análise,320,84,Realizada,Não,Unimed,Águia Saúde Sul
+C00019,P0033,Helena,Oliveira,45,F,São Bernardo,SP,08/12/2025,09:15,Psiquiatria,Dr. Samuel Brito,Avaliação Psiquiátrica,Não realizado,430,0,Cancelada,Não,SulAmérica,Águia Saúde Norte
+C00020,P0087,Eduardo,Silva,15,M,Curitiba,SP,14/07/2022,11:30,Neurologia,Dra. Isabela Moura,Tomografia,Não se aplica,440,24,Realizada,Sim,Unimed,Águia Saúde Centro
+C00021,P0007,Lucas,Souza,13,M,Rio de Janeiro,SP,03/05/2022,15:30,Ginecologia,Dra. Bianca Vieira,Mamografia,Não realizado,230,,Cancelada,Não,Amil,Águia Saúde Sul
+C00022,P0109,Daniela,Costa,61,M,Campinas,SP,02/10/2023,11:15,Clínico Geral,Dra. Paula Rocha,Check-up Geral,Não realizado,180,0,Cancelada,Não,Unimed,Águia Saúde Centro
+C00023,P0090,Camila,Rocha,72,M,Belo Horizonte,SP,21/03/2025,10:45,Ginecologia,Dra. Bianca Vieira,Ultrassom Transvaginal,Não realizado,230,,Falta,Não,Hapvida,Águia Saúde Centro
+C00024,P0020,Mariana,Almeida,19,M,Rio de Janeiro,SP,07/01/2023,17:45,Ginecologia,Dra. Tatiane Costa,Preventivo,Normal,230,86,Realizada,Sim,NotreDame,Águia Saúde Sul
+C00025,P0027,Fernanda,Silva,78,M,Osasco,SP,28/01/2024,11:30,Endocrinologia,Dr. André Teixeira,TSH,,290,24,Realizada,Sim,Particular,Águia Saúde Sul
+C00026,P0043,Bruno,Silva,13,F,Belo Horizonte,SP,24/06/2024,11:15,Neurologia,Dra. Isabela Moura,Tomografia,Normal,390,60,Realizada,Não,Bradesco Saúde,Águia Saúde Sul
+C00027,P0174,Rafael,Silva,20,M,Belo Horizonte,SP,03/28/2023,11:00,Oftalmologia,Dra. Natália Castro,Mapeamento de Retina,Alterado,220,43,Realizada,Sim,Particular,Águia Saúde Norte
+C00028,P0075,Gabriel,Ferreira,7,M,São Paulo,SP,31/05/2024,10:45,Clínico Geral,Dra. Paula Rocha,Check-up Geral,Não realizado,180,,Falta,Não,SulAmérica,Águia Saúde Centro
+C00029,P0102,Wesley,Silva,12,M,Belo Horizonte,SP,30/07/2024,17:30,Clínico Geral,Dra. Paula Rocha,Hemograma,Não realizado,"300,50",,Falta,Não,NotreDame,Águia Saúde Sul
+C00030,P0164,Igor,Rocha,63,M,Curitiba,SP,28/10/2023,09:45,  cardiologia  ,Dra. Renata Alves,Eletrocardiograma,Normal,370,60,Realizada,Sim,Bradesco Saúde,Águia Saúde Norte
+C00031,P0151,Wesley,Silva,88,M,São Bernardo,SP,08/03/2026,11:30,Cardiologia,Dra. Renata Alves,Ecocardiograma,Normal,350,70,Realizada,Sim,Particular,Águia Saúde Norte
+C00032,P0090,Camila,Rocha,72,M,Belo Horizonte,SP,27/10/2022,10:15,Ortopedia,Dr. Felipe Nunes,Raio-X,Não se aplica,280,27,Realizada,Não,Hapvida,Águia Saúde Sul
+C00033,P0149,Sabrina,Barbosa,12,F,Guarulhos,SP,10/10/2023,09:00,Psiquiatria,Dr. Samuel Brito,Escala de Depressão,Não realizado,430,,Cancelada,Não,Hapvida,Águia Saúde Norte
+C00034,P0033,Helena,Oliveira,45,F,,SP,14/07/2024,08:30,Cardiologia,Dra. Renata Alves,Ecocardiograma,Normal,370,87,Realizada,Não,SulAmérica,Águia Saúde Norte
+C00035,P0149,Sabrina,Barbosa,12,F,Guarulhos,SP,27/08/2025,10:45,Clínico Geral,Dra. Paula Rocha,Check-up Geral,Normal,180,62,Realizada,Não,Hapvida,Águia Saúde Sul
+C00036,P0022,Carlos,Carvalho,50,M,Santo André,SP,20/12/2025,11:45,Ortopedia,Dr. Felipe Nunes,Raio-X,Em análise,280,52,Realizada,Não,Amil,Águia Saúde Norte
+C00037,P0087,Eduardo,Silva,15,M,Curitiba,SP,11/07/2023,09:45,Clínico Geral,Dra. Paula Rocha,Hemograma,Alterado,200,89,Realizada,Não,Unimed,Águia Saúde Centro
+C00038,P0150,Lucas,Ferreira,5,F,Curitiba,SP,01/12/2025,15:15,Ginecologia,Dra. Tatiane Costa,Mamografia,Não se aplica,230,76,Realizada,Não,Hapvida,Águia Saúde Centro
+C00039,P0172,Beatriz,Lima,65,F,Belo Horizonte,SP,05/10/2025,11:30,Oftalmologia,Dr. Vinicius Reis,Acuidade Visual,Alterado,220,44,Realizada,Sim,SulAmérica,Águia Saúde Norte
+C00040,P0009,Nicolas,Oliveira,72,M,São Bernardo,SP,27/07/2022,14:00,Ortopedia,Dr. Felipe Nunes,Ressonância,Não realizado,300,0,Falta,Não,NotreDame,Águia Saúde Sul
+C00041,P0012,Rafael,Martins,22,M,Campinas,SP,15/06/2024,08:30,Psiquiatria,Dra. Helena Duarte,Escala de Depressão,Não realizado,380,,Cancelada,Não,Unimed,Águia Saúde Sul
+C00042,P0016,Bruno,Ribeiro,53,M,Rio de Janeiro,SP,24/01/2024,15:45,Dermatologia,Dr. Caio Martins,Biópsia de Pele,Não se aplica,350,53,Realizada,Sim,Unimed,Águia Saúde Centro
+C00043,P0017,Wesley,Ribeiro,29,M,Guarulhos,SP,09/02/2025,17:00,Clínico Geral,Dra. Paula Rocha,Glicemia,Em análise,200,25,Realizada,Não,Hapvida,Águia Saúde Sul
+C00044,P0038,Daniela,Rocha,47,M,Guarulhos,SP,17/12/2023,17:45,Cardiologia,Dr. Roberto Cardoso,Ecocardiograma,Não realizado,320,,Cancelada,Não,Bradesco Saúde,Águia Saúde Centro
+C00045,P0099,Patricia,Almeida,64,F,Salvador,SP,15/10/2023,17:30,Ginecologia,Dra. Bianca Vieira,Preventivo,Em análise,260,9,Realizada,Não,Bradesco Saúde,Águia Saúde Sul
+C00046,P0036,Igor,Moura,29,F,São Bernardo,SP,11/01/2022,17:00,Endocrinologia,Dr. André Teixeira,Insulina,Não se aplica,340,24,Realizada,Sim,SulAmérica,Águia Saúde Norte
+C00047,P0061,Igor,Pereira,58,M,Santo André,SP,01/08/2025,16:45,Clínico Geral,Dr. Marcos Lima,Glicemia,Normal,150,68,Realizada,Sim,Particular,Águia Saúde Sul
+C00048,P0001,Guilherme,Souza,5,M,Curitiba,SP,14/03/2025,11:00,Psiquiatria,Dr. Samuel Brito,Avaliação Psiquiátrica,Normal,400,72,Realizada,Não,Unimed,Águia Saúde Norte
+C00049,P0012,Rafael,Martins,22,M,Campinas,SP,03/02/2022,11:00,Ginecologia,Dra. Tatiane Costa,Mamografia,Normal,280,89,Realizada,Não,Unimed,Águia Saúde Centro
+C00050,P0012,Rafael,Martins,22,M,Campinas,SP,09/08/2024,18:45,Ginecologia,Dra. Bianca Vieira,Mamografia,Não se aplica,260,13,Realizada,Sim,Unimed,Águia Saúde Norte
+C00051,P0013,Beatriz,Ferreira,89,F,São Bernardo,SP,21/11/2024,11:45,Clínico Geral,Dra. Paula Rocha,Glicemia,Alterado,200,87,Realizada,Não,Hapvida,Águia Saúde Norte
+C00052,P0013,Beatriz,Ferreira,89,F,São Bernardo,SP,24/01/2024,11:45,Ginecologia,Dra. Tatiane Costa,Preventivo,Não realizado,310,,Cancelada,Não,Hapvida,Águia Saúde Centro
+C00053,P0128,Camila,Costa,42,F,Santo André,SP,29/01/2026,11:45,Ginecologia,Dra. Tatiane Costa,Preventivo,Não realizado,260,,Falta,Não,NotreDame,Águia Saúde Norte
+C00054,P0043,Bruno,Silva,13,F,Belo Horizonte,SP,19/05/2025,16:15,Dermatologia,Dr. Caio Martins,Dermatoscopia,Normal,350,62,Realizada,Não,Bradesco Saúde,Águia Saúde Sul
+C00055,P0004,Yasmin,Silva,73,F,Santo André,SP,16/11/2024,16:15,Cardiologia,Dra. Renata Alves,Ecocardiograma,Não se aplica,320,82,Realizada,Sim,Bradesco Saúde,Águia Saúde Centro
+C00056,P0042,Rafael,Almeida,11,M,Santo André,SP,07/03/2025,08:15,Ginecologia,Dra. Tatiane Costa,Ultrassom Transvaginal,Não se aplica,310,52,Realizada,Sim,Particular,Águia Saúde Sul
+C00057,P0036,Igor,Moura,29,F,São Bernardo,SP,25/07/2023,10:00,Neurologia,Dra. Isabela Moura,Tomografia,Não se aplica,390,68,Realizada,Sim,SulAmérica,Águia Saúde Norte
+C00058,P0067,Fernanda,Ribeiro,54,F,Salvador,SP,02/10/2024,10:15,Pediatria,Dr. João Pedro,Teste Alérgico,Não realizado,190,0,Cancelada,Não,Unimed,Águia Saúde Sul
+C00059,P0114,Patricia,Martins,10,M,São Paulo,SP,13/05/2022,14:30,Ginecologia,Dra. Tatiane Costa,Mamografia,Alterado,280,95,Realizada,Não,NotreDame,Águia Saúde Sul
+C00060,P0013,Beatriz,Ferreira,89,F,São Bernardo,SP,23/02/2022,11:30,Ortopedia,Dr. Felipe Nunes,Ressonância,Não realizado,330,0,Falta,Não,Hapvida,Águia Saúde Sul
+C00061,P0026,Guilherme,Gomes,83,F,Belo Horizonte,SP,23/03/2025,08:30,Endocrinologia,Dr. André Teixeira,Glicemia,Não realizado,290,,Cancelada,Não,Amil,Águia Saúde Sul
+C00062,P0133,Sabrina,Souza,3,M,Osasco,SP,05/06/2024,14:00,Oftalmologia,Dr. Vinicius Reis,Mapeamento de Retina,Não realizado,220,0,Falta,Não,,Águia Saúde Norte
+C00063,P0015,Guilherme,Almeida,89,M,São Paulo,SP,29/05/2023,10:30,Ginecologia,Dra. Tatiane Costa,Preventivo,Normal,260,83,Realizada,Sim,Unimed,Águia Saúde Sul
+C00064,P0043,Bruno,Silva,13,F,Belo Horizonte,SP,26/03/2022,16:00,Psiquiatria,Dr. Samuel Brito,Escala de Depressão,Em análise,350,87,Realizada,Sim,Bradesco Saúde,Águia Saúde Sul
+C00065,P0107,Guilherme,Santos,5,F,Curitiba,SP,22/01/2025,10:30,Clínico Geral,Dra. Paula Rocha,Check-up Geral,Não se aplica,230,92,Realizada,Não,NotreDame,Águia Saúde Norte
+C00066,P0019,Vanessa,Ferreira,76,M,São Bernardo,SP,18/09/2024,14:30,Ortopedia,Dra. Amanda Torres,Ressonância,Em análise,280,45,Realizada,Não,Bradesco Saúde,Águia Saúde Centro
+C00067,P0095,Matheus,Lima,idade_desconhecida,F,Guarulhos,SP,13/08/2024,09:45,Cardiologia,Dra. Renata Alves,Eletrocardiograma,Normal,350,17,Realizada,Não,Bradesco Saúde,Águia Saúde Norte
+C00068,P0158,Patricia,Santos,26,M,São Bernardo,SP,16/01/2026,11:15,Ortopedia,Dra. Amanda Torres,Ultrassom Articular,Não realizado,330,,Falta,Não,NotreDame,Águia Saúde Norte
+C00069,P0079,Eduardo,Costa,55,M,Belo Horizonte,SP,25/07/2024,18:15,Cardiologia,Dra. Renata Alves,Teste Ergométrico,Em análise,370,11,Realizada,Não,SulAmérica,Águia Saúde Sul
+C00070,P0168,Wesley,Moura,21,M,Santo André,SP,01/06/2024,09:30,Dermatologia,Dra. Larissa Mendes,Biópsia de Pele,Não realizado,320,,Cancelada,Não,Bradesco Saúde,Águia Saúde Centro
+C00071,P0036,Igor,Moura,29,F,São Bernardo,SP,15/08/2023,08:45,Pediatria,Dr. João Pedro,Teste Alérgico,Não realizado,240,0,Falta,Não,SulAmérica,Águia Saúde Centro
+C00072,P0025,Rafael,Silva,35,F,Santo André,SP,12/02/2023,15:45,Ginecologia,Dra. Tatiane Costa,Preventivo,Alterado,230,9,Realizada,Não,,Águia Saúde Norte
+C00073,P0133,Sabrina,Souza,3,M,Osasco,SP,09/06/2025,11:45,Psiquiatria,Dra. Helena Duarte,Escala de Ansiedade,Não realizado,400,,Falta,Não,,Águia Saúde Sul
+C00074,P0131,Mariana,Pereira,40,F,Santo André,SP,04/02/2022,11:00,Psiquiatria,Dr. Samuel Brito,Escala de Ansiedade,Não realizado,430,,Falta,Não,Unimed,Águia Saúde Sul
+C00075,P0177,Yasmin,Oliveira,32,M,Curitiba,SP,04/09/2025,16:15,Psiquiatria,Dr. Samuel Brito,Escala de Ansiedade,Não realizado,350,,Falta,Não,Hapvida,Águia Saúde Centro
+C00076,P0135,Sabrina,Souza,10,M,Osasco,SP,26/10/2025,10:00,Psiquiatria,Dr. Samuel Brito,Avaliação Psiquiátrica,Em análise,380,61,Realizada,Não,Particular,Águia Saúde Centro
+C00077,P0106,Vanessa,Santos,46,F,Rio de Janeiro,SP,29/01/2026,08:15,Neurologia,Dra. Isabela Moura,Tomografia,Não realizado,420,,Falta,Não,NotreDame,Águia Saúde Sul
+C00078,P0123,Vanessa,Almeida,62,M,Osasco,SP,27/12/2024,11:30,Ginecologia,Dra. Bianca Vieira,Ultrassom Transvaginal,Não realizado,280,,Falta,Não,NotreDame,Águia Saúde Centro
+C00079,P0020,Mariana,Almeida,19,M,Rio de Janeiro,SP,14/12/2025,10:45,Pediatria,Dr. João Pedro,Exame de Rotina,Não realizado,240,,Cancelada,Não,NotreDame,Águia Saúde Sul
+C00080,P0037,Sabrina,Almeida,62,M,Curitiba,SP,08/12/2023,18:15,Oftalmologia,Dra. Natália Castro,Tonometria,Normal,270,41,Realizada,Não,Particular,Águia Saúde Norte
+C00081,P0031,Igor,Rocha,29,F,Salvador,SP,10/07/2023,17:30,Pediatria,Dra. Camila Freitas,Teste Alérgico,Alterado,220,83,Realizada,Sim,Bradesco Saúde,Águia Saúde Centro
+C00082,P0172,Beatriz,Lima,65,F,Belo Horizonte,SP,25/07/2022,11:45,Pediatria,Dra. Camila Freitas,Hemograma Infantil,Alterado,190,5,Realizada,Não,SulAmérica,Águia Saúde Sul
+C00083,P0122,Thiago,  costa  ,12,F,Guarulhos,SP,08/08/2023,15:00,Pediatria,Dr. João Pedro,Exame de Rotina,Não realizado,220,0,Falta,Não,Bradesco Saúde,Águia Saúde Centro
+C00084,P0107,Guilherme,Santos,5,F,Curitiba,SP,11/10/2024,10:30,Ortopedia,Dr. Felipe Nunes,Ressonância,Normal,250,43,Realizada,Não,NotreDame,Águia Saúde Norte
+C00085,P0117,Igor,Moura,61,M,São Bernardo,SP,29/10/2024,14:15,Oftalmologia,Dra. Natália Castro,Mapeamento de Retina,Não se aplica,220,25,Realizada,Não,Amil,Águia Saúde Sul
+C00086,P0022,Carlos,Carvalho,50,M,Santo André,SP,05/06/2025,17:45,Dermatologia,Dra. Larissa Mendes,Biópsia de Pele,Não realizado,350,,Falta,Não,Amil,Águia Saúde Centro
+C00087,P0103,Rafael,Pereira,8,M,Guarulhos,SP,25/10/2023,17:00,Ortopedia,Dr. Felipe Nunes,Ressonância,Não realizado,300,0,Cancelada,Não,Amil,Águia Saúde Norte
+C00088,P0069,Gabriel,Barbosa,46,M,Curitiba,SP,31/08/2025,11:15,Dermatologia,Dra. Larissa Mendes,Dermatoscopia,Em análise,270,64,Realizada,Sim,Unimed,Águia Saúde Norte
+C00089,P0176,Lucas,Carvalho,42,M,Santo André,SP,28/08/2023,11:15,Dermatologia,Dra. Larissa Mendes,Teste Alérgico,Alterado,300,66,Realizada,Não,Particular,Águia Saúde Sul
+C00090,P0156,Nicolas,Santos,60,F,Campinas,SP,22/09/2025,16:15,Oftalmologia,Dra. Natália Castro,Acuidade Visual,Não realizado,220,,Falta,Não,Amil,Águia Saúde Sul
+C00091,P0037,Sabrina,Almeida,62,M,Curitiba,SP,01/11/2024,10:15,Cardiologia,Dr. Roberto Cardoso,Teste Ergométrico,Não se aplica,350,71,Realizada,Sim,Particular,Águia Saúde Sul
+C00092,P0053,Carlos,Silva,60,F,Rio de Janeiro,SP,01/07/2024,16:45,Endocrinologia,Dra. Sofia Ramos,Insulina,Não realizado,320,,Falta,Não,SulAmérica,Águia Saúde Norte
+C00093,P0030,Vanessa,Lima,18,M,Santo André,SP,06/06/2023,16:15,Dermatologia,Dra. Larissa Mendes,Dermatoscopia,Em análise,270,59,Realizada,Sim,Unimed,Águia Saúde Sul
+C00094,P0016,Bruno,Ribeiro,53,M,Rio de Janeiro,SP,11/08/2023,11:15,Cardiologia,Dra. Renata Alves,Eletrocardiograma,Não se aplica,400,53,Realizada,Não,Unimed,Águia Saúde Norte
+C00095,P0021,Bruno,Souza,21,F,Guarulhos,SP,14/12/2023,09:45,Oftalmologia,Dr. Vinicius Reis,Acuidade Visual,Normal,250,5,Realizada,Não,SulAmérica,Águia Saúde Norte
+C00096,P0173,Wesley,Ribeiro,14,M,Rio de Janeiro,SP,22/05/2023,11:15,Neurologia,Dra. Isabela Moura,Eletroencefalograma,Normal,440,19,Realizada,Não,SulAmérica,Águia Saúde Sul
+C00097,P0005,Helena,Barbosa,77,M,São Paulo,SP,09/05/2025,15:00,Cardiologia,Dr. Roberto Cardoso,Ecocardiograma,Não se aplica,350,56,Realizada,Sim,NotreDame,Águia Saúde Sul
+C00098,P0056,Juliana,Silva,87,M,Rio de Janeiro,SP,16/08/2023,10:30,Clínico Geral,Dr. Marcos Lima,Check-up Geral,Alterado,200,43,Realizada,Sim,Unimed,Águia Saúde Norte
+C00099,P0036,Igor,Moura,29,F,São Bernardo,SP,22/10/2025,11:45,Psiquiatria,Dra. Helena Duarte,Escala de Depressão,Não se aplica,350,87,Realizada,Não,SulAmérica,Águia Saúde Sul
+C00100,P0107,Guilherme,Santos,5,F,Curitiba,SP,26/03/2026,14:15,Dermatologia,Dr. Caio Martins,Biópsia de Pele,Alterado,300,95,Realizada,Não,NotreDame,Águia Saúde Centro
+C00101,P0144,Rafael,  oliveira  ,89,F,Salvador,SP,13/05/2023,10:30,Neurologia,Dr. Henrique Lopes,Ressonância,Não realizado,390,,Cancelada,Não,NotreDame,Águia Saúde Centro
+C00102,P0138,Yasmin,Almeida,68,M,Osasco,SP,12/02/2024,15:00,Pediatria,Dra. Camila Freitas,Exame de Rotina,Alterado,190,80,Realizada,Não,Bradesco Saúde,Águia Saúde Centro
+C00103,P0086,Guilherme,Costa,51,M,Guarulhos,SP,27/02/2026,09:45,Clínico Geral,Dr. Marcos Lima,Hemograma,Não realizado,180,0,Falta,Não,Unimed,Águia Saúde Norte
+C00104,P0062,Daniela,Oliveira,21,F,Campinas,SP,28/12/2024,15:30,Dermatologia,Dr. Caio Martins,Dermatoscopia,Não se aplica,320,70,Realizada,Não,SulAmérica,Águia Saúde Centro
+C00105,P0121,Igor,Ribeiro,37,M,Santo André,SP,03/10/2023,11:15,Ginecologia,Dra. Bianca Vieira,Ultrassom Transvaginal,Não se aplica,260,38,Realizada,Não,Particular,Águia Saúde Centro
+C00106,P0051,Patricia,Ribeiro,35,F,Campinas,SP,01/02/2025,15:30,Neurologia,Dr. Henrique Lopes,Ressonância,Não realizado,440,,Cancelada,Não,Unimed,Águia Saúde Norte
+C00107,P0044,Sabrina,Moura,29,M,São Paulo,SP,15/01/2026,14:15,Ginecologia,Dra. Bianca Vieira,Preventivo,Não realizado,230,0,Falta,Não,Unimed,Águia Saúde Centro
+C00108,P0001,Guilherme,Souza,5,M,Curitiba,SP,19/04/2023,08:15,Neurologia,Dr. Henrique Lopes,Tomografia,Não se aplica,390,69,Realizada,Não,Unimed,Águia Saúde Centro
+C00109,P0159,Sabrina,Barbosa,8,F,Salvador,SP,26/09/2024,08:45,Psiquiatria,  dr. samuel brito  ,Escala de Depressão,Em análise,350,72,Realizada,Não,SulAmérica,Águia Saúde Centro
+C00110,P0129,Matheus,Pereira,26,F,Osasco,SP,17/07/2022,14:15,Neurologia,Dr. Henrique Lopes,Eletroencefalograma,Não realizado,420,,Falta,Não,Amil,Águia Saúde Norte
+C00111,P0069,Gabriel,Barbosa,46,M,Curitiba,SP,29/07/2024,15:15,Cardiologia,Dra. Renata Alves,Ecocardiograma,Normal,370,88,Realizada,Sim,Unimed,Águia Saúde Norte
+C00112,P0098,Sabrina,Silva,47,M,Guarulhos,SP,20/01/2022,16:00,Endocrinologia,Dra. Sofia Ramos,Insulina,Não realizado,370,,Cancelada,Não,NotreDame,Águia Saúde Sul
+C00113,P0025,Rafael,Silva,35,F,Santo André,SP,18/11/2025,17:45,Clínico Geral,Dr. Marcos Lima,Hemograma,Em análise,200,14,Realizada,Sim,Particular,Águia Saúde Centro
+C00114,P0014,Fernanda,Almeida,22,M,Guarulhos,SP,26/03/2024,17:30,Psiquiatria,Dra. Helena Duarte,Escala de Depressão,Não realizado,380,0,Falta,Não,Amil,Águia Saúde Sul
+C00115,P0100,Sabrina,Silva,51,M,Guarulhos,SP,28/03/2026,16:00,Oftalmologia,Dra. Natália Castro,Tonometria,Não se aplica,270,17,Realizada,Sim,Hapvida,Águia Saúde Centro
+C00116,P0088,Matheus,Barbosa,8,F,Rio de Janeiro,SP,02/03/2022,15:45,Psiquiatria,Dr. Samuel Brito,Escala de Ansiedade,Não se aplica,430,50,Realizada,Não,Bradesco Saúde,Águia Saúde Centro
+C00117,P0175,Sabrina,Ferreira,45,M,Rio de Janeiro,SP,28/08/2023,16:00,Neurologia,Dr. Henrique Lopes,Tomografia,Não se aplica,390,24,Realizada,Sim,NotreDame,Águia Saúde Sul
+C00118,P0100,Sabrina,Silva,51,M,Guarulhos,SP,24/09/2023,11:30,Cardiologia,Dr. Roberto Cardoso,Eletrocardiograma,Alterado,320,16,Realizada,Não,Hapvida,Águia Saúde Norte
+C00119,P0143,Juliana,Santos,31,M,Salvador,SP,03/07/2022,11:00,Neurologia,Dr. Henrique Lopes,Eletroencefalograma,Não realizado,440,0,Cancelada,Não,Hapvida,Águia Saúde Norte
+C00120,P0106,Vanessa,Santos,46,F,Rio de Janeiro,SP,03/12/2024,09:45,Cardiologia,Dr. Roberto Cardoso,Teste Ergométrico,Em análise,350,39,Realizada,Não,NotreDame,Águia Saúde Norte
+C00121,P0028,Daniela,Martins,41,F,São Paulo,SP,18/09/2024,16:30,Dermatologia,Dr. Caio Martins,Dermatoscopia,Não se aplica,320,85,Realizada,Sim,Unimed,Águia Saúde Norte
+C00122,P0001,Guilherme,Souza,5,M,Curitiba,SP,18/02/2024,16:30,Neurologia,Dra. Isabela Moura,Tomografia,Alterado,470,60,Realizada,Não,Unimed,Águia Saúde Norte
+C00123,P0155,Fernanda,Ribeiro,54,M,Salvador,SP,30/12/2022,18:30,Pediatria,Dr. João Pedro,Exame de Rotina,Não realizado,240,0,Cancelada,Não,Hapvida,Águia Saúde Norte
+C00124,P0026,Guilherme,Gomes,83,F,Belo Horizonte,SP,14/02/2023,15:15,Ginecologia,Dra. Bianca Vieira,Mamografia,,230,0,Cancelada,Não,Amil,Águia Saúde Norte
+C00125,P0075,Gabriel,Ferreira,7,M,São Paulo,SP,19/10/2024,09:30,Cardiologia,Dra. Renata Alves,Teste Ergométrico,Alterado,350,89,Realizada,Não,SulAmérica,Águia Saúde Norte
+C00126,P0019,Vanessa,Ferreira,76,M,São Bernardo,SP,31/03/2024,14:45,Psiquiatria,Dr. Samuel Brito,Escala de Depressão,Normal,350,94,Realizada,Sim,Bradesco Saúde,Águia Saúde Centro
+C00127,P0169,Mariana,Ribeiro,72,M,Osasco,SP,14/08/2025,15:45,Ortopedia,Dr. Felipe Nunes,Ultrassom Articular,Não realizado,300,0,Cancelada,Não,Amil,Águia Saúde Centro
+C00128,P0033,Helena,Oliveira,45,F,São Bernardo,SP,06/02/2024,11:15,Oftalmologia,Dr. Vinicius Reis,Tonometria,Normal,270,66,Realizada,Não,SulAmérica,Águia Saúde Norte
+C00129,P0010,Mariana,Costa,10,F,Curitiba,SP,21/07/2024,16:45,Ginecologia,Dra. Tatiane Costa,Ultrassom Transvaginal,Não realizado,280,0,Cancelada,Não,NotreDame,Águia Saúde Norte
+C00130,P0179,Matheus,Gomes,5,F,Campinas,SP,26/12/2025,09:30,Cardiologia,Dra. Renata Alves,Eletrocardiograma,Alterado,320,36,Realizada,Sim,NotreDame,Águia Saúde Norte
+C00131,P0144,Rafael,Oliveira,89,F,Salvador,SP,13/07/2025,10:45,Endocrinologia,Dra. Sofia Ramos,Glicemia,Alterado,370,83,Realizada,Não,NotreDame,Águia Saúde Sul
+C00132,P0110,Yasmin,Souza,22,M,Rio de Janeiro,SP,21/03/2026,16:00,Pediatria,Dra. Camila Freitas,Exame de Rotina,Não realizado,erro,0,Falta,Não,SulAmérica,Águia Saúde Norte
+C00133,P0008,Mariana,Ferreira,7,M,Santo André,SP,01/08/2025,11:45,Dermatologia,Dr. Caio Martins,Teste Alérgico,Não realizado,350,0,Falta,Não,Particular,Águia Saúde Norte
+C00134,P0091,Sabrina,Barbosa,35,F,Salvador,SP,16/12/2025,16:00,Psiquiatria,Dra. Helena Duarte,Escala de Depressão,Alterado,380,20,Realizada,Não,NotreDame,Águia Saúde Centro
+C00135,P0047,Bruno,Santos,42,F,São Paulo,SP,06/05/2025,09:45,Ortopedia,Dra. Amanda Torres,Ressonância,Alterado,330,67,Realizada,Sim,SulAmérica,Águia Saúde Norte
+C00136,P0021,Bruno,Souza,21,F,Guarulhos,SP,20/01/2022,14:15,Endocrinologia,Dra. Sofia Ramos,Glicemia,Não realizado,370,,Falta,Não,SulAmérica,Águia Saúde Norte
+C00137,P0176,Lucas,Carvalho,42,M,Santo André,SP,19/06/2022,15:15,Endocrinologia,Dr. André Teixeira,TSH,Alterado,340,40,Realizada,Não,Particular,Águia Saúde Centro
+C00138,P0118,Lucas,Almeida,13,M,Osasco,SP,22/08/2022,10:30,Endocrinologia,Dra. Sofia Ramos,Insulina,Não realizado,290,0,Cancelada,Não,Unimed,Águia Saúde Norte
+C00139,P0027,Fernanda,Silva,78,M,Osasco,SP,10/07/2024,10:00,Pediatria,Dr. João Pedro,Hemograma Infantil,Alterado,270,35,Realizada,Não,Particular,Águia Saúde Sul
+C00140,P0157,Lucas,Souza,53,F,Santo André,SP,28/02/2023,16:30,Ortopedia,Dr. Felipe Nunes,Raio-X,Não realizado,300,0,Falta,Não,Bradesco Saúde,Águia Saúde Norte
+C00141,P0018,Rafael,Lima,35,F,Curitiba,SP,17/03/2026,16:00,Oftalmologia,Dr. Vinicius Reis,Mapeamento de Retina,Alterado,270,94,Realizada,Sim,Hapvida,Águia Saúde Centro
+C00142,P0083,  carlos  ,Gomes,67,M,Rio de Janeiro,SP,28/03/2025,15:45,Neurologia,Dra. Isabela Moura,Eletroencefalograma,Não realizado,470,0,Cancelada,Não,NotreDame,Águia Saúde Sul
+C00143,P0024,Igor,Ribeiro,16,M,Guarulhos,SP,26/09/2024,11:00,Dermatologia,Dr. Caio Martins,Dermatoscopia,Não realizado,270,,Cancelada,Não,Unimed,Águia Saúde Centro
+C00144,P0137,Carlos,Almeida,17,M,São Bernardo,SP,07/04/2023,11:30,Neurologia,Dr. Henrique Lopes,Ressonância,Não realizado,440,0,Falta,Não,SulAmérica,Águia Saúde Sul
+C00145,P0125,Helena,Gomes,86,M,Osasco,SP,06/07/2025,16:45,Clínico Geral,Dr. Marcos Lima,Hemograma,Não se aplica,150,25,Realizada,Não,SulAmérica,Águia Saúde Centro
+C00146,P0045,Nicolas,Silva,51,M,Osasco,SP,16/07/2023,09:30,Ortopedia,Dra. Amanda Torres,Raio-X,Alterado,300,52,Realizada,Sim,Amil,Águia Saúde Norte
+C00147,P0161,Guilherme,Almeida,22,M,Santo André,SP,06/07/2022,16:00,Pediatria,Dr. João Pedro,Teste Alérgico,Não realizado,220,0,Cancelada,Não,Particular,Águia Saúde Centro
+C00148,P0044,Sabrina,Moura,29,M,São Paulo,SP,25/11/2025,11:00,Endocrinologia,Dra. Sofia Ramos,TSH,Normal,370,66,Realizada,Sim,Unimed,Águia Saúde Norte
+C00149,P0023,Vanessa,Silva,89,F,Santo André,SP,23/01/2024,17:15,Cardiologia,Dr. Roberto Cardoso,Ecocardiograma,Alterado,400,87,Realizada,Sim,NotreDame,Águia Saúde Sul
+C00150,P0042,Rafael,Almeida,11,M,Santo André,SP,19/01/2026,10:15,Ortopedia,Dra. Amanda Torres,Ressonância,Não realizado,330,,Falta,Não,Particular,Águia Saúde Centro
+C00151,P0023,Vanessa,Silva,89,F,Santo André,SP,04/02/2026,11:45,Ortopedia,Dr. Felipe Nunes,Ultrassom Articular,Em análise,erro,36,Realizada,Sim,NotreDame,Águia Saúde Centro
+C00152,P0142,Fernanda,Silva,54,M,São Bernardo,SP,02/24/2022,17:30,Psiquiatria,Dr. Samuel Brito,Escala de Depressão,Não realizado,380,0,Falta,Não,Bradesco Saúde,Águia Saúde Sul
+C00153,P0004,Yasmin,Silva,73,F,Santo André,SP,19/08/2022,10:00,Pediatria,Dr. João Pedro,Exame de Rotina,Alterado,190,45,Realizada,Não,Bradesco Saúde,Águia Saúde Sul
+C00154,P0108,Ana,Lima,idade_desconhecida,F,Osasco,SP,04/02/2022,15:00,Ortopedia,Dra. Amanda Torres,Raio-X,Normal,300,10,Realizada,Não,Hapvida,Águia Saúde Sul
+C00155,P0074,Lucas,Rocha,79,F,Guarulhos,SP,08/12/2025,11:15,Oftalmologia,Dra. Natália Castro,Tonometria,Normal,270,44,Realizada,Sim,SulAmérica,Águia Saúde Centro
+C00156,P0138,Yasmin,Almeida,68,M,Osasco,SP,01/12/2025,11:15,Psiquiatria,Dra. Helena Duarte,Escala de Ansiedade,Não se aplica,350,16,Realizada,Sim,Bradesco Saúde,Águia Saúde Norte
+C00157,P0157,Lucas,Souza,53,F,Santo André,SP,26/01/2022,16:00,Dermatologia,Dra. Larissa Mendes,Biópsia de Pele,Não realizado,300,,Cancelada,Não,Bradesco Saúde,Águia Saúde Sul
+C00158,P0133,Sabrina,Souza,3,M,Osasco,SP,17/09/2022,16:30,Dermatologia,Dra. Larissa Mendes,Dermatoscopia,Não se aplica,270,47,Realizada,Não,Bradesco Saúde,Águia Saúde Sul
+C00159,P0037,Sabrina,Almeida,62,M,Curitiba,SP,12/11/2024,11:45,Cardiologia,Dra. Renata Alves,Ecocardiograma,Em análise,"300,50",25,Realizada,Sim,Particular,Águia Saúde Sul
+C00160,P0173,Wesley,Ribeiro,14,M,Rio de Janeiro,SP,26/01/2022,10:45,Pediatria,Dra. Camila Freitas,Hemograma Infantil,Não realizado,240,0,Cancelada,Não,SulAmérica,Águia Saúde Centro
+C00161,P0010,Mariana,Costa,10,F,Curitiba,SP,24/05/2023,11:30,  neurologia  ,Dr. Henrique Lopes,Ressonância,Em análise,440,78,Realizada,Sim,NotreDame,Águia Saúde Sul
+C00162,P0173,Wesley,Ribeiro,14,M,Rio de Janeiro,SP,05/04/2022,18:00,Ortopedia,Dr. Felipe Nunes,Ultrassom Articular,Em análise,330,44,Realizada,Sim,SulAmérica,Águia Saúde Sul
+C00163,P0013,Beatriz,Ferreira,89,F,São Bernardo,SP,06/29/2025,10:30,Dermatologia,Dr. Caio Martins,Teste Alérgico,Alterado,350,74,Realizada,Sim,Hapvida,Águia Saúde Centro
+C00164,P0035,Carlos,Santos,44,F,Santo André,SP,03/01/2022,16:45,Ginecologia,Dra. Bianca Vieira,Ultrassom Transvaginal,Alterado,280,31,Realizada,Não,Unimed,Águia Saúde Norte
+C00165,P0016,Bruno,Ribeiro,53,M,Rio de Janeiro,SP,31/03/2022,17:45,Ortopedia,Dra. Amanda Torres,Raio-X,Não realizado,300,0,Cancelada,Não,Unimed,Águia Saúde Sul
+C00166,P0025,Rafael,Silva,35,F,Santo André,SP,08/03/2025,08:15,Neurologia,Dr. Henrique Lopes,Tomografia,Em análise,420,38,Realizada,Não,Particular,Águia Saúde Sul
+C00167,P0084,Helena,Gomes,30,F,Belo Horizonte,SP,20/02/2023,09:00,Dermatologia,Dra. Larissa Mendes,Biópsia de Pele,Não se aplica,300,26,Realizada,Não,Particular,Águia Saúde Norte
+C00168,P0023,Vanessa,Silva,89,F,Santo André,SP,06/08/2024,10:00,Pediatria,Dr. João Pedro,Exame de Rotina,Em análise,190,92,Realizada,Sim,NotreDame,Águia Saúde Centro
+C00169,P0016,Bruno,Ribeiro,53,M,Rio de Janeiro,SP,11/04/2022,15:30,Ginecologia,Dra. Tatiane Costa,Mamografia,Não se aplica,260,56,Realizada,Sim,Unimed,Águia Saúde Centro
+C00170,P0009,Nicolas,Oliveira,72,M,São Bernardo,SP,01/04/2023,09:45,Cardiologia,Dr. Roberto Cardoso,Eletrocardiograma,Em análise,370,79,Realizada,Sim,NotreDame,Águia Saúde Centro
+C00171,P0042,Rafael,Almeida,11,M,Santo André,SP,11/11/2023,09:45,Endocrinologia,Dra. Sofia Ramos,TSH,Não se aplica,290,78,Realizada,Não,Particular,Águia Saúde Norte
+C00172,P0008,Mariana,Ferreira,7,M,Santo André,SP,16/03/2023,17:30,Neurologia,Dr. Henrique Lopes,Ressonância,Não realizado,440,0,Cancelada,Não,Particular,Águia Saúde Centro
+C00173,P0158,Patricia,Santos,26,M,São Bernardo,SP,23/04/2024,17:45,Pediatria,Dr. João Pedro,Exame de Rotina,Não se aplica,190,40,Realizada,Sim,NotreDame,Águia Saúde Norte
+C00174,P0052,Igor,Carvalho,18,M,Osasco,SP,18/01/2025,16:45,Oftalmologia,Dr. Vinicius Reis,Acuidade Visual,Não realizado,270,,Cancelada,Não,Amil,Águia Saúde Norte
+C00175,P0145,Guilherme,Costa,56,F,Santo André,SP,23/02/2022,11:15,Neurologia,Dra. Isabela Moura,Eletroencefalograma,Não se aplica,390,12,Realizada,Não,Unimed,Águia Saúde Sul
+C00176,P0060,Igor,Santos,2,M,Belo Horizonte,SP,09/05/2023,10:00,Cardiologia,Dr. Roberto Cardoso,Teste Ergométrico,Não realizado,350,,Falta,Não,Hapvida,Águia Saúde Norte
+C00177,P0038,Daniela,Rocha,47,M,Guarulhos,SP,27/02/2022,16:30,  ginecologia  ,Dra. Tatiane Costa,Mamografia,Não realizado,260,0,Falta,Não,Bradesco Saúde,Águia Saúde Norte
+C00178,P0139,Juliana,Rocha,41,F,São Bernardo,SP,26/04/2022,10:15,Endocrinologia,Dra. Sofia Ramos,TSH,Não realizado,290,,Falta,Não,Hapvida,Águia Saúde Centro
+C00179,P0085,Bruno,Almeida,62,F,Osasco,SP,08/01/2026,10:30,Pediatria,Dra. Camila Freitas,Exame de Rotina,Alterado,190,23,Realizada,Sim,Bradesco Saúde,Águia Saúde Sul
+C00180,P0094,Vanessa,Oliveira,19,F,Curitiba,SP,26/07/2022,11:30,Ginecologia,Dra. Tatiane Costa,Mamografia,Não se aplica,260,60,Realizada,Não,Bradesco Saúde,Águia Saúde Centro
+C00181,P0144,Rafael,Oliveira,89,F,Salvador,SP,25/09/2025,15:15,Psiquiatria,Dr. Samuel Brito,Avaliação Psiquiátrica,Em análise,430,93,Realizada,Sim,NotreDame,Águia Saúde Centro
+C00182,P0001,Guilherme,  souza  ,5,M,Curitiba,SP,08/03/2022,10:30,Psiquiatria,Dr. Samuel Brito,Escala de Depressão,Não realizado,380,0,Falta,Não,Unimed,Águia Saúde Norte
+C00183,P0037,Sabrina,Almeida,62,M,Curitiba,SP,17/10/2023,09:00,Cardiologia,Dr. Roberto Cardoso,Ecocardiograma,Não realizado,370,0,Cancelada,Não,Particular,Águia Saúde Norte
+C00184,P0005,Helena,Barbosa,77,M,São Paulo,SP,15/01/2026,08:45,Ginecologia,Dra. Tatiane Costa,Preventivo,Não realizado,310,0,Cancelada,Não,NotreDame,Águia Saúde Norte
+C00185,P0127,Rafael,Ferreira,41,M,Curitiba,SP,08/09/2024,16:15,Ginecologia,Dra. Tatiane Costa,Preventivo,Não realizado,260,0,Cancelada,Não,Particular,Águia Saúde Centro
+C00186,P0017,Wesley,Ribeiro,29,M,Guarulhos,SP,15/12/2022,17:15,Cardiologia,Dr. Roberto Cardoso,Ecocardiograma,Não realizado,320,0,Falta,Não,Hapvida,Águia Saúde Norte
+C00187,P0153,Wesley,Rocha,83,M,Rio de Janeiro,SP,31/08/2025,09:45,Endocrinologia,Dra. Sofia Ramos,Glicemia,Em análise,320,17,Realizada,Sim,Bradesco Saúde,Águia Saúde Centro
+C00188,P0105,Patricia,Ferreira,12,M,São Paulo,SP,31/07/2023,10:00,Oftalmologia,Dra. Natália Castro,Acuidade Visual,Não realizado,220,,Cancelada,Não,Hapvida,Águia Saúde Centro
+C00189,P0014,Fernanda,Almeida,22,M,Guarulhos,SP,17/09/2025,15:45,Neurologia,Dr. Henrique Lopes,Ressonância,Alterado,420,8,Realizada,Sim,Amil,Águia Saúde Sul
+C00190,P0075,Gabriel,Ferreira,7,M,São Paulo,SP,25/03/2024,14:30,Endocrinologia,Dra. Sofia Ramos,Glicemia,Não realizado,290,,Falta,Não,SulAmérica,Águia Saúde Centro
+C00191,P0095,Matheus,Lima,29,F,Guarulhos,SP,02/04/2022,10:45,Ginecologia,Dra. Bianca Vieira,Ultrassom Transvaginal,Normal,280,39,Realizada,Sim,Bradesco Saúde,Águia Saúde Sul
+C00192,P0043,Bruno,Silva,13,F,Belo Horizonte,SP,11/04/2023,14:45,Ginecologia,Dra. Tatiane Costa,Mamografia,Não realizado,310,,Falta,Não,Bradesco Saúde,Águia Saúde Sul
+C00193,P0061,Igor,Pereira,58,M,Santo André,SP,13/03/2022,14:15,Cardiologia,Dra. Renata Alves,Teste Ergométrico,Não realizado,320,0,Cancelada,Não,Particular,Águia Saúde Centro
+C00194,P0055,Mariana,  gomes  ,22,M,Santo André,SP,10/06/2022,18:45,Ortopedia,Dr. Felipe Nunes,Ressonância,Em análise,280,81,Realizada,Não,Hapvida,Águia Saúde Sul
+C00195,P0036,Igor,Moura,29,F,São Bernardo,SP,30/11/2024,11:00,Neurologia,Dra. Isabela Moura,Ressonância,Alterado,470,58,Realizada,Sim,SulAmérica,Águia Saúde Sul
+C00196,P0151,Wesley,Silva,88,M,São Bernardo,SP,26/07/2022,16:30,Cardiologia,Dr. Roberto Cardoso,Teste Ergométrico,Não se aplica,400,54,Realizada,Não,Particular,Águia Saúde Centro
+C00197,P0010,Mariana,Costa,10,F,Curitiba,SP,21/03/2024,17:30,Psiquiatria,Dr. Samuel Brito,Avaliação Psiquiátrica,Em análise,380,65,Realizada,Não,NotreDame,Águia Saúde Centro
+C00198,P0087,Eduardo,Silva,15,M,Curitiba,SP,03/10/2024,17:00,Dermatologia,Dr. Caio Martins,Dermatoscopia,Não se aplica,300,43,Realizada,Não,Unimed,Águia Saúde Norte
+C00199,P0107,Guilherme,Santos,5,F,Curitiba,SP,09/03/2023,17:45,Cardiologia,Dr. Roberto Cardoso,Ecocardiograma,Não realizado,400,,Falta,Não,NotreDame,Águia Saúde Centro
+C00200,P0132,Igor,Santos,8,M,Belo Horizonte,SP,03/11/2024,11:00,Cardiologia,Dra. Renata Alves,Teste Ergométrico,Normal,350,30,Realizada,Sim,Hapvida,Águia Saúde Centro
+C00201,P0024,Igor,Ribeiro,16,M,Guarulhos,SP,08/08/2024,14:00,Pediatria,Dr. João Pedro,Exame de Rotina,Não se aplica,190,52,Realizada,Não,Unimed,Águia Saúde Centro
+C00202,P0122,Thiago,Costa,12,F,Guarulhos,SP,14/06/2023,16:00,Ginecologia,Dra. Tatiane Costa,Preventivo,Normal,280,54,Realizada,Sim,Bradesco Saúde,Águia Saúde Sul
+C00203,P0055,Mariana,Gomes,22,M,Santo André,SP,27/08/2025,11:00,Pediatria,Dra. Camila Freitas,Exame de Rotina,Não realizado,190,0,Cancelada,Não,Hapvida,Águia Saúde Sul
+C00204,P0045,Nicolas,Silva,51,M,Osasco,SP,30/05/2025,16:30,Clínico Geral,Dr. Marcos Lima,Glicemia,Não realizado,200,,Cancelada,Não,Amil,Águia Saúde Norte
+C00205,P0030,Vanessa,Lima,18,M,Santo André,SP,29/07/2022,08:30,Dermatologia,Dr. Caio Martins,Teste Alérgico,Normal,320,92,Realizada,Não,Unimed,Águia Saúde Centro
+C00206,P0087,Eduardo,Silva,15,M,Curitiba,SP,05/09/2025,16:30,Ginecologia,Dra. Tatiane Costa,Ultrassom Transvaginal,Alterado,260,71,Realizada,Sim,Unimed,Águia Saúde Sul
+C00207,P0104,Gabriel,Barbosa,43,M,Guarulhos,SP,15/10/2024,18:30,Ortopedia,Dr. Felipe Nunes,Ultrassom Articular,Não realizado,330,,Cancelada,Não,Amil,Águia Saúde Sul
+C00208,P0010,Mariana,Costa,10,F,Curitiba,SP,27/01/2026,16:45,Psiquiatria,Dra. Helena Duarte,Escala de Ansiedade,Não realizado,400,,Falta,Não,NotreDame,Águia Saúde Centro
+C00209,P0169,Mariana,Ribeiro,72,M,Osasco,SP,22/08/2024,09:30,Ortopedia,Dra. Amanda Torres,Raio-X,Normal,280,88,Realizada,Sim,Amil,Águia Saúde Norte
+C00210,P0058,Yasmin,Costa,45,F,Salvador,SP,01/02/2024,10:30,Dermatologia,Dr. Caio Martins,Dermatoscopia,Normal,350,65,Realizada,Sim,SulAmérica,Águia Saúde Norte
+C00211,P0050,Wesley,Almeida,76,F,São Bernardo,SP,21/04/2022,17:15,Neurologia,Dra. Isabela Moura,Ressonância,Não se aplica,420,48,Realizada,Não,Particular,Águia Saúde Centro
+C00212,P0081,Gabriel,Rocha,130,M,Osasco,SP,13/11/2023,15:15,Ortopedia,Dr. Felipe Nunes,Ressonância,Não se aplica,300,5,Realizada,Não,Bradesco Saúde,Águia Saúde Centro
+C00213,P0044,Sabrina,Moura,29,M,São Paulo,SP,23/09/2022,15:45,Ortopedia,Dra. Amanda Torres,Raio-X,Não realizado,330,,Cancelada,Não,Unimed,Águia Saúde Norte
+C00214,P0013,Beatriz,Ferreira,89,F,São Bernardo,SP,31/03/2026,16:15,Ginecologia,Dra. Bianca Vieira,Ultrassom Transvaginal,Alterado,230,85,Realizada,Sim,Hapvida,Águia Saúde Sul
+C00215,P0089,Eduardo,Barbosa,87,M,Osasco,SP,20/04/2025,10:00,Cardiologia,Dra. Renata Alves,Teste Ergométrico,Não se aplica,320,42,Realizada,Não,SulAmérica,Águia Saúde Norte
+C00216,P0176,Lucas,Carvalho,42,M,Santo André,SP,17/03/2026,10:45,Ginecologia,Dra. Tatiane Costa,Ultrassom Transvaginal,Alterado,230,33,Realizada,Sim,Particular,Águia Saúde Sul
+C00217,P0006,Fernanda,Rocha,45,M,Belo Horizonte,SP,27/12/2025,15:00,Ortopedia,Dr. Felipe Nunes,Ressonância,Normal,"300,50",73,Realizada,Sim,Unimed,Águia Saúde Sul
+C00218,P0028,Daniela,Martins,41,F,São Paulo,SP,26/08/2022,11:45,Clínico Geral,Dr. Marcos Lima,Check-up Geral,Não realizado,150,,Falta,Não,Unimed,Águia Saúde Norte
+C00219,P0045,Nicolas,Silva,51,M,Osasco,SP,17/09/2025,09:30,Clínico Geral,Dra. Paula Rocha,Glicemia,Não realizado,180,0,Cancelada,Não,Amil,Águia Saúde Sul
+C00220,P0008,Mariana,Ferreira,7,M,Santo André,SP,01/06/2025,10:30,Cardiologia,Dra. Renata Alves,Eletrocardiograma,Não se aplica,350,95,Realizada,Não,Particular,Águia Saúde Centro
+C00221,P0011,Juliana,Oliveira,31,F,Guarulhos,SP,26/04/2023,08:00,Pediatria,Dr. João Pedro,Exame de Rotina,Não realizado,190,,Falta,Não,Amil,Águia Saúde Centro
+C00222,P0024,Igor,Ribeiro,16,M,Guarulhos,SP,12/08/2025,10:30,Cardiologia,Dr. Roberto Cardoso,Ecocardiograma,Não realizado,370,0,Cancelada,Não,Unimed,Águia Saúde Centro
+C00223,P0045,Nicolas,Silva,51,M,Osasco,SP,03/10/2023,11:00,Dermatologia,  dr. caio martins  ,Teste Alérgico,Alterado,270,6,Realizada,Sim,Amil,Águia Saúde Norte
+C00224,P0092,Thiago,Moura,82,F,Salvador,SP,10/07/2022,11:30,Psiquiatria,Dr. Samuel Brito,Escala de Depressão,Não se aplica,380,56,Realizada,Não,Bradesco Saúde,Águia Saúde Norte
+C00225,P0099,Patricia,Almeida,64,F,Salvador,SP,08/12/2022,09:00,Endocrinologia,Dr. André Teixeira,Insulina,Não se aplica,320,58,Realizada,Não,Bradesco Saúde,Águia Saúde Centro
+C00226,P0157,Lucas,Souza,53,F,Santo André,SP,29/01/2026,18:15,Ginecologia,Dra. Bianca Vieira,Mamografia,Não realizado,310,0,Cancelada,Não,Bradesco Saúde,Águia Saúde Norte
+C00227,P0017,Wesley,Ribeiro,29,M,Guarulhos,SP,10/20/2025,14:15,Ginecologia,Dra. Bianca Vieira,Mamografia,Não realizado,280,0,Falta,Não,Hapvida,Águia Saúde Norte
+C00228,P0170,Gabriel,Almeida,75,M,Curitiba,SP,17/10/2025,15:15,Endocrinologia,Dr. André Teixeira,Insulina,Alterado,290,87,Realizada,Não,NotreDame,Águia Saúde Norte
+C00229,P0032,Beatriz,Martins,58,M,Rio de Janeiro,SP,24/07/2023,08:15,Ginecologia,Dra. Bianca Vieira,Ultrassom Transvaginal,Não realizado,310,0,Cancelada,Não,Unimed,Águia Saúde Centro
+C00230,P0118,Lucas,Almeida,idade_desconhecida,M,Osasco,SP,17/10/2024,11:00,Psiquiatria,Dr. Samuel Brito,Avaliação Psiquiátrica,Não se aplica,430,18,Realizada,Não,  unimed  ,Águia Saúde Centro
+C00231,P0143,Juliana,Santos,130,M,Salvador,SP,25/02/2025,10:45,Cardiologia,  dra. renata alves  ,Teste Ergométrico,Alterado,370,11,Realizada,Não,Hapvida,Águia Saúde Norte
+C00232,P0144,Rafael,Oliveira,89,F,Salvador,SP,07/09/2025,11:45,Psiquiatria,Dr. Samuel Brito,Escala de Depressão,Alterado,350,89,Realizada,Sim,NotreDame,Águia Saúde Norte
+C00233,P0091,Sabrina,Barbosa,35,F,Salvador,SP,06/08/2022,08:15,Dermatologia,Dr. Caio Martins,Teste Alérgico,Normal,350,57,Realizada,Não,NotreDame,Águia Saúde Sul
+C00234,P0026,Guilherme,Gomes,83,F,Belo Horizonte,SP,07/01/2026,11:45,Pediatria,Dr. João Pedro,Hemograma Infantil,Não realizado,erro,0,Falta,Não,Amil,Águia Saúde Norte
+C00235,P0118,Lucas,Almeida,13,M,Osasco,SP,09/01/2022,14:00,Oftalmologia,Dr. Vinicius Reis,Tonometria,Não realizado,300,,Falta,Não,Unimed,Águia Saúde Sul
+C00236,P0046,Patricia,Moura,21,F,Salvador,SP,04/03/2024,15:30,Ortopedia,Dr. Felipe Nunes,Raio-X,Não realizado,330,0,Cancelada,Não,Unimed,Águia Saúde Norte
+C00237,P0102,Wesley,Silva,12,M,Belo Horizonte,SP,10/10/2022,11:30,Dermatologia,Dr. Caio Martins,Biópsia de Pele,Não realizado,320,0,Falta,Não,NotreDame,Águia Saúde Centro
+C00238,P0054,Gabriel,Ferreira,18,M,Rio de Janeiro,SP,29/09/2022,18:15,Dermatologia,Dr. Caio Martins,Teste Alérgico,Não se aplica,320,50,Realizada,Não,Unimed,Águia Saúde Sul
+C00239,P0028,Daniela,Martins,41,F,São Paulo,SP,20/02/2024,09:00,Clínico Geral,Dr. Marcos Lima,Hemograma,Em análise,180,25,Realizada,Não,Unimed,Águia Saúde Centro
+C00240,P0016,Bruno,Ribeiro,53,M,Rio de Janeiro,SP,08/03/2022,11:45,Dermatologia,Dra. Larissa Mendes,Teste Alérgico,Não realizado,270,0,Falta,Não,Unimed,Águia Saúde Sul
+C00241,P0166,Camila,Lima,10,M,Guarulhos,SP,22/09/2025,08:45,Pediatria,Dr. João Pedro,Teste Alérgico,Não realizado,270,,Cancelada,Não,Amil,Águia Saúde Sul
+C00242,P0017,Wesley,Ribeiro,29,M,Guarulhos,SP,21/07/2025,16:30,Pediatria,Dr. João Pedro,Hemograma Infantil,Não se aplica,220,42,Realizada,Sim,Hapvida,Águia Saúde Sul
+C00243,P0012,Rafael,Martins,22,M,Campinas,SP,25/03/2022,11:30,Oftalmologia,Dr. Vinicius Reis,Tonometria,Em análise,250,79,Realizada,Sim,Unimed,Águia Saúde Norte
+C00244,P0120,Lucas,Pereira,64,F,Campinas,SP,23/10/2023,15:30,Ortopedia,Dr. Felipe Nunes,Raio-X,Não realizado,330,,Falta,Não,NotreDame,Águia Saúde Centro
+C00245,P0082,Rafael,Costa,67,M,Belo Horizonte,SP,23/11/2022,11:45,Ortopedia,Dr. Felipe Nunes,Ultrassom Articular,Alterado,250,33,Realizada,Não,Hapvida,Águia Saúde Norte
+C00246,P0040,Camila,Ribeiro,15,F,Curitiba,SP,21/03/2026,18:00,Oftalmologia,Dra. Natália Castro,Acuidade Visual,Alterado,220,62,Realizada,Sim,Unimed,Águia Saúde Centro
+C00247,P0175,Sabrina,Ferreira,45,M,Rio de Janeiro,SP,10/06/2023,14:30,Neurologia,Dr. Henrique Lopes,Ressonância,Não realizado,390,,Falta,Não,NotreDame,Águia Saúde Sul
+C00248,P0131,Mariana,Pereira,40,F,Santo André,SP,30/01/2023,11:00,Clínico Geral,Dra. Paula Rocha,Check-up Geral,Normal,150,73,Realizada,Sim,Unimed,Águia Saúde Centro
+C00249,P0172,Beatriz,Lima,65,F,Belo Horizonte,SP,26/02/2023,14:45,Pediatria,Dr. João Pedro,Hemograma Infantil,Não se aplica,190,8,Realizada,Não,SulAmérica,Águia Saúde Centro
+C00250,P0012,Rafael,Martins,22,M,Campinas,SP,12/04/2023,17:45,Dermatologia,Dra. Larissa Mendes,Teste Alérgico,Não realizado,350,,Cancelada,Não,Unimed,Águia Saúde Norte
+C00251,P0044,Sabrina,Moura,29,M,São Paulo,SP,15/01/2026,15:00,Cardiologia,Dr. Roberto Cardoso,Teste Ergométrico,Normal,320,69,Realizada,Não,Unimed,Águia Saúde Sul
+C00252,P0078,Juliana,Rocha,43,M,Salvador,SP,20/03/2024,16:00,Dermatologia,Dr. Caio Martins,Dermatoscopia,Alterado,350,73,Realizada,Sim,SulAmérica,Águia Saúde Sul
+C00253,P0101,Fernanda,Barbosa,18,F,Guarulhos,SP,23/10/2022,10:30,Oftalmologia,Dra. Natália Castro,Acuidade Visual,Não realizado,220,0,Falta,Não,SulAmérica,Águia Saúde Centro
+C00254,P0039,Camila,Santos,88,F,São Paulo,SP,07/03/2023,16:30,Neurologia,Dr. Henrique Lopes,Ressonância,Não realizado,420,0,Cancelada,Não,Bradesco Saúde,Águia Saúde Centro
+C00255,P0017,Wesley,Ribeiro,29,M,Guarulhos,SP,06/10/2025,16:00,Pediatria,Dra. Camila Freitas,Hemograma Infantil,Não realizado,270,0,Falta,Não,Hapvida,Águia Saúde Norte
+C00256,P0007,Lucas,Souza,13,M,Rio de Janeiro,SP,02/01/2024,09:15,Pediatria,Dr. João Pedro,Exame de Rotina,Normal,190,84,Realizada,Sim,Amil,Águia Saúde Norte
+C00257,P0125,Helena,Gomes,86,M,Osasco,SP,11/04/2025,09:30,Psiquiatria,Dr. Samuel Brito,Escala de Depressão,Não realizado,400,0,Cancelada,Não,SulAmérica,Águia Saúde Centro
+C00258,P0015,Guilherme,Almeida,89,M,São Paulo,SP,03/10/2022,15:30,Neurologia,Dra. Isabela Moura,Ressonância,Não realizado,470,,Cancelada,Não,Unimed,Águia Saúde Norte
+C00259,P0079,Eduardo,Costa,55,M,Belo Horizonte,SP,27/05/2025,09:30,Cardiologia,Dr. Roberto Cardoso,Teste Ergométrico,Não realizado,350,0,Falta,Não,SulAmérica,Águia Saúde Norte
+C00260,P0005,Helena,Barbosa,77,M,São Paulo,SP,31/03/2025,11:15,Clínico Geral,Dr. Marcos Lima,Check-up Geral,Não realizado,150,,Falta,Não,NotreDame,Águia Saúde Sul
+C00261,P0139,Juliana,Rocha,41,F,São Bernardo,SP,03/04/2023,17:30,Ortopedia,Dra. Amanda Torres,Ressonância,Não realizado,280,0,Cancelada,Não,Hapvida,Águia Saúde Norte
+C00262,P0094,Vanessa,Oliveira,19,F,Curitiba,SP,15/10/2022,11:15,Pediatria,Dra. Camila Freitas,Teste Alérgico,Não realizado,220,,Cancelada,Não,Bradesco Saúde,Águia Saúde Centro
+C00263,P0057,Igor,Souza,15,F,Salvador,SP,27/01/2024,10:15,Pediatria,Dra. Camila Freitas,Exame de Rotina,Não realizado,240,,Cancelada,Não,Amil,Águia Saúde Norte
+C00264,P0042,Rafael,Almeida,11,M,Santo André,SP,03/12/2024,15:30,Ginecologia,Dra. Bianca Vieira,Mamografia,Não realizado,-100,0,Falta,Não,Particular,Águia Saúde Norte
+C00265,P0168,Wesley,Moura,21,M,Santo André,SP,31/05/2023,11:15,Psiquiatria,Dra. Helena Duarte,Escala de Depressão,Não se aplica,430,49,Realizada,Não,Bradesco Saúde,Águia Saúde Sul
+C00266,P0002,Eduardo,Souza,88,F,São Bernardo,SP,17/04/2023,09:30,Ortopedia,Dra. Amanda Torres,Raio-X,Alterado,280,28,Realizada,Não,Bradesco Saúde,Águia Saúde Sul
+C00267,P0031,Igor,Rocha,29,F,Salvador,SP,21/08/2022,14:45,Neurologia,Dra. Isabela Moura,Tomografia,,470,80,Realizada,Não,Bradesco Saúde,Águia Saúde Centro
+C00268,P0037,Sabrina,Almeida,62,M,Curitiba,SP,13/07/2025,14:15,Psiquiatria,Dra. Helena Duarte,Avaliação Psiquiátrica,Alterado,350,38,Realizada,Não,Particular,Águia Saúde Sul
+C00269,P0145,Guilherme,Costa,56,F,Santo André,SP,08/07/2024,15:45,Dermatologia,Dra. Larissa Mendes,Biópsia de Pele,Não se aplica,350,33,Realizada,Sim,Unimed,Águia Saúde Sul
+C00270,P0047,Bruno,Santos,42,F,São Paulo,SP,23/01/2026,15:45,Oftalmologia,Dra. Natália Castro,Mapeamento de Retina,Não se aplica,220,53,Realizada,Sim,SulAmérica,Águia Saúde Centro
+C00271,P0033,Helena,Oliveira,45,F,São Bernardo,SP,17/07/2022,10:00,Neurologia,Dr. Henrique Lopes,Tomografia,Alterado,390,66,Realizada,Sim,SulAmérica,Águia Saúde Sul
+C00272,P0167,Thiago,Ferreira,2,M,Salvador,SP,29/11/2025,14:15,Neurologia,Dra. Isabela Moura,Eletroencefalograma,Não realizado,470,,Cancelada,Não,NotreDame,Águia Saúde Sul
+C00273,P0179,Matheus,Gomes,5,F,Campinas,SP,04/09/2024,16:00,Neurologia,Dr. Henrique Lopes,Ressonância,Não realizado,440,,Falta,Não,NotreDame,Águia Saúde Norte
+C00274,P0001,Guilherme,Souza,5,M,Curitiba,SP,15/01/2022,11:15,Psiquiatria,Dra. Helena Duarte,Escala de Depressão,Não realizado,400,,Cancelada,Não,Unimed,Águia Saúde Centro
+C00275,P0040,Camila,Ribeiro,15,F,Curitiba,SP,02/01/2025,11:30,Psiquiatria,Dr. Samuel Brito,Escala de Ansiedade,Não realizado,400,0,Cancelada,Não,Unimed,Águia Saúde Norte
+C00276,P0142,Fernanda,Silva,54,M,São Bernardo,SP,19/02/2025,14:30,Endocrinologia,Dra. Sofia Ramos,Glicemia,Não realizado,340,,Falta,Não,Bradesco Saúde,Águia Saúde Sul
+C00277,P0102,Wesley,Silva,12,M,Belo Horizonte,SP,03/12/2025,18:00,Cardiologia,Dr. Roberto Cardoso,Ecocardiograma,Não realizado,350,,Falta,Não,NotreDame,Águia Saúde Norte
+C00278,P0141,Carlos,Pereira,32,F,Santo André,SP,26/07/2025,08:00,Clínico Geral,Dr. Marcos Lima,Glicemia,Não realizado,180,,Cancelada,Não,Particular,Águia Saúde Centro
+C00279,P0024,Igor,Ribeiro,16,M,Guarulhos,SP,27/02/2024,17:45,Cardiologia,Dr. Roberto Cardoso,Teste Ergométrico,Não realizado,370,0,Falta,Não,Unimed,Águia Saúde Centro
+C00280,P0164,Igor,Rocha,63,M,Curitiba,SP,27/11/2024,10:00,Clínico Geral,Dr. Marcos Lima,Check-up Geral,Não realizado,180,0,Falta,Não,Bradesco Saúde,Águia Saúde Sul
+C00281,P0010,Mariana,Costa,10,F,Curitiba,SP,20/07/2023,16:30,Clínico Geral,Dr. Marcos Lima,Hemograma,Não realizado,230,0,Cancelada,Não,NotreDame,Águia Saúde Sul
+C00282,P0004,Yasmin,Silva,73,F,Santo André,SP,08/06/2023,16:30,Cardiologia,Dr. Roberto Cardoso,Teste Ergométrico,Alterado,370,33,Realizada,Não,Bradesco Saúde,Águia Saúde Norte
+C00283,P0012,Rafael,Martins,22,M,Campinas,SP,29/05/2022,14:30,Neurologia,Dr. Henrique Lopes,Tomografia,Não realizado,390,,Falta,Não,Unimed,Águia Saúde Sul
+C00284,P0029,Wesley,Oliveira,12,M,Rio de Janeiro,SP,01/04/2026,11:45,Neurologia,Dra. Isabela Moura,Eletroencefalograma,Não realizado,470,0,Falta,Não,NotreDame,Águia Saúde Norte
+C00285,P0025,Rafael,Silva,-5,F,Santo André,SP,24/04/2024,18:00,Pediatria,Dra. Camila Freitas,Exame de Rotina,Normal,240,41,Realizada,Não,Particular,Águia Saúde Sul
+C00286,P0012,  rafael  ,Martins,22,M,Campinas,SP,24/03/2023,17:30,Endocrinologia,Dr. André Teixeira,Glicemia,Alterado,320,68,Realizada,Sim,Unimed,Águia Saúde Sul
+C00287,P0062,Daniela,Oliveira,21,F,Campinas,SP,27/05/2023,16:30,Pediatria,Dra. Camila Freitas,Hemograma Infantil,Normal,220,20,Realizada,Não,SulAmérica,Águia Saúde Sul
+C00288,P0002,Eduardo,Souza,88,F,São Bernardo,SP,31/01/2024,15:45,Oftalmologia,Dr. Vinicius Reis,Tonometria,Não realizado,270,0,Cancelada,Não,Bradesco Saúde,Águia Saúde Sul
+C00289,P0072,Ana,Souza,35,F,São Bernardo,SP,12/12/2024,16:45,Psiquiatria,Dra. Helena Duarte,Avaliação Psiquiátrica,Não realizado,350,,Falta,Não,Amil,Águia Saúde Norte
+C00290,P0176,Lucas,Carvalho,42,M,Santo André,SP,27/11/2024,11:00,Endocrinologia,Dra. Sofia Ramos,Insulina,Normal,290,53,Realizada,Não,Particular,Águia Saúde Norte
+C00291,P0157,Lucas,Souza,53,F,Santo André,SP,06/07/2023,14:30,Ortopedia,Dra. Amanda Torres,Raio-X,Não se aplica,300,68,Realizada,Sim,Bradesco Saúde,Águia Saúde Norte
+C00292,P0180,Bruno,Gomes,47,M,Guarulhos,SP,12/07/2024,10:15,Ginecologia,Dra. Tatiane Costa,Ultrassom Transvaginal,Alterado,260,39,Realizada,Não,Unimed,Águia Saúde Norte
+C00293,P0010,Mariana,Costa,10,F,Curitiba,SP,13/05/2024,14:30,Endocrinologia,Dra. Sofia Ramos,TSH,Normal,370,37,Realizada,Não,NotreDame,Águia Saúde Centro
+C00294,P0014,Fernanda,Almeida,22,M,Guarulhos,SP,17/07/2022,11:30,Dermatologia,Dr. Caio Martins,Teste Alérgico,Em análise,320,51,Realizada,Não,  amil  ,Águia Saúde Centro
+C00295,P0044,Sabrina,Moura,29,M,São Paulo,SP,25/03/2025,15:15,Psiquiatria,Dra. Helena Duarte,Escala de Depressão,Não se aplica,400,46,Realizada,Não,Unimed,Águia Saúde Centro
+C00296,P0098,Sabrina,  silva  ,47,M,Guarulhos,SP,08/04/2025,16:30,Endocrinologia,Dra. Sofia Ramos,TSH,Não realizado,370,,Falta,Não,NotreDame,Águia Saúde Centro
+C00297,P0015,Guilherme,Almeida,89,M,São Paulo,SP,20/08/2023,16:45,Ginecologia,Dra. Tatiane Costa,Mamografia,Não realizado,280,,Cancelada,Não,Unimed,Águia Saúde Sul
+C00298,P0151,Wesley,Silva,88,M,São Bernardo,SP,12/01/2023,17:15,Endocrinologia,Dr. André Teixeira,TSH,Normal,320,94,Realizada,Sim,Particular,Águia Saúde Centro
+C00299,P0005,Helena,Barbosa,77,M,São Paulo,SP,04/28/2026,11:00,Endocrinologia,Dra. Sofia Ramos,TSH,Alterado,290,84,Realizada,Sim,NotreDame,Águia Saúde Sul
+C00300,P0100,Sabrina,Silva,51,M,,SP,07/07/2025,09:15,Pediatria,Dr. João Pedro,Exame de Rotina,Em análise,-100,89,Realizada,Não,Hapvida,Águia Saúde Norte
+C00301,P0120,Lucas,Pereira,64,F,Campinas,SP,30/06/2024,09:15,Oftalmologia,Dra. Natália Castro,Acuidade Visual,Não realizado,300,,Falta,Não,NotreDame,Águia Saúde Sul
+C00302,P0164,Igor,Rocha,63,M,Curitiba,SP,01/10/2025,10:00,Dermatologia,Dr. Caio Martins,Dermatoscopia,Não se aplica,350,51,Realizada,Não,Bradesco Saúde,Águia Saúde Centro
+C00303,P0034,Helena,Almeida,2,F,São Paulo,SP,18/08/2024,14:45,Ortopedia,Dra. Amanda Torres,Ressonância,Não se aplica,330,6,Realizada,Não,Unimed,Águia Saúde Sul
+C00304,P0060,Igor,Santos,2,M,Belo Horizonte,SP,23/04/2024,17:45,Oftalmologia,Dra. Natália Castro,Mapeamento de Retina,Não se aplica,300,25,Realizada,Não,Hapvida,Águia Saúde Centro
+C00305,P0041,Vanessa,Barbosa,19,M,Belo Horizonte,SP,21/08/2025,16:30,Pediatria,Dr. João Pedro,Exame de Rotina,Alterado,270,13,Realizada,Sim,Amil,Águia Saúde Norte
+C00306,P0029,Wesley,Oliveira,12,M,Rio de Janeiro,SP,05/12/2025,15:15,Psiquiatria,Dr. Samuel Brito,Escala de Ansiedade,Normal,400,24,Realizada,Sim,NotreDame,Águia Saúde Centro
+C00307,P0009,Nicolas,Oliveira,72,M,São Bernardo,SP,04/07/2022,09:45,Endocrinologia,Dra. Sofia Ramos,TSH,Em análise,320,58,Realizada,Não,NotreDame,Águia Saúde Norte
+C00308,P0119,Rafael,Carvalho,45,F,Osasco,SP,18/03/2026,18:00,Clínico Geral,Dra. Paula Rocha,Hemograma,Não realizado,200,0,Cancelada,Não,NotreDame,Águia Saúde Sul
+C00309,P0017,Wesley,Ribeiro,29,M,Guarulhos,SP,23/04/2026,16:45,Neurologia,Dr. Henrique Lopes,Eletroencefalograma,Alterado,470,9,Realizada,Não,Hapvida,Águia Saúde Sul
+C00310,P0025,Rafael,Silva,35,F,Santo André,SP,27/10/2025,18:30,Pediatria,Dr. João Pedro,Exame de Rotina,Normal,220,75,Realizada,Não,Particular,Águia Saúde Norte
+C00311,P0024,Igor,Ribeiro,16,M,Guarulhos,SP,29/04/2023,15:30,Clínico Geral,Dr. Marcos Lima,Hemograma,Normal,erro,40,Realizada,Não,Unimed,Águia Saúde Centro
+C00312,P0003,Bruno,Silva,13,F,Curitiba,SP,06/05/2025,09:00,Psiquiatria,Dr. Samuel Brito,Escala de Depressão,Normal,380,68,Realizada,Não,SulAmérica,Águia Saúde Sul
+C00313,P0042,Rafael,Almeida,11,M,Santo André,SP,09/26/2024,10:30,Ortopedia,Dr. Felipe Nunes,Raio-X,Não se aplica,330,7,Realizada,Não,Particular,Águia Saúde Sul
+C00314,P0003,Bruno,Silva,13,F,Curitiba,SP,27/08/2023,14:45,Endocrinologia,Dr. André Teixeira,Insulina,Não realizado,320,0,Falta,Não,SulAmérica,Águia Saúde Sul
+C00315,P0090,Camila,Rocha,72,M,Belo Horizonte,SP,02/09/2025,09:15,Endocrinologia,Dr. André Teixeira,Insulina,Em análise,370,38,Realizada,Não,Hapvida,Águia Saúde Centro
+C00316,P0164,Igor,Rocha,63,M,Curitiba,SP,16/01/2024,16:15,Ortopedia,Dr. Felipe Nunes,Ultrassom Articular,Não se aplica,300,89,Realizada,Sim,Bradesco Saúde,Águia Saúde Sul
+C00317,P0175,Sabrina,Ferreira,130,M,Rio de Janeiro,SP,03/08/2023,11:30,Oftalmologia,Dr. Vinicius Reis,Acuidade Visual,Normal,220,71,Realizada,Sim,NotreDame,Águia Saúde Centro
+C00318,P0046,Patricia,Moura,21,F,Salvador,SP,28/01/2023,09:45,Pediatria,Dra. Camila Freitas,Exame de Rotina,Não realizado,270,,Falta,Não,Unimed,Águia Saúde Centro
+C00319,P0005,Helena,Barbosa,77,M,São Paulo,SP,03/10/2024,17:00,Clínico Geral,Dr. Marcos Lima,Check-up Geral,Não se aplica,230,51,Realizada,Não,NotreDame,Águia Saúde Sul
+C00320,P0015,Guilherme,Almeida,89,M,São Paulo,SP,25/05/2022,16:00,Dermatologia,Dra. Larissa Mendes,Teste Alérgico,Não realizado,300,0,Falta,Não,Unimed,Águia Saúde Centro
+C00321,P0060,Igor,Santos,2,M,Belo Horizonte,SP,07/09/2025,10:15,Pediatria,Dra. Camila Freitas,Teste Alérgico,Em análise,270,86,Realizada,Não,Hapvida,Águia Saúde Sul
+C00322,P0171,Patricia,Santos,42,M,Guarulhos,SP,31/01/2025,11:30,Cardiologia,Dr. Roberto Cardoso,Eletrocardiograma,Não realizado,350,,Falta,Não,Bradesco Saúde,Águia Saúde Norte
+C00323,P0081,Gabriel,Rocha,76,M,Osasco,SP,15/04/2026,15:30,Ginecologia,Dra. Tatiane Costa,Ultrassom Transvaginal,Não realizado,260,0,Falta,Não,Bradesco Saúde,Águia Saúde Norte
+C00324,P0141,Carlos,Pereira,32,F,Santo André,SP,05/07/2024,18:00,Dermatologia,Dr. Caio Martins,Dermatoscopia,Normal,270,81,Realizada,Sim,Particular,Águia Saúde Norte
+C00325,P0002,Eduardo,Souza,88,F,São Bernardo,SP,14/02/2022,16:30,Pediatria,Dra. Camila Freitas,Exame de Rotina,Não se aplica,220,9,Realizada,Não,Bradesco Saúde,Águia Saúde Centro
+C00326,P0038,  daniela  ,Rocha,47,M,Guarulhos,SP,08/09/2023,09:45,Pediatria,Dra. Camila Freitas,Exame de Rotina,Não se aplica,220,46,Realizada,Sim,Bradesco Saúde,Águia Saúde Norte
+C00327,P0177,Yasmin,Oliveira,32,M,Curitiba,SP,05/02/2026,16:45,Cardiologia,Dra. Renata Alves,Eletrocardiograma,Em análise,320,47,Realizada,Não,Hapvida,Águia Saúde Norte
+C00328,P0031,Igor,Rocha,29,F,  salvador  ,SP,18/07/2025,11:30,Pediatria,Dra. Camila Freitas,Teste Alérgico,Alterado,190,74,Realizada,Não,Bradesco Saúde,Águia Saúde Sul
+C00329,P0004,Yasmin,Silva,73,F,Santo André,SP,24/03/2025,14:15,Neurologia,Dra. Isabela Moura,Tomografia,Alterado,470,55,Realizada,Sim,Bradesco Saúde,Águia Saúde Norte
+C00330,P0022,Carlos,Carvalho,50,M,Santo André,SP,24/06/2022,11:45,Clínico Geral,Dra. Paula Rocha,Glicemia,Alterado,180,66,Realizada,Não,Amil,Águia Saúde Norte
+C00331,P0167,Thiago,Ferreira,2,M,Salvador,SP,27/05/2022,10:45,Oftalmologia,Dr. Vinicius Reis,Mapeamento de Retina,Não realizado,270,0,Falta,Não,NotreDame,Águia Saúde Centro
+C00332,P0172,Beatriz,Lima,65,F,Belo Horizonte,SP,19/10/2023,11:00,Ginecologia,Dra. Tatiane Costa,Preventivo,Não se aplica,280,49,Realizada,Sim,SulAmérica,Águia Saúde Norte
+C00333,P0012,Rafael,Martins,22,M,Campinas,SP,05/02/2024,09:00,Pediatria,Dra. Camila Freitas,Teste Alérgico,Alterado,190,36,Realizada,Não,Unimed,Águia Saúde Centro
+C00334,P0088,Matheus,Barbosa,8,F,Rio de Janeiro,SP,22/08/2024,08:15,Cardiologia,Dra. Renata Alves,Ecocardiograma,Em análise,350,74,Realizada,Não,Bradesco Saúde,Águia Saúde Sul
+C00335,P0037,Sabrina,Almeida,62,M,Curitiba,SP,20/09/2025,14:30,Clínico Geral,Dra. Paula Rocha,Check-up Geral,Alterado,180,41,Realizada,Não,Particular,Águia Saúde Centro
+C00336,P0120,Lucas,Pereira,64,F,Campinas,SP,14/09/2025,10:30,Clínico Geral,Dr. Marcos Lima,Glicemia,Não se aplica,150,42,Realizada,Sim,NotreDame,Águia Saúde Norte
+C00337,P0131,Mariana,Pereira,40,F,Santo André,SP,07/05/2025,14:15,Cardiologia,Dra. Renata Alves,Ecocardiograma,Não realizado,350,,Falta,Não,Unimed,Águia Saúde Sul
+C00338,P0034,Helena,Almeida,2,F,São Paulo,SP,16/03/2024,16:00,Dermatologia,Dr. Caio Martins,Dermatoscopia,Em análise,320,50,Realizada,Sim,Unimed,Águia Saúde Sul
+C00339,P0071,Carlos,Ferreira,46,M,Santo André,SP,10/02/2025,18:15,Dermatologia,Dr. Caio Martins,Biópsia de Pele,Alterado,300,55,Realizada,Sim,Amil,Águia Saúde Sul
+C00340,P0098,Sabrina,Silva,47,M,Guarulhos,SP,08/05/2023,15:45,Psiquiatria,Dra. Helena Duarte,Escala de Ansiedade,Não realizado,400,,Falta,Não,NotreDame,Águia Saúde Norte
+C00341,P0042,Rafael,Almeida,11,M,Santo André,SP,25/09/2023,15:15,Ortopedia,Dr. Felipe Nunes,Raio-X,Alterado,330,88,Realizada,Não,Particular,Águia Saúde Centro
+C00342,P0143,Juliana,Santos,31,M,Salvador,SP,26/10/2022,16:30,Cardiologia,Dr. Roberto Cardoso,Ecocardiograma,Não realizado,400,,Cancelada,Não,Hapvida,Águia Saúde Norte
+C00343,P0164,  igor  ,Rocha,63,M,Curitiba,SP,07/08/2022,09:00,Dermatologia,Dra. Larissa Mendes,Biópsia de Pele,Não realizado,320,0,Falta,Não,Bradesco Saúde,Águia Saúde Sul
+C00344,P0002,Eduardo,Souza,88,F,São Bernardo,SP,03/09/2024,09:45,Ginecologia,Dra. Bianca Vieira,Mamografia,Não se aplica,280,54,Realizada,Não,Bradesco Saúde,Águia Saúde Centro
+C00345,P0003,Bruno,Silva,13,F,Curitiba,SP,25/04/2024,10:15,Neurologia,Dr. Henrique Lopes,Ressonância,Não se aplica,420,27,Realizada,Não,SulAmérica,Águia Saúde Sul
+C00346,P0084,Helena,Gomes,30,F,Belo Horizonte,SP,27/03/2022,15:45,Pediatria,Dr. João Pedro,Exame de Rotina,Não realizado,240,0,Cancelada,Não,Particular,Águia Saúde Sul
+C00347,P0028,Daniela,Martins,41,F,São Paulo,SP,06/01/2025,11:00,Clínico Geral,Dr. Marcos Lima,Check-up Geral,Não realizado,230,0,Falta,Não,Unimed,Águia Saúde Centro
+C00348,P0075,Gabriel,Ferreira,7,M,São Paulo,SP,07/12/2022,11:00,Dermatologia,Dr. Caio Martins,Dermatoscopia,Não realizado,300,,Cancelada,Não,SulAmérica,Águia Saúde Centro
+C00349,P0038,Daniela,Rocha,47,M,Guarulhos,SP,26/04/2024,11:00,Oftalmologia,Dr. Vinicius Reis,Tonometria,Não realizado,250,0,Cancelada,Não,Bradesco Saúde,Águia Saúde Norte
+C00350,P0045,Nicolas,Silva,51,M,Osasco,SP,22/08/2022,16:30,Ortopedia,Dr. Felipe Nunes,Raio-X,Não realizado,250,,Falta,Não,Amil,Águia Saúde Sul
+C00351,P0131,Mariana,Pereira,-5,F,Santo André,SP,19/02/2024,08:15,Ortopedia,Dra. Amanda Torres,Ultrassom Articular,Não realizado,300,0,Falta,Não,Unimed,Águia Saúde Centro
+C00352,P0004,Yasmin,Silva,73,F,Santo André,SP,04/02/2026,16:45,Neurologia,Dra. Isabela Moura,Ressonância,Alterado,440,20,Realizada,Sim,Bradesco Saúde,Águia Saúde Centro
+C00353,P0160,Eduardo,Gomes,58,M,Rio de Janeiro,SP,18/10/2024,14:00,Clínico Geral,Dra. Paula Rocha,Glicemia,Não se aplica,230,32,Realizada,Não,Particular,Águia Saúde Norte
+C00354,P0039,Camila,Santos,88,F,São Paulo,SP,24/07/2023,15:15,Clínico Geral,Dr. Marcos Lima,Check-up Geral,Normal,150,23,Realizada,Não,Bradesco Saúde,Águia Saúde Centro
+C00355,P0038,Daniela,Rocha,47,M,Guarulhos,SP,29/06/2022,08:45,Psiquiatria,Dr. Samuel Brito,Escala de Ansiedade,Em análise,380,91,Realizada,Sim,Bradesco Saúde,Águia Saúde Norte
+C00356,P0149,Sabrina,Barbosa,12,F,Guarulhos,SP,24/10/2023,11:45,Clínico Geral,Dr. Marcos Lima,Glicemia,Não realizado,150,0,Cancelada,Não,Hapvida,Águia Saúde Norte
+C00357,P0045,Nicolas,Silva,51,M,Osasco,SP,27/04/2024,14:15,Dermatologia,Dr. Caio Martins,Teste Alérgico,Normal,270,78,Realizada,Não,Amil,Águia Saúde Sul
+C00358,P0177,Yasmin,Oliveira,32,M,Curitiba,SP,11/10/2023,10:30,Dermatologia,Dr. Caio Martins,Teste Alérgico,Não realizado,300,,Falta,Não,Hapvida,Águia Saúde Sul
+C00359,P0162,Vanessa,Rocha,13,F,Rio de Janeiro,SP,18/08/2023,18:00,Ortopedia,Dr. Felipe Nunes,Ultrassom Articular,Normal,250,64,Realizada,Sim,Bradesco Saúde,Águia Saúde Sul
+C00360,P0107,Guilherme,Santos,5,F,Curitiba,SP,29/07/2025,10:15,Ginecologia,Dra. Tatiane Costa,Mamografia,Em análise,280,13,Realizada,Não,NotreDame,Águia Saúde Sul
+C00361,P0141,Carlos,Pereira,32,F,Santo André,SP,14/11/2023,11:00,Clínico Geral,Dr. Marcos Lima,Check-up Geral,Em análise,180,47,Realizada,Não,Particular,Águia Saúde Norte
+C00362,P0010,Mariana,Costa,10,F,Curitiba,SP,01/08/2024,17:30,Endocrinologia,Dra. Sofia Ramos,Insulina,Não realizado,370,0,Cancelada,Não,NotreDame,Águia Saúde Sul
+C00363,P0077,Lucas,Ribeiro,86,F,Salvador,SP,28/03/2025,15:30,Ginecologia,Dra. Bianca Vieira,Preventivo,Normal,230,40,Realizada,Não,SulAmérica,Águia Saúde Norte
+C00364,P0161,Guilherme,Almeida,22,M,Santo André,SP,03/05/2025,09:30,Ortopedia,Dra. Amanda Torres,Raio-X,Não se aplica,300,39,Realizada,Sim,Particular,Águia Saúde Norte
+C00365,P0061,Igor,Pereira,58,M,Santo André,SP,12/09/2023,10:30,Dermatologia,Dra. Larissa Mendes,Teste Alérgico,Não se aplica,270,16,Realizada,Sim,Particular,Águia Saúde Norte
+C00366,P0022,Carlos,Carvalho,50,M,Santo André,SP,21/10/2022,16:00,Endocrinologia,Dr. André Teixeira,Glicemia,Não se aplica,320,9,Realizada,Não,Amil,Águia Saúde Sul
+C00367,P0020,Mariana,Almeida,19,M,Rio de Janeiro,SP,14/08/2024,17:00,Clínico Geral,Dr. Marcos Lima,Glicemia,Em análise,200,78,Realizada,Sim,NotreDame,Águia Saúde Norte
+C00368,P0018,Rafael,Lima,35,F,Curitiba,SP,06/10/2025,09:15,Oftalmologia,Dra. Natália Castro,Tonometria,Normal,250,19,Realizada,Sim,Hapvida,Águia Saúde Centro
+C00369,P0139,Juliana,Rocha,41,F,São Bernardo,SP,13/12/2025,16:15,Ginecologia,Dra. Tatiane Costa,Preventivo,Em análise,260,44,Realizada,Não,Hapvida,Águia Saúde Centro
+C00370,P0044,Sabrina,Moura,29,M,São Paulo,SP,21/04/2022,09:45,Clínico Geral,Dr. Marcos Lima,Glicemia,Não realizado,180,,Falta,Não,Unimed,Águia Saúde Sul
+C00371,P0092,Thiago,Moura,82,F,Salvador,SP,08/03/2025,09:45,Pediatria,Dra. Camila Freitas,Exame de Rotina,Não realizado,190,,Cancelada,Não,Bradesco Saúde,Águia Saúde Sul
+C00372,P0165,Vanessa,  lima  ,51,F,São Bernardo,SP,04/04/2023,09:30,Endocrinologia,Dr. André Teixeira,TSH,Não realizado,340,0,Cancelada,Não,SulAmérica,Águia Saúde Sul
+C00373,P0171,Patricia,Santos,42,M,Guarulhos,SP,03/03/2022,08:00,Ginecologia,Dra. Tatiane Costa,Ultrassom Transvaginal,Não realizado,280,,Cancelada,Não,Bradesco Saúde,Águia Saúde Centro
+C00374,P0073,Bruno,Souza,78,M,Campinas,SP,30/07/2022,11:00,Psiquiatria,Dra. Helena Duarte,Escala de Depressão,Não realizado,400,0,Falta,Não,Hapvida,Águia Saúde Norte
+C00375,P0137,Carlos,Almeida,17,M,São Bernardo,SP,25/06/2025,10:15,Psiquiatria,Dr. Samuel Brito,Avaliação Psiquiátrica,Não realizado,430,0,Cancelada,Não,SulAmérica,Águia Saúde Norte
+C00376,P0054,Gabriel,Ferreira,18,M,Rio de Janeiro,SP,07/03/2025,16:15,Psiquiatria,Dr. Samuel Brito,Escala de Ansiedade,Não se aplica,380,78,Realizada,Sim,Unimed,Águia Saúde Sul
+C00377,P0153,Wesley,Rocha,83,M,Rio de Janeiro,SP,27/12/2022,11:45,Oftalmologia,Dr. Vinicius Reis,Tonometria,Não realizado,220,0,Falta,Não,Bradesco Saúde,Águia Saúde Sul
+C00378,P0153,Wesley,Rocha,83,M,Rio de Janeiro,SP,13/08/2025,15:00,Neurologia,Dra. Isabela Moura,Ressonância,Normal,420,79,Realizada,Sim,Bradesco Saúde,Águia Saúde Sul
+C00379,P0039,Camila,Santos,88,F,São Paulo,SP,29/03/2025,11:15,Dermatologia,Dr. Caio Martins,Teste Alérgico,Em análise,320,77,Realizada,Não,Bradesco Saúde,Águia Saúde Sul
+C00380,P0089,Eduardo,Barbosa,87,M,Osasco,SP,11/11/2024,11:15,Psiquiatria,Dra. Helena Duarte,Escala de Depressão,Normal,400,52,Realizada,Sim,SulAmérica,Águia Saúde Sul
+C00381,P0144,Rafael,Oliveira,89,F,Salvador,SP,05/03/2022,10:45,Ginecologia,Dra. Bianca Vieira,Ultrassom Transvaginal,Não realizado,280,,Cancelada,Não,NotreDame,Águia Saúde Norte
+C00382,P0112,Gabriel,Oliveira,77,F,Rio de Janeiro,SP,21/01/2023,14:30,Ortopedia,Dra. Amanda Torres,Raio-X,Alterado,330,41,Realizada,Sim,Hapvida,Águia Saúde Centro
+C00383,P0019,Vanessa,Ferreira,76,M,São Bernardo,SP,13/06/2024,18:15,Ortopedia,Dra. Amanda Torres,Ultrassom Articular,Não se aplica,250,87,Realizada,Não,Bradesco Saúde,Águia Saúde Sul
+C00384,P0155,Fernanda,Ribeiro,54,M,Salvador,SP,09/11/2024,11:45,Psiquiatria,Dra. Helena Duarte,Escala de Ansiedade,Alterado,430,33,Realizada,Não,Hapvida,Águia Saúde Sul
+C00385,P0002,Eduardo,Souza,88,F,São Bernardo,SP,23/01/2025,15:00,Pediatria,Dr. João Pedro,Exame de Rotina,Não realizado,190,,Falta,Não,Bradesco Saúde,Águia Saúde Sul
+C00386,P0031,Igor,Rocha,29,F,Salvador,SP,06/02/2026,14:30,Cardiologia,Dr. Roberto Cardoso,Teste Ergométrico,Não realizado,400,0,Falta,Não,Bradesco Saúde,Águia Saúde Sul
+C00387,P0031,Igor,Rocha,29,F,Salvador,SP,19/04/2022,17:00,Cardiologia,Dra. Renata Alves,Teste Ergométrico,Não realizado,400,,Cancelada,Não,Bradesco Saúde,Águia Saúde Sul
+C00388,P0085,Bruno,Almeida,62,F,Osasco,SP,14/03/2022,16:30,Dermatologia,Dr. Caio Martins,Biópsia de Pele,Não se aplica,320,85,Realizada,Sim,Bradesco Saúde,Águia Saúde Sul
+C00389,P0014,Fernanda,Almeida,22,M,Guarulhos,SP,19/09/2024,09:00,Dermatologia,Dra. Larissa Mendes,Dermatoscopia,Em análise,320,21,Realizada,Não,Amil,Águia Saúde Norte
+C00390,P0004,Yasmin,Silva,73,F,Santo André,SP,22/02/2026,09:45,Psiquiatria,Dra. Helena Duarte,Escala de Depressão,Alterado,400,38,Realizada,Não,Bradesco Saúde,Águia Saúde Centro
+C00391,P0136,Wesley,Santos,21,F,São Bernardo,SP,04/05/2025,17:15,Ginecologia,Dra. Bianca Vieira,Preventivo,Não realizado,310,,Cancelada,Não,Amil,Águia Saúde Centro
+C00392,P0170,Gabriel,Almeida,75,M,Curitiba,SP,12/02/2026,16:00,Ortopedia,Dr. Felipe Nunes,Ultrassom Articular,Alterado,300,11,Realizada,Não,NotreDame,Águia Saúde Norte
+C00393,P0122,Thiago,Costa,12,F,Guarulhos,SP,31/10/2025,16:45,Oftalmologia,Dr. Vinicius Reis,Tonometria,Não se aplica,270,72,Realizada,Sim,  bradesco saúde  ,Águia Saúde Norte
+C00394,P0115,Patricia,Moura,15,M,Campinas,SP,24/12/2024,15:45,Ginecologia,Dra. Bianca Vieira,Preventivo,Em análise,-100,39,Realizada,Sim,Hapvida,Águia Saúde Norte
+C00395,P0168,Wesley,Moura,21,M,Santo André,SP,08/10/2025,15:15,Endocrinologia,Dra. Sofia Ramos,Insulina,,340,45,Realizada,Sim,Bradesco Saúde,Águia Saúde Centro
+C00396,P0004,Yasmin,Silva,73,F,Santo André,SP,02/07/2024,11:30,Oftalmologia,Dr. Vinicius Reis,Acuidade Visual,Normal,270,9,Realizada,Sim,Bradesco Saúde,Águia Saúde Centro
+C00397,P0153,Wesley,Rocha,83,M,Rio de Janeiro,SP,03/09/2022,09:15,Pediatria,Dra. Camila Freitas,Teste Alérgico,Não realizado,270,0,Falta,Não,Bradesco Saúde,Águia Saúde Centro
+C00398,P0019,Vanessa,Ferreira,76,M,São Bernardo,SP,17/07/2024,17:30,Endocrinologia,Dra. Sofia Ramos,Insulina,Alterado,370,37,Realizada,Sim,Bradesco Saúde,Águia Saúde Norte
+C00399,P0016,Bruno,Ribeiro,53,M,Rio de Janeiro,SP,27/06/2023,10:00,Ginecologia,Dra. Bianca Vieira,Ultrassom Transvaginal,Não se aplica,310,83,Realizada,Sim,Unimed,Águia Saúde Sul
+C00400,P0035,Carlos,Santos,44,F,Santo André,SP,10/08/2025,09:45,Neurologia,Dr. Henrique Lopes,Tomografia,Normal,440,9,Realizada,Sim,Unimed,Águia Saúde Sul
+C00401,P0065,Daniela,Martins,73,M,São Bernardo,SP,30/08/2025,15:00,Clínico Geral,Dra. Paula Rocha,Hemograma,Em análise,230,24,Realizada,Não,Hapvida,Águia Saúde Sul
+C00402,P0001,Guilherme,Souza,5,M,Curitiba,SP,07/04/2024,16:00,  endocrinologia  ,Dr. André Teixeira,Glicemia,Não se aplica,320,54,Realizada,Sim,Unimed,Águia Saúde Sul
+C00403,P0138,Yasmin,Almeida,68,M,Osasco,SP,13/09/2023,11:00,Ginecologia,Dra. Tatiane Costa,Mamografia,Não realizado,280,,Falta,Não,Bradesco Saúde,Águia Saúde Centro
+C00404,P0118,Lucas,Almeida,13,M,Osasco,SP,09/02/2025,08:45,Dermatologia,Dra. Larissa Mendes,Biópsia de Pele,Não se aplica,300,94,Realizada,Sim,Unimed,Águia Saúde Sul
+C00405,P0177,Yasmin,Oliveira,32,M,Curitiba,SP,24/01/2023,09:15,Cardiologia,Dra. Renata Alves,Teste Ergométrico,Não realizado,320,0,Falta,Não,Hapvida,Águia Saúde Norte
+C00406,P0035,Carlos,Santos,44,F,Santo André,SP,09/07/2024,18:00,Dermatologia,Dr. Caio Martins,Teste Alérgico,Em análise,270,12,Realizada,Sim,Unimed,Águia Saúde Norte
+C00407,P0042,Rafael,Almeida,11,M,Santo André,SP,03/01/2025,09:15,Oftalmologia,Dra. Natália Castro,Acuidade Visual,Não se aplica,220,23,Realizada,Sim,Particular,Águia Saúde Norte
+C00408,P0045,Nicolas,Silva,51,M,Osasco,SP,19/07/2025,08:30,Ortopedia,Dr. Felipe Nunes,Raio-X,Não realizado,250,0,Cancelada,Não,Amil,Águia Saúde Sul
+C00409,P0017,Wesley,Ribeiro,29,M,Guarulhos,SP,03/05/2025,16:15,Cardiologia,Dr. Roberto Cardoso,Ecocardiograma,Em análise,320,59,Realizada,Não,Hapvida,Águia Saúde Norte
+C00410,P0031,Igor,Rocha,29,F,  salvador  ,SP,13/03/2023,16:15,Psiquiatria,Dra. Helena Duarte,Escala de Ansiedade,Em análise,400,20,Realizada,Sim,Bradesco Saúde,Águia Saúde Norte
+C00411,P0044,Sabrina,Moura,29,M,São Paulo,SP,14/05/2023,17:00,Oftalmologia,Dr. Vinicius Reis,Tonometria,Não se aplica,250,85,Realizada,Sim,Unimed,Águia Saúde Centro
+C00412,P0001,Guilherme,Souza,5,M,Curitiba,SP,27/08/2025,15:30,Ortopedia,Dr. Felipe Nunes,Ultrassom Articular,Não realizado,330,0,Cancelada,Não,Unimed,Águia Saúde Centro
+C00413,P0037,Sabrina,Almeida,62,M,Curitiba,SP,05/05/2023,17:00,Oftalmologia,Dra. Natália Castro,Tonometria,Não realizado,250,0,Cancelada,Não,Particular,Águia Saúde Sul
+C00414,P0078,Juliana,  rocha  ,43,M,Salvador,SP,29/08/2022,18:00,Clínico Geral,Dr. Marcos Lima,Hemograma,Não realizado,200,0,Falta,Não,SulAmérica,Águia Saúde Norte
+C00415,P0161,Guilherme,Almeida,22,M,Santo André,SP,19/08/2022,16:45,Dermatologia,Dra. Larissa Mendes,Biópsia de Pele,Normal,350,25,Realizada,Sim,Particular,Águia Saúde Sul
+C00416,P0028,Daniela,Martins,41,F,São Paulo,SP,03/04/2026,11:00,Dermatologia,Dr. Caio Martins,Teste Alérgico,Não realizado,270,0,Falta,Não,Unimed,Águia Saúde Centro
+C00417,P0008,Mariana,Ferreira,7,M,Santo André,SP,17/01/2026,11:30,Cardiologia,Dr. Roberto Cardoso,Eletrocardiograma,Em análise,400,,Realizada,Sim,Particular,Águia Saúde Centro
+C00418,P0016,Bruno,Ribeiro,53,M,Rio de Janeiro,SP,28/03/2023,08:45,Neurologia,Dr. Henrique Lopes,Ressonância,Não realizado,390,0,Cancelada,Não,Unimed,Águia Saúde Centro
+C00419,P0157,Lucas,Souza,53,F,Santo André,SP,26/07/2024,16:30,Neurologia,Dra. Isabela Moura,Eletroencefalograma,Alterado,440,47,Realizada,Sim,Bradesco Saúde,Águia Saúde Sul
+C00420,P0009,Nicolas,Oliveira,72,M,São Bernardo,SP,06/05/2024,09:30,Cardiologia,Dra. Renata Alves,Ecocardiograma,Alterado,350,82,Realizada,Sim,NotreDame,Águia Saúde Sul
+C00421,P0142,Fernanda,  silva  ,54,M,São Bernardo,SP,28/09/2024,17:15,Cardiologia,Dra. Renata Alves,Teste Ergométrico,Não realizado,400,,Cancelada,Não,Bradesco Saúde,Águia Saúde Centro
+C00422,P0110,Yasmin,Souza,22,M,Rio de Janeiro,SP,08/06/2024,15:15,Pediatria,Dra. Camila Freitas,Exame de Rotina,Não realizado,190,0,Cancelada,Não,SulAmérica,Águia Saúde Centro
+C00423,P0121,Igor,Ribeiro,37,M,Santo André,SP,23/12/2024,11:00,Oftalmologia,Dr. Vinicius Reis,Tonometria,Não realizado,300,0,Cancelada,Não,Particular,Águia Saúde Centro
+C00424,P0143,Juliana,Santos,31,M,Salvador,SP,05/01/2024,10:00,Neurologia,Dr. Henrique Lopes,Eletroencefalograma,Não realizado,390,,Cancelada,Não,Hapvida,Águia Saúde Centro
+C00425,P0118,Lucas,Almeida,13,M,Osasco,SP,07/08/2024,16:45,Psiquiatria,Dra. Helena Duarte,Escala de Ansiedade,Não se aplica,380,85,Realizada,Sim,Unimed,Águia Saúde Sul
+C00426,P0019,Vanessa,Ferreira,76,M,São Bernardo,SP,22/05/2024,16:15,Ginecologia,Dra. Bianca Vieira,Ultrassom Transvaginal,Não realizado,230,,Falta,Não,Bradesco Saúde,Águia Saúde Sul
+C00427,P0015,Guilherme,Almeida,89,M,São Paulo,SP,24/02/2024,11:00,Ginecologia,Dra. Bianca Vieira,Preventivo,Normal,280,27,Realizada,Sim,Unimed,Águia Saúde Centro
+C00428,P0008,Mariana,Ferreira,7,M,Santo André,SP,08/04/2026,10:30,Endocrinologia,Dra. Sofia Ramos,Insulina,Não realizado,340,,Falta,Não,,Águia Saúde Norte
+C00429,P0023,Vanessa,Silva,89,F,Santo André,SP,14/12/2024,16:45,Endocrinologia,Dr. André Teixeira,Insulina,Não realizado,340,,Cancelada,Não,  notredame  ,Águia Saúde Sul
+C00430,P0178,Carlos,Rocha,14,F,Osasco,SP,28/06/2022,09:15,Cardiologia,Dr. Roberto Cardoso,Ecocardiograma,Alterado,370,18,Realizada,Não,Unimed,Águia Saúde Centro
+C00431,P0010,Mariana,Costa,10,F,Curitiba,SP,03/05/2024,18:15,Pediatria,Dra. Camila Freitas,Exame de Rotina,Não se aplica,270,58,Realizada,Sim,NotreDame,Águia Saúde Norte
+C00432,P0015,Guilherme,Almeida,89,M,São Paulo,SP,31/03/2025,11:30,Oftalmologia,Dra. Natália Castro,Tonometria,Não realizado,300,,Falta,Não,Unimed,Águia Saúde Norte
+C00433,P0078,Juliana,Rocha,43,M,Salvador,SP,10/04/2023,14:30,Dermatologia,Dra. Larissa Mendes,Dermatoscopia,Em análise,270,50,Realizada,Não,SulAmérica,Águia Saúde Centro
+C00434,P0159,Sabrina,Barbosa,8,F,Salvador,SP,26/12/2022,16:15,Oftalmologia,Dra. Natália Castro,Mapeamento de Retina,Normal,250,19,Realizada,Não,SulAmérica,Águia Saúde Sul
+C00435,P0033,Helena,Oliveira,45,F,São Bernardo,SP,25/02/2025,16:30,Ginecologia,Dra. Bianca Vieira,Preventivo,Não se aplica,280,52,Realizada,Sim,SulAmérica,Águia Saúde Sul
+C00436,P0002,Eduardo,Souza,88,F,São Bernardo,SP,27/07/2024,17:15,Neurologia,Dra. Isabela Moura,Eletroencefalograma,Não realizado,390,,Falta,Não,Bradesco Saúde,Águia Saúde Sul
+C00437,P0076,Vanessa,Costa,48,M,Rio de Janeiro,SP,01/02/2026,17:45,Dermatologia,Dra. Larissa Mendes,Teste Alérgico,Normal,320,66,Realizada,Sim,Hapvida,Águia Saúde Sul
+C00438,P0002,Eduardo,Souza,88,F,São Bernardo,SP,02/01/2024,09:00,Neurologia,Dr. Henrique Lopes,Ressonância,Não realizado,420,0,Falta,Não,Bradesco Saúde,Águia Saúde Norte
+C00439,P0035,Carlos,Santos,44,F,Santo André,SP,18/03/2024,10:30,Endocrinologia,Dra. Sofia Ramos,Insulina,Alterado,290,55,Realizada,Não,Unimed,Águia Saúde Norte
+C00440,P0099,Patricia,Almeida,64,F,Salvador,SP,23/09/2023,18:00,Dermatologia,Dr. Caio Martins,Dermatoscopia,Não realizado,300,,Cancelada,Não,Bradesco Saúde,Águia Saúde Norte
+C00441,P0028,Daniela,Martins,41,F,São Paulo,SP,09/05/2025,09:15,Neurologia,Dr. Henrique Lopes,Tomografia,Não realizado,440,,Cancelada,Não,Unimed,Águia Saúde Centro
+C00442,P0152,Fernanda,Moura,68,M,Salvador,SP,01/08/2025,17:45,Cardiologia,Dr. Roberto Cardoso,Ecocardiograma,Não realizado,350,,Falta,Não,Unimed,Águia Saúde Sul
+C00443,P0146,Guilherme,Lima,36,F,Rio de Janeiro,SP,21/02/2024,10:45,Ortopedia,Dr. Felipe Nunes,Raio-X,Em análise,250,79,Realizada,Não,Particular,Águia Saúde Sul
+C00444,P0001,Guilherme,Souza,5,M,Curitiba,SP,04/08/2025,16:45,Ortopedia,Dra. Amanda Torres,Ressonância,Alterado,250,58,Realizada,Não,Unimed,Águia Saúde Sul
+C00445,P0008,Mariana,Ferreira,7,M,Santo André,SP,11/05/2025,16:45,Dermatologia,Dr. Caio Martins,Biópsia de Pele,Não se aplica,350,85,Realizada,Sim,Particular,Águia Saúde Norte
+C00446,P0132,Igor,Santos,8,M,Belo Horizonte,SP,06/04/2025,08:30,Clínico Geral,Dra. Paula Rocha,Hemograma,Alterado,230,50,Realizada,Sim,Hapvida,Águia Saúde Norte
+C00447,P0093,Carlos,Gomes,32,M,Campinas,SP,21/08/2023,14:00,Ginecologia,Dra. Bianca Vieira,Ultrassom Transvaginal,Alterado,260,17,Realizada,Não,Amil,Águia Saúde Norte
+C00448,P0176,Lucas,Carvalho,42,M,Santo André,SP,30/12/2024,15:15,Dermatologia,Dr. Caio Martins,Biópsia de Pele,Em análise,270,71,Realizada,Não,Particular,Águia Saúde Norte
+C00449,P0106,Vanessa,Santos,46,F,Rio de Janeiro,SP,13/11/2022,14:15,Ortopedia,Dr. Felipe Nunes,Raio-X,Não realizado,250,,Cancelada,Não,NotreDame,Águia Saúde Centro
+C00450,P0030,Vanessa,Lima,18,M,Santo André,SP,01/10/2023,15:15,Clínico Geral,Dra. Paula Rocha,Glicemia,Não realizado,230,,Falta,Não,,Águia Saúde Centro
+C00451,P0008,Mariana,Ferreira,7,M,Santo André,SP,10/19/2022,15:30,Pediatria,Dra. Camila Freitas,Teste Alérgico,Normal,220,21,Realizada,Não,Particular,Águia Saúde Sul
+C00452,P0031,Igor,Rocha,29,F,Salvador,SP,09/08/2022,08:00,Neurologia,Dr. Henrique Lopes,Eletroencefalograma,Normal,470,37,Realizada,Sim,Bradesco Saúde,Águia Saúde Norte
+C00453,P0007,Lucas,Souza,13,M,Rio de Janeiro,SP,14/02/2023,10:30,Cardiologia,Dr. Roberto Cardoso,Teste Ergométrico,Em análise,320,23,Realizada,Não,Amil,Águia Saúde Norte
+C00454,P0042,Rafael,Almeida,11,M,Santo André,SP,13/03/2025,08:00,Psiquiatria,Dra. Helena Duarte,Escala de Depressão,Alterado,380,41,Realizada,Sim,Particular,Águia Saúde Sul
+C00455,P0026,Guilherme,Gomes,83,F,Belo Horizonte,SP,30/11/2025,15:45,Oftalmologia,Dra. Natália Castro,Tonometria,Não se aplica,220,50,Realizada,Não,Amil,Águia Saúde Centro
+C00456,P0008,Mariana,Ferreira,7,M,Santo André,SP,14/08/2022,14:45,Ginecologia,Dra. Bianca Vieira,Ultrassom Transvaginal,Normal,280,76,Realizada,Sim,Particular,Águia Saúde Norte
+C00457,P0019,Vanessa,Ferreira,76,M,São Bernardo,SP,28/06/2024,10:45,Endocrinologia,Dr. André Teixeira,Insulina,Não realizado,340,0,Cancelada,Não,Bradesco Saúde,Águia Saúde Centro
+C00458,P0122,Thiago,Costa,12,F,Guarulhos,SP,12/10/2025,14:00,Ginecologia,Dra. Bianca Vieira,Preventivo,Não realizado,310,0,Cancelada,Não,Bradesco Saúde,Águia Saúde Centro
+C00459,P0037,Sabrina,Almeida,62,M,Curitiba,SP,12/12/2022,08:15,Psiquiatria,Dra. Helena Duarte,Escala de Depressão,Não se aplica,400,81,Realizada,Sim,Particular,Águia Saúde Centro
+C00460,P0109,Daniela,Costa,61,M,Campinas,SP,30/03/2024,11:45,Dermatologia,Dr. Caio Martins,Teste Alérgico,Não realizado,350,,Falta,Não,Unimed,Águia Saúde Centro
+C00461,P0017,Wesley,  ribeiro  ,29,M,Guarulhos,SP,10/07/2025,18:00,Endocrinologia,Dr. André Teixeira,TSH,Não se aplica,290,13,Realizada,Sim,Hapvida,Águia Saúde Centro
+C00462,P0098,Sabrina,Silva,47,M,Guarulhos,SP,27/06/2025,15:00,Ginecologia,Dra. Bianca Vieira,Ultrassom Transvaginal,Não realizado,310,0,Cancelada,Não,NotreDame,Águia Saúde Norte
+C00463,P0170,Gabriel,Almeida,75,M,Curitiba,SP,05/12/2023,16:00,Oftalmologia,Dra. Natália Castro,Acuidade Visual,Não realizado,220,0,Cancelada,Não,NotreDame,Águia Saúde Norte
+C00464,P0116,Rafael,Lima,57,F,Santo André,SP,15/03/2022,08:30,Neurologia,Dra. Isabela Moura,Ressonância,Não realizado,420,,Cancelada,Não,Hapvida,Águia Saúde Centro
+C00465,P0080,Wesley,Gomes,53,F,Salvador,SP,14/10/2025,14:45,Endocrinologia,Dra. Sofia Ramos,Insulina,Não realizado,370,0,Falta,Não,Amil,Águia Saúde Sul
+C00466,P0015,Guilherme,Almeida,89,M,São Paulo,SP,17/10/2025,11:30,Endocrinologia,Dr. André Teixeira,Insulina,Normal,340,8,Realizada,Sim,Unimed,Águia Saúde Norte
+C00467,P0090,Camila,Rocha,72,M,Belo Horizonte,SP,30/11/2023,11:45,Psiquiatria,Dra. Helena Duarte,Escala de Depressão,Em análise,400,57,Realizada,Sim,Hapvida,Águia Saúde Sul
+C00468,P0042,Rafael,Almeida,11,M,Santo André,SP,15/05/2022,17:00,Dermatologia,Dra. Larissa Mendes,Teste Alérgico,Em análise,320,7,Realizada,Sim,Particular,Águia Saúde Norte
+C00469,P0169,Mariana,Ribeiro,72,M,Osasco,SP,11/02/2022,16:00,Psiquiatria,Dr. Samuel Brito,Escala de Ansiedade,Não realizado,400,,Cancelada,Não,Amil,Águia Saúde Norte
+C00470,P0032,Beatriz,Martins,58,M,Rio de Janeiro,SP,14/10/2024,14:30,Cardiologia,Dr. Roberto Cardoso,Ecocardiograma,Não realizado,350,,Falta,Não,Unimed,Águia Saúde Norte
+C00471,P0041,Vanessa,Barbosa,19,M,Belo Horizonte,SP,28/06/2023,08:45,Cardiologia,Dr. Roberto Cardoso,Ecocardiograma,Não realizado,350,0,Falta,Não,Amil,Águia Saúde Sul
+C00472,P0022,Carlos,Carvalho,50,M,Santo André,SP,23/12/2024,14:15,Dermatologia,Dra. Larissa Mendes,Teste Alérgico,Em análise,320,88,Realizada,Não,Amil,Águia Saúde Norte
+C00473,P0170,Gabriel,Almeida,75,M,Curitiba,SP,30/05/2023,15:45,Pediatria,Dr. João Pedro,Exame de Rotina,Alterado,220,85,Realizada,Não,NotreDame,Águia Saúde Centro
+C00474,P0170,Gabriel,Almeida,75,M,,SP,27/12/2024,16:45,Endocrinologia,Dr. André Teixeira,Insulina,Não realizado,290,0,Falta,Não,NotreDame,Águia Saúde Norte
+C00475,P0010,Mariana,Costa,10,F,Curitiba,SP,15/10/2023,17:00,Dermatologia,Dr. Caio Martins,Dermatoscopia,Não realizado,300,,Cancelada,Não,NotreDame,Águia Saúde Norte
+C00476,P0044,Sabrina,Moura,29,M,  são paulo  ,SP,04/05/2023,09:15,Psiquiatria,Dra. Helena Duarte,Escala de Ansiedade,Não se aplica,350,44,Realizada,Não,Unimed,Águia Saúde Sul
+C00477,P0112,Gabriel,Oliveira,77,F,Rio de Janeiro,SP,13/07/2023,09:30,Clínico Geral,Dr. Marcos Lima,Hemograma,Não realizado,200,0,Falta,Não,Hapvida,Águia Saúde Sul
+C00478,P0011,Juliana,Oliveira,31,F,Guarulhos,SP,21/06/2022,11:30,Endocrinologia,Dra. Sofia Ramos,TSH,Não realizado,290,,Cancelada,Não,Amil,Águia Saúde Sul
+C00479,P0169,Mariana,Ribeiro,72,M,Osasco,SP,18/08/2022,15:00,Neurologia,Dr. Henrique Lopes,Eletroencefalograma,Não realizado,440,0,Cancelada,Não,Amil,Águia Saúde Centro
+C00480,P0021,Bruno,Souza,21,F,Guarulhos,SP,04/03/2026,10:45,Ginecologia,Dra. Tatiane Costa,Mamografia,Alterado,260,18,Realizada,Sim,SulAmérica,Águia Saúde Norte
+C00481,P0113,Juliana,Souza,74,F,Campinas,SP,28/12/2024,11:00,Psiquiatria,Dra. Helena Duarte,Escala de Ansiedade,Não realizado,400,,Falta,Não,SulAmérica,Águia Saúde Norte
+C00482,P0018,Rafael,Lima,,F,Curitiba,SP,05/01/2026,11:30,Ortopedia,Dra. Amanda Torres,Ressonância,Não realizado,250,0,Falta,Não,Hapvida,Águia Saúde Sul
+C00483,P0170,Gabriel,Almeida,75,M,Curitiba,SP,05/02/2025,11:30,Clínico Geral,Dr. Marcos Lima,Glicemia,Não realizado,150,0,Falta,Não,NotreDame,Águia Saúde Norte
+C00484,P0026,Guilherme,Gomes,83,F,Belo Horizonte,SP,30/03/2026,10:15,Dermatologia,Dr. Caio Martins,Biópsia de Pele,Não realizado,300,,Cancelada,Não,Amil,Águia Saúde Sul
+C00485,P0105,Patricia,Ferreira,12,M,São Paulo,SP,22/08/2024,16:30,Dermatologia,Dra. Larissa Mendes,Dermatoscopia,Em análise,350,25,Realizada,Sim,Hapvida,Águia Saúde Norte
+C00486,P0108,Ana,Lima,32,F,Osasco,SP,24/11/2025,08:00,Oftalmologia,Dra. Natália Castro,Tonometria,Não realizado,250,0,Cancelada,Não,Hapvida,Águia Saúde Centro
+C00487,P0020,Mariana,Almeida,19,M,Rio de Janeiro,SP,11/20/2022,10:15,Ginecologia,Dra. Bianca Vieira,Preventivo,Não se aplica,310,62,Realizada,Sim,NotreDame,Águia Saúde Norte
+C00488,P0045,Nicolas,Silva,51,M,Osasco,SP,22/06/2022,11:15,Ginecologia,Dra. Tatiane Costa,Preventivo,Não realizado,310,0,Cancelada,Não,Amil,Águia Saúde Centro
+C00489,P0006,Fernanda,Rocha,45,M,Belo Horizonte,SP,05/08/2024,10:15,Psiquiatria,Dra. Helena Duarte,Avaliação Psiquiátrica,Não realizado,350,,Cancelada,Não,Unimed,Águia Saúde Sul
+C00490,P0024,Igor,Ribeiro,16,M,Guarulhos,SP,11/01/2026,14:45,Ortopedia,Dr. Felipe Nunes,Raio-X,Alterado,330,33,Realizada,Sim,Unimed,Águia Saúde Norte
+C00491,P0074,Lucas,Rocha,79,F,Guarulhos,SP,28/02/2023,15:30,Neurologia,Dr. Henrique Lopes,Ressonância,Não realizado,420,0,Cancelada,Não,SulAmérica,Águia Saúde Norte
+C00492,P0017,Wesley,Ribeiro,29,M,Guarulhos,SP,28/01/2024,15:45,Pediatria,Dr. João Pedro,Hemograma Infantil,Alterado,190,65,Realizada,Não,Hapvida,Águia Saúde Sul
+C00493,P0102,Wesley,Silva,12,M,Belo Horizonte,SP,08/05/2025,10:00,Neurologia,Dra. Isabela Moura,Tomografia,Alterado,390,47,Realizada,Não,,Águia Saúde Norte
+C00494,P0156,Nicolas,Santos,60,F,Campinas,SP,04/06/2023,14:45,Psiquiatria,Dra. Helena Duarte,Avaliação Psiquiátrica,Não realizado,400,,Cancelada,Não,Amil,Águia Saúde Centro
+C00495,P0012,Rafael,Martins,22,M,Campinas,SP,06/10/2024,17:45,Dermatologia,Dra. Larissa Mendes,Teste Alérgico,Não se aplica,300,45,Realizada,Sim,Unimed,Águia Saúde Norte
+C00496,P0030,Vanessa,Lima,18,M,Santo André,SP,12/03/2026,11:45,Ortopedia,Dra. Amanda Torres,Ressonância,Em análise,300,83,Realizada,Não,Unimed,Águia Saúde Norte
+C00497,P0043,Bruno,Silva,13,F,Belo Horizonte,SP,08/09/2025,15:45,Endocrinologia,Dra. Sofia Ramos,Insulina,Normal,290,24,Realizada,Sim,Bradesco Saúde,Águia Saúde Centro
+C00498,P0010,Mariana,Costa,10,F,Curitiba,SP,26/08/2022,18:45,Ortopedia,Dra. Amanda Torres,Ressonância,Não realizado,250,,Cancelada,Não,NotreDame,Águia Saúde Sul
+C00499,P0144,Rafael,Oliveira,89,F,Salvador,SP,31/10/2022,09:00,Endocrinologia,Dra. Sofia Ramos,Insulina,Alterado,320,28,Realizada,Não,NotreDame,Águia Saúde Sul
+C00500,P0170,Gabriel,Almeida,75,M,Curitiba,SP,20/04/2026,15:45,Psiquiatria,Dra. Helena Duarte,Escala de Depressão,Normal,350,68,Realizada,Não,NotreDame,Águia Saúde Centro
+C00501,P0073,Bruno,Souza,78,M,Campinas,SP,24/04/2025,17:00,Cardiologia,Dra. Renata Alves,Ecocardiograma,Normal,370,8,Realizada,Não,Hapvida,Águia Saúde Sul
+C00502,P0169,Mariana,Ribeiro,72,M,Osasco,SP,31/03/2022,15:45,Dermatologia,Dra. Larissa Mendes,Dermatoscopia,Não realizado,320,0,Falta,Não,Amil,Águia Saúde Centro
+C00503,P0013,Beatriz,Ferreira,89,F,São Bernardo,SP,04/03/2026,08:45,Dermatologia,Dr. Caio Martins,Biópsia de Pele,Não realizado,270,,Cancelada,Não,Hapvida,Águia Saúde Centro
+C00504,P0062,Daniela,Oliveira,21,F,Campinas,SP,03/03/2023,09:45,Neurologia,Dr. Henrique Lopes,Eletroencefalograma,Em análise,440,20,Realizada,Não,SulAmérica,Águia Saúde Norte
+C00505,P0080,Wesley,Gomes,53,F,Salvador,SP,24/09/2025,09:30,Psiquiatria,Dra. Helena Duarte,Escala de Ansiedade,Não realizado,380,,Cancelada,Não,Amil,Águia Saúde Norte
+C00506,P0039,Camila,Santos,88,F,São Paulo,SP,25/01/2024,15:45,Neurologia,Dr. Henrique Lopes,Ressonância,Em análise,470,10,Realizada,Não,Bradesco Saúde,Águia Saúde Sul
+C00507,P0058,Yasmin,  costa  ,45,F,Salvador,SP,13/07/2025,15:00,Ortopedia,Dra. Amanda Torres,Ultrassom Articular,Não realizado,300,,Cancelada,Não,SulAmérica,Águia Saúde Centro
+C00508,P0123,Vanessa,Almeida,62,M,Osasco,SP,07/12/2024,11:00,Ortopedia,Dra. Amanda Torres,Raio-X,Normal,250,70,Realizada,Não,NotreDame,Águia Saúde Norte
+C00509,P0025,Rafael,Silva,35,F,Santo André,SP,06/06/2023,15:00,Psiquiatria,Dr. Samuel Brito,Escala de Ansiedade,Não realizado,350,0,Cancelada,Não,Particular,Águia Saúde Centro
+C00510,P0027,Fernanda,Silva,78,M,Osasco,SP,22/01/2026,11:45,Dermatologia,Dr. Caio Martins,Teste Alérgico,Alterado,320,28,Realizada,Sim,Particular,Águia Saúde Centro
+C00511,P0044,Sabrina,Moura,29,M,São Paulo,SP,06/02/2022,08:00,Cardiologia,Dra. Renata Alves,Teste Ergométrico,Não se aplica,320,88,Realizada,Não,Unimed,Águia Saúde Sul
+C00512,P0104,Gabriel,Barbosa,43,M,Guarulhos,SP,20/06/2025,16:30,Psiquiatria,Dr. Samuel Brito,Escala de Ansiedade,Alterado,430,16,Realizada,Sim,Amil,Águia Saúde Centro
+C00513,P0002,Eduardo,Souza,88,F,São Bernardo,SP,12/09/2024,15:15,Pediatria,Dra. Camila Freitas,Hemograma Infantil,Não realizado,270,0,Falta,Não,Bradesco Saúde,Águia Saúde Centro
+C00514,P0078,Juliana,Rocha,43,M,Salvador,SP,14/02/2022,09:15,Ortopedia,Dra. Amanda Torres,Ressonância,Não realizado,330,,Cancelada,Não,SulAmérica,Águia Saúde Centro
+C00515,P0116,Rafael,Lima,57,F,Santo André,SP,13/03/2024,08:00,Pediatria,Dr. João Pedro,Teste Alérgico,Não realizado,190,,Cancelada,Não,  hapvida  ,Águia Saúde Norte
+C00516,P0149,Sabrina,  barbosa  ,12,F,Guarulhos,SP,25/09/2024,11:45,Oftalmologia,Dra. Natália Castro,Mapeamento de Retina,Normal,250,72,Realizada,Não,Hapvida,Águia Saúde Sul
+C00517,P0081,Gabriel,Rocha,76,M,Osasco,SP,28/08/2022,14:30,Dermatologia,Dr. Caio Martins,Dermatoscopia,Não realizado,350,0,Cancelada,Não,Bradesco Saúde,Águia Saúde Centro
+C00518,P0074,Lucas,Rocha,79,F,Guarulhos,SP,21/04/2023,14:30,Endocrinologia,Dr. André Teixeira,Glicemia,Não se aplica,370,42,Realizada,Não,SulAmérica,Águia Saúde Sul
+C00519,P0168,Wesley,Moura,21,M,Santo André,SP,01/03/2023,10:00,Endocrinologia,Dra. Sofia Ramos,Insulina,Alterado,370,27,Realizada,Sim,Bradesco Saúde,Águia Saúde Sul
+C00520,P0027,Fernanda,Silva,78,M,Osasco,SP,05/03/2023,14:00,Endocrinologia,Dr. André Teixeira,TSH,Alterado,340,50,Realizada,Sim,Particular,Águia Saúde Sul
+C00521,P0009,Nicolas,Oliveira,72,M,São Bernardo,SP,18/06/2025,10:15,Ginecologia,Dra. Tatiane Costa,Preventivo,Em análise,310,48,Realizada,Sim,NotreDame,Águia Saúde Sul
+C00522,P0069,Gabriel,Barbosa,46,M,Curitiba,SP,14/04/2022,17:45,Oftalmologia,Dr. Vinicius Reis,Acuidade Visual,Normal,300,18,Realizada,Sim,Unimed,Águia Saúde Sul
+C00523,P0008,Mariana,Ferreira,7,M,Santo André,SP,31/01/2026,10:45,Pediatria,Dr. João Pedro,Hemograma Infantil,Em análise,270,24,Realizada,Não,Particular,Águia Saúde Centro
+C00524,P0032,Beatriz,Martins,58,M,Rio de Janeiro,SP,18/05/2023,16:45,Endocrinologia,Dr. André Teixeira,TSH,Alterado,340,69,Realizada,Sim,Unimed,Águia Saúde Norte
+C00525,P0096,Lucas,Barbosa,55,F,Curitiba,SP,23/09/2025,10:45,Neurologia,Dra. Isabela Moura,Tomografia,Não se aplica,420,59,Realizada,Não,NotreDame,Águia Saúde Norte
+C00526,P0133,Sabrina,Souza,3,M,Osasco,SP,26/10/2022,16:00,Ginecologia,Dra. Bianca Vieira,Ultrassom Transvaginal,Não se aplica,230,45,Realizada,Sim,Bradesco Saúde,Águia Saúde Norte
+C00527,P0016,Bruno,Ribeiro,53,M,Rio de Janeiro,SP,29/04/2022,18:30,Clínico Geral,Dr. Marcos Lima,Check-up Geral,Não realizado,230,,Cancelada,Não,Unimed,Águia Saúde Sul
+C00528,P0081,Gabriel,Rocha,76,M,Osasco,SP,04/06/2025,17:45,Clínico Geral,Dra. Paula Rocha,Check-up Geral,Não se aplica,230,74,Realizada,Não,Bradesco Saúde,Águia Saúde Sul
+C00529,P0104,Gabriel,Barbosa,43,M,Guarulhos,SP,05/01/2025,11:15,Dermatologia,Dra. Larissa Mendes,Biópsia de Pele,Em análise,320,16,Realizada,Não,Amil,Águia Saúde Sul
+C00530,P0035,Carlos,Santos,44,F,Santo André,SP,15/09/2023,16:00,Psiquiatria,Dr. Samuel Brito,Avaliação Psiquiátrica,Em análise,350,38,Realizada,Sim,Unimed,Águia Saúde Centro
+C00531,P0167,Thiago,Ferreira,2,M,Salvador,SP,18/02/2026,08:30,Endocrinologia,Dr. André Teixeira,Insulina,Não realizado,320,0,Falta,Não,NotreDame,Águia Saúde Norte
+C00532,P0037,Sabrina,Almeida,62,M,Curitiba,SP,19/02/2026,10:30,Ortopedia,Dra. Amanda Torres,Ultrassom Articular,Normal,280,63,Realizada,Sim,Particular,Águia Saúde Sul
+C00533,P0109,Daniela,Costa,61,M,Campinas,SP,20/05/2024,17:45,Cardiologia,Dr. Roberto Cardoso,Eletrocardiograma,Não realizado,350,0,Cancelada,Não,,Águia Saúde Norte
+C00534,P0174,Rafael,Silva,20,M,Belo Horizonte,SP,11/04/2025,14:45,Psiquiatria,Dr. Samuel Brito,Escala de Ansiedade,Não realizado,430,,Cancelada,Não,Particular,Águia Saúde Centro
+C00535,P0037,Sabrina,Almeida,62,M,Curitiba,SP,12/13/2025,14:00,Endocrinologia,Dr. André Teixeira,TSH,Não realizado,320,,Cancelada,Não,Particular,Águia Saúde Centro
+C00536,P0041,Vanessa,Barbosa,19,M,Belo Horizonte,SP,16/04/2024,09:30,Ginecologia,Dra. Bianca Vieira,Mamografia,Alterado,280,71,Realizada,Sim,Amil,Águia Saúde Norte
+C00537,P0079,Eduardo,Costa,55,M,Belo Horizonte,SP,27/02/2022,16:15,Dermatologia,Dr. Caio Martins,Dermatoscopia,Em análise,350,44,Realizada,Sim,SulAmérica,Águia Saúde Centro
+C00538,P0036,Igor,Moura,29,F,São Bernardo,SP,05/05/2024,14:30,Ginecologia,Dra. Bianca Vieira,Preventivo,Não se aplica,310,53,Realizada,Sim,SulAmérica,Águia Saúde Centro
+C00539,P0130,Camila,Gomes,14,F,Salvador,SP,30/01/2026,11:45,Endocrinologia,Dr. André Teixeira,TSH,Em análise,370,55,Realizada,Sim,Unimed,Águia Saúde Sul
+C00540,P0114,Patricia,Martins,10,M,São Paulo,SP,20/02/2022,15:30,Cardiologia,Dr. Roberto Cardoso,Teste Ergométrico,Não realizado,320,0,Falta,Não,NotreDame,Águia Saúde Centro
+C00541,P0159,Sabrina,Barbosa,8,F,Salvador,SP,26/10/2024,17:00,Clínico Geral,Dr. Marcos Lima,Glicemia,Alterado,180,40,Realizada,Sim,SulAmérica,Águia Saúde Sul
+C00542,P0149,Sabrina,Barbosa,12,F,Guarulhos,SP,21/04/2025,08:00,Oftalmologia,Dra. Natália Castro,Tonometria,Não realizado,270,0,Cancelada,Não,Hapvida,Águia Saúde Norte
+C00543,P0007,Lucas,Souza,13,M,Rio de Janeiro,SP,06/07/2022,09:00,Ginecologia,Dra. Tatiane Costa,Ultrassom Transvaginal,Alterado,260,23,Realizada,Não,Amil,Águia Saúde Centro
+C00544,P0040,Camila,Ribeiro,15,F,Curitiba,SP,12/06/2025,18:15,Neurologia,Dr. Henrique Lopes,Eletroencefalograma,Não se aplica,390,43,Realizada,Sim,Unimed,Águia Saúde Norte
+C00545,P0037,Sabrina,Almeida,62,M,Curitiba,SP,05/09/2022,08:15,Ginecologia,Dra. Tatiane Costa,Ultrassom Transvaginal,Não realizado,260,,Cancelada,Não,Particular,Águia Saúde Centro
+C00546,P0030,Vanessa,Lima,18,M,Santo André,SP,18/09/2024,08:15,Oftalmologia,Dra. Natália Castro,Mapeamento de Retina,Normal,220,75,Realizada,Sim,  unimed  ,Águia Saúde Sul
+C00547,P0167,Thiago,Ferreira,2,M,,SP,21/06/2022,17:15,Dermatologia,Dr. Caio Martins,Dermatoscopia,Alterado,300,74,Realizada,Sim,NotreDame,Águia Saúde Sul
+C00548,P0109,Daniela,Costa,61,M,Campinas,SP,03/01/2022,16:30,Oftalmologia,Dra. Natália Castro,Mapeamento de Retina,Não se aplica,250,12,Realizada,Não,Unimed,Águia Saúde Sul
+C00549,P0065,Daniela,Martins,73,M,São Bernardo,SP,12/03/2023,15:30,Neurologia,  dra. isabela moura  ,Tomografia,Normal,390,73,Realizada,Não,Hapvida,Águia Saúde Centro
+C00550,P0102,Wesley,Silva,12,M,Belo Horizonte,SP,08/03/2023,15:30,Ortopedia,Dra. Amanda Torres,Ressonância,Não se aplica,300,95,Realizada,Não,NotreDame,Águia Saúde Centro
+C00551,P0170,Gabriel,Almeida,75,M,,SP,12/05/2025,11:15,Ginecologia,Dra. Bianca Vieira,Ultrassom Transvaginal,Não realizado,230,,Falta,Não,NotreDame,Águia Saúde Centro
+C00552,P0003,Bruno,Silva,13,F,Curitiba,SP,07/01/2025,09:00,Neurologia,Dra. Isabela Moura,Ressonância,Não realizado,390,0,Cancelada,Não,SulAmérica,Águia Saúde Norte
+C00553,P0097,Patricia,Carvalho,76,F,São Bernardo,SP,22/04/2026,16:00,Ginecologia,Dra. Tatiane Costa,Preventivo,Não realizado,230,,Cancelada,Não,Bradesco Saúde,Águia Saúde Centro
+C00554,P0002,Eduardo,Souza,88,F,São Bernardo,SP,04/07/2022,16:30,Dermatologia,Dr. Caio Martins,Biópsia de Pele,Em análise,300,68,Realizada,Sim,Bradesco Saúde,Águia Saúde Norte
+C00555,P0127,Rafael,Ferreira,41,M,Curitiba,SP,06/02/2023,18:45,Psiquiatria,Dra. Helena Duarte,Avaliação Psiquiátrica,Não se aplica,350,77,Realizada,Sim,Particular,Águia Saúde Sul
+C00556,P0050,Wesley,Almeida,76,F,São Bernardo,SP,19/04/2025,09:00,Psiquiatria,Dra. Helena Duarte,Avaliação Psiquiátrica,Alterado,380,77,Realizada,Não,Particular,Águia Saúde Centro
+C00557,P0045,Nicolas,Silva,51,M,Osasco,SP,21/02/2025,17:00,Oftalmologia,Dra. Natália Castro,Acuidade Visual,Não se aplica,300,46,Realizada,Não,Amil,Águia Saúde Norte
+C00558,P0032,Beatriz,Martins,58,M,Rio de Janeiro,SP,25/11/2024,16:15,Endocrinologia,Dr. André Teixeira,Glicemia,Não se aplica,290,58,Realizada,Não,Unimed,Águia Saúde Centro
+C00559,P0006,Fernanda,Rocha,45,M,Belo Horizonte,SP,08/04/2023,18:45,Psiquiatria,Dra. Helena Duarte,Escala de Depressão,Alterado,350,30,Realizada,Não,Unimed,Águia Saúde Norte
+C00560,P0017,Wesley,Ribeiro,29,M,Guarulhos,SP,03/06/2024,16:30,Cardiologia,Dr. Roberto Cardoso,Ecocardiograma,Não se aplica,370,18,Realizada,Sim,Hapvida,Águia Saúde Norte
+C00561,P0014,Fernanda,Almeida,22,M,Guarulhos,SP,13/05/2025,15:00,Oftalmologia,Dr. Vinicius Reis,Mapeamento de Retina,Não realizado,300,0,Falta,Não,Amil,Águia Saúde Centro
+C00562,P0016,Bruno,Ribeiro,53,M,Rio de Janeiro,SP,14/05/2022,16:00,Neurologia,Dra. Isabela Moura,Tomografia,Não se aplica,470,43,Realizada,Sim,Unimed,Águia Saúde Centro
+C00563,P0004,Yasmin,Silva,73,F,Santo André,SP,16/07/2022,15:45,Dermatologia,Dr. Caio Martins,Dermatoscopia,Não realizado,300,0,Falta,Não,Bradesco Saúde,Águia Saúde Norte
+C00564,P0099,Patricia,Almeida,64,F,Salvador,SP,26/08/2025,17:00,Neurologia,Dr. Henrique Lopes,Ressonância,Não realizado,470,,Falta,Não,Bradesco Saúde,Águia Saúde Sul
+C00565,P0001,Guilherme,Souza,5,M,Curitiba,SP,01/02/2023,17:15,Psiquiatria,Dra. Helena Duarte,Escala de Depressão,Não se aplica,400,58,Realizada,Não,Unimed,Águia Saúde Centro
+C00566,P0003,Bruno,Silva,13,F,Curitiba,SP,12/04/2025,11:30,Clínico Geral,Dr. Marcos Lima,Glicemia,Não realizado,200,0,Falta,Não,SulAmérica,Águia Saúde Centro
+C00567,P0121,Igor,Ribeiro,37,M,Santo André,SP,17/01/2022,14:15,Ginecologia,Dra. Tatiane Costa,Ultrassom Transvaginal,Normal,230,69,Realizada,Não,Particular,Águia Saúde Norte
+C00568,P0051,Patricia,Ribeiro,35,F,Campinas,SP,23/01/2023,15:45,Pediatria,Dra. Camila Freitas,Exame de Rotina,Não realizado,240,,Falta,Não,Unimed,Águia Saúde Sul
+C00569,P0077,Lucas,Ribeiro,86,F,Salvador,SP,28/03/2022,14:00,Ortopedia,Dr. Felipe Nunes,Ressonância,Alterado,280,64,Realizada,Sim,SulAmérica,Águia Saúde Norte
+C00570,P0085,Bruno,Almeida,62,F,Osasco,SP,13/01/2023,16:00,Neurologia,Dr. Henrique Lopes,Ressonância,Em análise,440,14,Realizada,Sim,Bradesco Saúde,Águia Saúde Sul
+C00571,P0029,Wesley,Oliveira,12,M,Rio de Janeiro,SP,02/03/2022,10:30,Pediatria,Dr. João Pedro,Hemograma Infantil,Alterado,220,38,Realizada,Não,NotreDame,Águia Saúde Sul
+C00572,P0002,Eduardo,Souza,88,F,São Bernardo,SP,12/02/2022,16:15,Ortopedia,Dra. Amanda Torres,Raio-X,Alterado,330,48,Realizada,Não,Bradesco Saúde,Águia Saúde Norte
+C00573,P0062,Daniela,Oliveira,21,F,Campinas,SP,30/06/2025,17:00,Ginecologia,Dra. Bianca Vieira,Mamografia,Alterado,230,21,Realizada,Sim,SulAmérica,Águia Saúde Sul
+C00574,P0097,Patricia,Carvalho,76,F,São Bernardo,SP,16/05/2023,17:15,Ginecologia,Dra. Tatiane Costa,Mamografia,Alterado,280,46,Realizada,Sim,Bradesco Saúde,Águia Saúde Sul
+C00575,P0072,Ana,Souza,35,F,São Bernardo,SP,29/01/2026,09:45,Oftalmologia,Dra. Natália Castro,Mapeamento de Retina,Não se aplica,220,70,Realizada,Não,Amil,Águia Saúde Norte
+C00576,P0133,Sabrina,Souza,3,M,Osasco,SP,23/11/2025,14:45,Ginecologia,Dra. Tatiane Costa,Mamografia,Não se aplica,310,79,Realizada,Sim,Bradesco Saúde,Águia Saúde Centro
+C00577,P0057,Igor,Souza,15,F,Salvador,SP,24/03/2023,10:45,Endocrinologia,Dra. Sofia Ramos,Glicemia,Normal,320,37,Realizada,Sim,Amil,Águia Saúde Centro
+C00578,P0076,Vanessa,Costa,48,M,Rio de Janeiro,SP,03/26/2022,14:30,Ginecologia,Dra. Bianca Vieira,Mamografia,Não realizado,310,,Cancelada,Não,Hapvida,Águia Saúde Norte
+C00579,P0105,Patricia,Ferreira,12,M,São Paulo,SP,23/02/2024,08:45,Endocrinologia,Dr. André Teixeira,Glicemia,Normal,320,87,Realizada,Não,Hapvida,Águia Saúde Centro
+C00580,P0076,Vanessa,Costa,48,M,Rio de Janeiro,SP,12/04/2023,09:00,Oftalmologia,Dr. Vinicius Reis,Tonometria,Alterado,270,74,Realizada,Não,Hapvida,Águia Saúde Centro
+C00581,P0173,Wesley,Ribeiro,14,M,Rio de Janeiro,SP,16/12/2025,15:15,Dermatologia,Dr. Caio Martins,Biópsia de Pele,Em análise,320,43,Realizada,Não,SulAmérica,Águia Saúde Norte
+C00582,P0104,Gabriel,Barbosa,43,M,Guarulhos,SP,11/15/2024,18:15,Clínico Geral,Dra. Paula Rocha,Check-up Geral,Alterado,230,34,Realizada,Não,Amil,Águia Saúde Centro
+C00583,P0133,Sabrina,Souza,3,M,Osasco,SP,02/08/2024,11:00,Oftalmologia,Dra. Natália Castro,Acuidade Visual,Não se aplica,270,59,Realizada,Sim,Bradesco Saúde,Águia Saúde Norte
+C00584,P0116,Rafael,Lima,57,F,Santo André,SP,28/03/2025,17:30,Clínico Geral,Dra. Paula Rocha,Hemograma,Não realizado,150,,Cancelada,Não,Hapvida,Águia Saúde Norte
+C00585,P0058,Yasmin,Costa,45,F,Salvador,SP,17/04/2025,08:00,Neurologia,Dra. Isabela Moura,Ressonância,Não se aplica,420,47,Realizada,Não,SulAmérica,Águia Saúde Centro
+C00586,P0025,Rafael,Silva,35,F,Santo André,SP,05/11/2023,15:45,Pediatria,Dr. João Pedro,Hemograma Infantil,Normal,240,26,Realizada,Sim,Particular,Águia Saúde Centro
+C00587,P0177,Yasmin,Oliveira,32,M,Curitiba,SP,23/05/2022,17:45,Clínico Geral,Dr. Marcos Lima,Hemograma,Em análise,200,34,Realizada,Sim,Hapvida,Águia Saúde Norte
+C00588,P0015,Guilherme,Almeida,89,M,São Paulo,SP,21/04/2024,11:00,Clínico Geral,Dr. Marcos Lima,Glicemia,Não realizado,180,,Falta,Não,Unimed,Águia Saúde Norte
+C00589,P0018,Rafael,Lima,35,F,Curitiba,SP,27/09/2023,11:45,Pediatria,Dra. Camila Freitas,Hemograma Infantil,Não realizado,220,,Falta,Não,Hapvida,Águia Saúde Sul
+C00590,P0052,Igor,Carvalho,18,M,Osasco,SP,16/01/2022,18:45,Endocrinologia,Dr. André Teixeira,TSH,Não realizado,290,0,Cancelada,Não,Amil,Águia Saúde Sul
+C00591,P0085,Bruno,Almeida,62,F,Osasco,SP,25/03/2025,08:00,Endocrinologia,Dr. André Teixeira,Glicemia,Não realizado,340,,Cancelada,Não,Bradesco Saúde,Águia Saúde Sul
+C00592,P0077,Lucas,Ribeiro,86,F,Salvador,SP,03/01/2023,17:45,Ortopedia,Dra. Amanda Torres,Raio-X,Não realizado,330,0,Cancelada,Não,SulAmérica,Águia Saúde Sul
+C00593,P0045,Nicolas,Silva,51,M,Osasco,SP,15/07/2023,17:30,Clínico Geral,Dr. Marcos Lima,Hemograma,Não se aplica,150,68,Realizada,Sim,Amil,Águia Saúde Norte
+C00594,P0020,Mariana,Almeida,19,M,Rio de Janeiro,SP,12/07/2024,09:15,Oftalmologia,Dra. Natália Castro,Tonometria,Não realizado,220,0,Cancelada,Não,NotreDame,Águia Saúde Centro
+C00595,P0164,Igor,Rocha,63,M,Curitiba,SP,08/03/2026,11:15,Endocrinologia,  dr. andré teixeira  ,Glicemia,Em análise,370,6,Realizada,Sim,Bradesco Saúde,Águia Saúde Sul
+C00596,P0035,Carlos,Santos,44,F,Santo André,SP,20/05/2022,09:15,Endocrinologia,Dr. André Teixeira,Glicemia,Em análise,370,65,Realizada,Sim,Unimed,Águia Saúde Centro
+C00597,P0005,Helena,Barbosa,77,M,São Paulo,SP,30/12/2024,16:15,Ortopedia,Dra. Amanda Torres,Raio-X,Em análise,250,91,Realizada,Sim,NotreDame,Águia Saúde Norte
+C00598,P0003,Bruno,Silva,13,F,Curitiba,SP,27/11/2025,08:00,Oftalmologia,Dr. Vinicius Reis,Tonometria,Normal,erro,61,Realizada,Sim,SulAmérica,Águia Saúde Centro
+C00599,P0097,Patricia,Carvalho,76,F,São Bernardo,SP,14/02/2023,09:45,Pediatria,Dr. João Pedro,Hemograma Infantil,Alterado,190,48,Realizada,Sim,Bradesco Saúde,Águia Saúde Centro
+C00600,P0025,Rafael,Silva,35,F,Santo André,SP,01/05/2024,14:30,Ortopedia,Dr. Felipe Nunes,Raio-X,Não realizado,300,0,Falta,Não,Particular,Águia Saúde Sul
+C00601,P0054,Gabriel,Ferreira,18,M,Rio de Janeiro,SP,21/04/2023,10:30,Neurologia,Dra. Isabela Moura,Eletroencefalograma,Não se aplica,440,6,Realizada,Não,Unimed,Águia Saúde Centro
+C00602,P0015,Guilherme,Almeida,89,M,São Paulo,SP,01/07/2025,11:00,Cardiologia,Dra. Renata Alves,Teste Ergométrico,Não realizado,350,,Cancelada,Não,Unimed,Águia Saúde Sul
+C00603,P0128,Camila,Costa,42,F,Santo André,SP,14/07/2022,15:45,Cardiologia,Dr. Roberto Cardoso,Ecocardiograma,Em análise,350,27,Realizada,Não,NotreDame,Águia Saúde Centro
+C00604,P0038,Daniela,Rocha,47,M,Guarulhos,SP,04/08/2025,16:00,Endocrinologia,Dr. André Teixeira,Insulina,Normal,320,83,Realizada,Não,Bradesco Saúde,Águia Saúde Centro
+C00605,P0110,Yasmin,Souza,22,M,Rio de Janeiro,SP,09/10/2022,11:30,Psiquiatria,Dra. Helena Duarte,Avaliação Psiquiátrica,Alterado,380,53,Realizada,Sim,SulAmérica,Águia Saúde Centro
+C00606,P0154,Mariana,Rocha,44,M,Rio de Janeiro,SP,24/07/2023,11:00,Endocrinologia,Dr. André Teixeira,TSH,Alterado,370,8,Realizada,Não,NotreDame,Águia Saúde Norte
+C00607,P0004,Yasmin,Silva,73,F,Santo André,SP,21/02/2024,14:15,Pediatria,Dra. Camila Freitas,Teste Alérgico,Não se aplica,270,13,Realizada,Sim,Bradesco Saúde,Águia Saúde Centro
+C00608,P0014,Fernanda,Almeida,22,M,Guarulhos,SP,07/07/2022,10:15,Ortopedia,Dr. Felipe Nunes,Raio-X,Não realizado,280,0,Falta,Não,Amil,Águia Saúde Norte
+C00609,P0120,Lucas,Pereira,64,F,Campinas,SP,12/28/2022,15:30,Pediatria,Dra. Camila Freitas,Exame de Rotina,Não realizado,240,,Falta,Não,NotreDame,Águia Saúde Sul
+C00610,P0031,Igor,Rocha,29,F,Salvador,SP,13/02/2024,09:45,Cardiologia,Dra. Renata Alves,Ecocardiograma,Não realizado,400,,Falta,Não,Bradesco Saúde,Águia Saúde Centro
+C00611,P0025,Rafael,Silva,35,F,Santo André,SP,03/05/2025,14:15,Neurologia,Dr. Henrique Lopes,Ressonância,Não realizado,440,,Cancelada,Não,Particular,Águia Saúde Norte
+C00612,P0036,Igor,Moura,29,F,São Bernardo,SP,14/11/2023,09:45,Psiquiatria,Dr. Samuel Brito,Avaliação Psiquiátrica,Normal,380,29,Realizada,Sim,SulAmérica,Águia Saúde Sul
+C00613,P0096,Lucas,Barbosa,55,F,Curitiba,SP,04/02/2024,11:30,Neurologia,Dra. Isabela Moura,Tomografia,Não realizado,390,0,Cancelada,Não,NotreDame,Águia Saúde Centro
+C00614,P0099,Patricia,Almeida,64,F,Salvador,SP,07/06/2023,16:30,  ortopedia  ,Dr. Felipe Nunes,Ressonância,Normal,330,94,Realizada,Não,Bradesco Saúde,Águia Saúde Norte
+C00615,P0003,Bruno,Silva,13,F,Curitiba,SP,25/09/2025,15:30,Ginecologia,Dra. Bianca Vieira,Mamografia,Alterado,310,37,Realizada,Sim,SulAmérica,Águia Saúde Centro
+C00616,P0030,Vanessa,Lima,18,M,Santo André,SP,15/04/2025,18:00,Neurologia,Dra. Isabela Moura,Tomografia,Não realizado,420,0,Cancelada,Não,Unimed,Águia Saúde Norte
+C00617,P0065,Daniela,Martins,73,M,São Bernardo,SP,23/09/2023,16:00,Oftalmologia,Dra. Natália Castro,Acuidade Visual,Não realizado,220,,Falta,Não,Hapvida,Águia Saúde Centro
+C00618,P0069,Gabriel,Barbosa,46,M,Curitiba,SP,11/12/2022,16:00,Neurologia,Dra. Isabela Moura,Eletroencefalograma,Não se aplica,390,94,Realizada,Não,Unimed,Águia Saúde Sul
+C00619,P0074,Lucas,Rocha,79,F,Guarulhos,SP,17/01/2023,16:15,Ortopedia,Dr. Felipe Nunes,Ressonância,Normal,330,69,Realizada,Não,SulAmérica,Águia Saúde Sul
+C00620,P0004,Yasmin,Silva,73,F,Santo André,SP,17/04/2024,11:00,Ortopedia,Dr. Felipe Nunes,Ressonância,Normal,280,42,Realizada,Não,Bradesco Saúde,Águia Saúde Centro
+C00621,P0002,Eduardo,Souza,88,F,São Bernardo,SP,20/09/2024,15:00,Psiquiatria,Dra. Helena Duarte,Escala de Ansiedade,Normal,350,39,Realizada,Sim,Bradesco Saúde,Águia Saúde Centro
+C00622,P0055,Mariana,Gomes,22,M,Santo André,SP,01/12/2024,18:30,Clínico Geral,Dra. Paula Rocha,Check-up Geral,Não realizado,230,,Cancelada,Não,,Águia Saúde Sul
+C00623,P0110,Yasmin,Souza,22,M,Rio de Janeiro,SP,10/01/2024,15:45,Ginecologia,Dra. Tatiane Costa,Preventivo,Normal,"300,50",47,Realizada,Sim,SulAmérica,Águia Saúde Norte
+C00624,P0179,Matheus,Gomes,idade_desconhecida,F,Campinas,SP,09/09/2022,17:30,Ortopedia,Dr. Felipe Nunes,Ultrassom Articular,Não se aplica,280,62,Realizada,Não,NotreDame,Águia Saúde Sul
+C00625,P0041,Vanessa,Barbosa,19,M,Belo Horizonte,SP,08/01/2024,17:30,Ginecologia,  dra. bianca vieira  ,Mamografia,Não se aplica,310,82,Realizada,Não,Amil,Águia Saúde Sul
+C00626,P0157,Lucas,Souza,53,F,Santo André,SP,10/09/2025,17:00,Ginecologia,Dra. Tatiane Costa,Ultrassom Transvaginal,Alterado,310,82,Realizada,Sim,Bradesco Saúde,Águia Saúde Sul
+C00627,P0147,Fernanda,Gomes,78,M,Osasco,SP,16/10/2024,16:30,Oftalmologia,Dr. Vinicius Reis,Mapeamento de Retina,Normal,300,62,Realizada,Não,Particular,Águia Saúde Sul
+C00628,P0014,Fernanda,Almeida,22,M,Guarulhos,SP,09/06/2024,18:00,Ortopedia,Dr. Felipe Nunes,Raio-X,Em análise,280,54,Realizada,Sim,Amil,Águia Saúde Sul
+C00629,P0066,Eduardo,Almeida,22,F,Guarulhos,SP,21/07/2025,16:00,Cardiologia,Dr. Roberto Cardoso,Teste Ergométrico,Normal,370,78,Realizada,Não,Particular,Águia Saúde Norte
+C00630,P0098,Sabrina,Silva,47,M,Guarulhos,SP,03/04/2023,10:30,Oftalmologia,Dra. Natália Castro,Mapeamento de Retina,Em análise,220,16,Realizada,Sim,NotreDame,Águia Saúde Sul
+C00631,P0030,Vanessa,Lima,18,M,Santo André,SP,27/03/2025,16:30,Ortopedia,Dra. Amanda Torres,Ressonância,Não realizado,250,0,Falta,Não,Unimed,Águia Saúde Norte
+C00632,P0109,Daniela,Costa,61,M,Campinas,SP,21/09/2025,15:15,Ginecologia,Dra. Bianca Vieira,Mamografia,Não realizado,230,0,Cancelada,Não,Unimed,Águia Saúde Sul
+C00633,P0118,Lucas,Almeida,13,M,Osasco,SP,24/10/2025,11:30,Dermatologia,Dra. Larissa Mendes,Dermatoscopia,Em análise,300,81,Realizada,Não,Unimed,Águia Saúde Sul
+C00634,P0037,Sabrina,Almeida,62,M,Curitiba,SP,20/08/2023,16:45,Endocrinologia,  dra. sofia ramos  ,Glicemia,Alterado,290,24,Realizada,Sim,Particular,Águia Saúde Sul
+C00635,P0014,Fernanda,Almeida,22,M,  guarulhos  ,SP,13/03/2024,10:15,Ortopedia,Dra. Amanda Torres,Ultrassom Articular,Não realizado,250,,Falta,Não,Amil,Águia Saúde Norte
+C00636,P0109,Daniela,Costa,61,M,Campinas,SP,28/05/2022,14:30,Ginecologia,Dra. Tatiane Costa,Ultrassom Transvaginal,Não se aplica,280,94,Realizada,Sim,Unimed,Águia Saúde Centro
+C00637,P0083,Carlos,Gomes,67,M,Rio de Janeiro,SP,15/09/2023,11:15,Psiquiatria,Dra. Helena Duarte,Escala de Depressão,Não realizado,380,,Cancelada,Não,NotreDame,Águia Saúde Norte
+C00638,P0013,Beatriz,Ferreira,89,F,São Bernardo,SP,24/03/2025,09:15,Clínico Geral,Dra. Paula Rocha,Check-up Geral,Não realizado,230,0,Cancelada,Não,Hapvida,Águia Saúde Centro
+C00639,P0025,Rafael,Silva,35,F,Santo André,SP,29/08/2022,18:30,Endocrinologia,Dra. Sofia Ramos,TSH,Não se aplica,370,85,Realizada,Sim,Particular,Águia Saúde Centro
+C00640,P0032,Beatriz,Martins,58,M,Rio de Janeiro,SP,07/03/2026,11:00,Dermatologia,Dra. Larissa Mendes,Teste Alérgico,Não realizado,350,,Cancelada,Não,Unimed,Águia Saúde Sul
+C00641,P0168,Wesley,Moura,21,M,Santo André,SP,19/06/2022,09:15,Clínico Geral,Dr. Marcos Lima,Hemograma,Não realizado,150,,Falta,Não,Bradesco Saúde,Águia Saúde Norte
+C00642,P0178,Carlos,Rocha,14,F,Osasco,SP,18/09/2024,18:45,Psiquiatria,Dra. Helena Duarte,Escala de Ansiedade,Não realizado,400,0,Falta,Não,Unimed,Águia Saúde Centro
+C00643,P0035,Carlos,Santos,44,F,Santo André,SP,10/02/2022,11:45,Ortopedia,Dra. Amanda Torres,Ultrassom Articular,Não realizado,250,0,Falta,Não,Unimed,Águia Saúde Centro
+C00644,P0169,Mariana,Ribeiro,72,M,Osasco,SP,10/02/2025,11:30,Ortopedia,Dr. Felipe Nunes,Raio-X,Alterado,250,21,Realizada,Sim,Amil,Águia Saúde Centro
+C00645,P0003,Bruno,Silva,13,F,Curitiba,SP,04/09/2023,11:15,Cardiologia,Dr. Roberto Cardoso,Teste Ergométrico,Em análise,400,36,Realizada,Sim,SulAmérica,Águia Saúde Sul
+C00646,P0076,Vanessa,  costa  ,48,M,Rio de Janeiro,SP,01/10/2024,16:30,Endocrinologia,Dra. Sofia Ramos,Insulina,Normal,320,89,Realizada,Sim,Hapvida,Águia Saúde Centro
+C00647,P0014,Fernanda,Almeida,22,M,Guarulhos,SP,06/01/2024,10:45,Ortopedia,Dr. Felipe Nunes,Ultrassom Articular,Não realizado,250,,Falta,Não,Amil,Águia Saúde Norte
+C00648,P0098,Sabrina,Silva,47,M,Guarulhos,SP,20/06/2022,18:45,Ortopedia,Dra. Amanda Torres,Ressonância,Não realizado,280,0,Falta,Não,NotreDame,Águia Saúde Centro
+C00649,P0162,Vanessa,Rocha,13,F,Rio de Janeiro,SP,08/09/2025,15:15,Pediatria,Dr. João Pedro,Teste Alérgico,Não se aplica,270,45,Realizada,Não,  bradesco saúde  ,Águia Saúde Centro
+C00650,P0018,Rafael,Lima,35,F,Curitiba,SP,01/28/2025,11:30,Cardiologia,Dr. Roberto Cardoso,Teste Ergométrico,Em análise,320,47,Realizada,Sim,Hapvida,Águia Saúde Centro
+C00651,P0025,Rafael,Silva,35,F,Santo André,SP,10/09/2022,10:30,Pediatria,Dr. João Pedro,Hemograma Infantil,Em análise,270,72,Realizada,Não,Particular,Águia Saúde Sul
+C00652,P0070,Ana,Costa,53,M,  salvador  ,SP,20/03/2026,11:30,Clínico Geral,Dr. Marcos Lima,Glicemia,Não realizado,230,0,Cancelada,Não,NotreDame,Águia Saúde Norte
+C00653,P0003,Bruno,Silva,13,F,Curitiba,SP,15/02/2024,15:30,Ortopedia,Dr. Felipe Nunes,Raio-X,Alterado,erro,95,Realizada,Não,SulAmérica,Águia Saúde Sul
+C00654,P0023,Vanessa,Silva,89,F,Santo André,SP,26/05/2024,14:15,Endocrinologia,Dr. André Teixeira,Glicemia,Não se aplica,340,44,Realizada,Não,NotreDame,Águia Saúde Centro
+C00655,P0016,Bruno,Ribeiro,53,M,Rio de Janeiro,SP,28/04/2022,09:30,Cardiologia,Dr. Roberto Cardoso,Teste Ergométrico,Alterado,400,59,Realizada,Não,Unimed,Águia Saúde Norte
+C00656,P0132,Igor,Santos,8,M,Belo Horizonte,SP,29/01/2022,15:00,Oftalmologia,Dr. Vinicius Reis,Tonometria,Não realizado,300,,Falta,Não,Hapvida,Águia Saúde Centro
+C00657,P0170,Gabriel,Almeida,75,M,Curitiba,SP,07/07/2024,18:15,Oftalmologia,Dr. Vinicius Reis,Acuidade Visual,Alterado,250,51,Realizada,Não,NotreDame,Águia Saúde Centro
+C00658,P0109,Daniela,Costa,61,M,Campinas,SP,24/11/2023,17:15,Ortopedia,Dra. Amanda Torres,Raio-X,Não se aplica,250,43,Realizada,Não,Unimed,Águia Saúde Norte
+C00659,P0041,Vanessa,Barbosa,19,M,Belo Horizonte,SP,17/09/2023,17:00,Psiquiatria,Dr. Samuel Brito,Avaliação Psiquiátrica,Não realizado,430,,Falta,Não,Amil,Águia Saúde Centro
+C00660,P0030,Vanessa,Lima,18,M,Santo André,SP,08/08/2022,08:15,Ginecologia,Dra. Tatiane Costa,Ultrassom Transvaginal,Normal,310,6,Realizada,Não,Unimed,Águia Saúde Norte
+C00661,P0033,Helena,Oliveira,45,F,São Bernardo,SP,25/09/2024,08:30,Ortopedia,Dra. Amanda Torres,Raio-X,Não realizado,280,,Cancelada,Não,SulAmérica,Águia Saúde Norte
+C00662,P0077,Lucas,Ribeiro,86,F,Salvador,SP,17/06/2024,15:45,Ortopedia,Dra. Amanda Torres,Raio-X,Não se aplica,280,50,Realizada,Sim,SulAmérica,Águia Saúde Norte
+C00663,P0019,Vanessa,Ferreira,76,M,São Bernardo,SP,12/05/2024,16:00,Clínico Geral,Dr. Marcos Lima,Glicemia,Em análise,180,,Realizada,Sim,Bradesco Saúde,Águia Saúde Norte
+C00664,P0126,Thiago,Martins,56,M,Campinas,SP,24/10/2024,16:45,Ortopedia,Dra. Amanda Torres,Ressonância,Normal,280,18,Realizada,Sim,Hapvida,Águia Saúde Centro
+C00665,P0089,Eduardo,Barbosa,87,M,Osasco,SP,02/12/2023,11:00,Pediatria,Dra. Camila Freitas,Teste Alérgico,Não realizado,270,,Cancelada,Não,SulAmérica,Águia Saúde Norte
+C00666,P0028,Daniela,Martins,41,F,São Paulo,SP,13/11/2024,10:30,Pediatria,Dra. Camila Freitas,Teste Alérgico,Alterado,190,94,Realizada,Não,Unimed,Águia Saúde Centro
+C00667,P0122,Thiago,Costa,12,F,Guarulhos,SP,25/04/2025,15:15,Cardiologia,Dr. Roberto Cardoso,Eletrocardiograma,Não se aplica,350,21,Realizada,Sim,Bradesco Saúde,Águia Saúde Norte
+C00668,P0050,Wesley,Almeida,76,F,São Bernardo,SP,13/02/2023,09:00,Neurologia,Dr. Henrique Lopes,Tomografia,Não realizado,470,,Cancelada,Não,Particular,Águia Saúde Sul
+C00669,P0163,Daniela,Lima,65,M,Santo André,SP,08/09/2024,08:45,  pediatria  ,Dr. João Pedro,Exame de Rotina,Em análise,190,19,Realizada,Não,Hapvida,Águia Saúde Norte
+C00670,P0090,Camila,Rocha,72,M,Belo Horizonte,SP,08/01/2023,08:00,Pediatria,Dr. João Pedro,Hemograma Infantil,Não se aplica,240,41,Realizada,Não,Hapvida,Águia Saúde Sul
+C00671,P0026,Guilherme,Gomes,83,F,Belo Horizonte,SP,16/11/2023,10:00,Dermatologia,Dr. Caio Martins,Dermatoscopia,Não realizado,270,0,Falta,Não,Amil,Águia Saúde Norte
+C00672,P0093,Carlos,Gomes,32,M,Campinas,SP,24/08/2025,10:45,Ginecologia,  dra. tatiane costa  ,Preventivo,Normal,230,21,Realizada,Sim,Amil,Águia Saúde Sul
+C00673,P0168,Wesley,Moura,21,M,Santo André,SP,03/06/2022,17:30,Pediatria,Dr. João Pedro,Hemograma Infantil,Não realizado,240,0,Cancelada,Não,Bradesco Saúde,Águia Saúde Sul
+C00674,P0013,Beatriz,Ferreira,89,F,São Bernardo,SP,13/12/2023,17:45,Neurologia,Dra. Isabela Moura,Tomografia,Não realizado,390,0,Cancelada,Não,Hapvida,Águia Saúde Norte
+C00675,P0108,Ana,Lima,32,F,Osasco,SP,12/05/2025,10:15,Oftalmologia,Dr. Vinicius Reis,Mapeamento de Retina,Normal,270,77,Realizada,Sim,Hapvida,Águia Saúde Sul
+C00676,P0102,Wesley,Silva,12,M,Belo Horizonte,SP,15/06/2024,16:45,Oftalmologia,Dr. Vinicius Reis,Mapeamento de Retina,Não realizado,300,,Cancelada,Não,NotreDame,Águia Saúde Centro
+C00677,P0037,Sabrina,Almeida,62,M,Curitiba,SP,21/07/2024,14:30,Pediatria,Dra. Camila Freitas,Teste Alérgico,Em análise,240,42,Realizada,Sim,Particular,Águia Saúde Centro
+C00678,P0016,Bruno,Ribeiro,53,M,Rio de Janeiro,SP,31/10/2022,17:30,Dermatologia,Dra. Larissa Mendes,Teste Alérgico,Alterado,300,11,Realizada,Sim,Unimed,Águia Saúde Sul
+C00679,P0023,Vanessa,Silva,89,F,Santo André,SP,20/06/2022,18:30,Psiquiatria,Dr. Samuel Brito,Escala de Ansiedade,Não realizado,380,,Cancelada,Não,NotreDame,Águia Saúde Norte
+C00680,P0015,Guilherme,Almeida,89,M,São Paulo,SP,05/02/2026,18:15,Clínico Geral,Dra. Paula Rocha,Hemograma,Normal,200,73,Realizada,Não,Unimed,Águia Saúde Sul
+C00681,P0066,Eduardo,Almeida,22,F,Guarulhos,SP,28/03/2023,11:15,Psiquiatria,Dra. Helena Duarte,Escala de Ansiedade,Alterado,430,62,Realizada,Não,  particular  ,Águia Saúde Norte
+C00682,P0038,Daniela,Rocha,47,M,Guarulhos,SP,29/07/2024,10:15,Cardiologia,Dra. Renata Alves,Eletrocardiograma,Não realizado,350,,Falta,Não,Bradesco Saúde,Águia Saúde Sul
+C00683,P0047,Bruno,Santos,42,F,São Paulo,SP,30/12/2022,16:15,Clínico Geral,Dra. Paula Rocha,Hemograma,Não se aplica,150,14,Realizada,Sim,SulAmérica,Águia Saúde Norte
+C00684,P0166,Camila,Lima,10,M,Guarulhos,SP,17/03/2026,16:00,Cardiologia,Dr. Roberto Cardoso,Teste Ergométrico,Não realizado,400,0,Cancelada,Não,Amil,Águia Saúde Centro
+C00685,P0004,Yasmin,Silva,-5,F,Santo André,SP,27/04/2026,09:15,Clínico Geral,Dr. Marcos Lima,Hemograma,Em análise,150,18,Realizada,Sim,Bradesco Saúde,Águia Saúde Centro
+C00686,P0036,Igor,Moura,29,F,São Bernardo,SP,22/09/2023,11:15,Psiquiatria,Dr. Samuel Brito,Avaliação Psiquiátrica,Em análise,380,74,Realizada,Sim,SulAmérica,Águia Saúde Centro
+C00687,P0019,Vanessa,Ferreira,76,M,São Bernardo,SP,03/01/2022,17:00,Cardiologia,Dra. Renata Alves,Eletrocardiograma,Não realizado,350,,Cancelada,Não,Bradesco Saúde,Águia Saúde Centro
+C00688,P0091,Sabrina,Barbosa,35,F,Salvador,SP,04/01/2026,16:00,Pediatria,Dr. João Pedro,Teste Alérgico,Alterado,270,19,Realizada,Sim,NotreDame,Águia Saúde Norte
+C00689,P0022,Carlos,Carvalho,50,M,Santo André,SP,30/03/2022,15:15,Cardiologia,Dra. Renata Alves,Eletrocardiograma,Não realizado,400,,Falta,Não,Amil,Águia Saúde Sul
+C00690,P0047,Bruno,Santos,42,F,São Paulo,SP,08/11/2023,11:00,Ortopedia,Dra. Amanda Torres,Ultrassom Articular,Não realizado,300,,Cancelada,Não,SulAmérica,Águia Saúde Norte
+C00691,P0020,Mariana,Almeida,19,M,Rio de Janeiro,SP,30/10/2022,11:45,Ortopedia,Dr. Felipe Nunes,Ressonância,Não se aplica,250,78,Realizada,Não,NotreDame,Águia Saúde Centro
+C00692,P0024,Igor,Ribeiro,16,M,Guarulhos,SP,24/12/2023,11:45,Ortopedia,Dr. Felipe Nunes,Ressonância,Não realizado,330,,Cancelada,Não,Unimed,Águia Saúde Centro
+C00693,P0168,Wesley,Moura,21,M,Santo André,SP,15/10/2024,14:45,Neurologia,Dra. Isabela Moura,Tomografia,Não realizado,420,0,Cancelada,Não,Bradesco Saúde,Águia Saúde Sul
+C00694,P0108,Ana,Lima,32,F,Osasco,SP,11/01/2024,08:00,Pediatria,Dra. Camila Freitas,Hemograma Infantil,Não realizado,240,,Falta,Não,Hapvida,Águia Saúde Centro
+C00695,P0023,Vanessa,Silva,89,F,Santo André,SP,31/07/2024,09:45,Ginecologia,Dra. Bianca Vieira,Ultrassom Transvaginal,Normal,260,33,Realizada,Sim,NotreDame,Águia Saúde Centro
+C00696,P0179,Matheus,Gomes,5,F,Campinas,SP,19/05/2024,11:00,Neurologia,Dr. Henrique Lopes,Tomografia,Não realizado,390,0,Cancelada,Não,NotreDame,Águia Saúde Centro
+C00697,P0038,Daniela,Rocha,47,M,Guarulhos,SP,26/01/2022,15:45,Cardiologia,Dr. Roberto Cardoso,Eletrocardiograma,Alterado,350,65,Realizada,Não,Bradesco Saúde,Águia Saúde Norte
+C00698,P0106,Vanessa,Santos,46,F,Rio de Janeiro,SP,16/08/2022,09:00,Endocrinologia,Dra. Sofia Ramos,Glicemia,Não realizado,320,0,Falta,Não,NotreDame,Águia Saúde Centro
+C00699,P0102,Wesley,Silva,12,M,,SP,24/10/2024,10:15,Endocrinologia,Dr. André Teixeira,Insulina,Normal,370,39,Realizada,Não,NotreDame,Águia Saúde Centro
+C00700,P0055,Mariana,Gomes,22,M,Santo André,SP,12/01/2023,16:00,  clínico geral  ,Dr. Marcos Lima,Glicemia,Não realizado,230,,Cancelada,Não,Hapvida,Águia Saúde Sul
+C00701,P0165,Vanessa,Lima,51,F,São Bernardo,SP,31/01/2024,15:15,Neurologia,Dr. Henrique Lopes,Eletroencefalograma,Normal,440,18,Realizada,Não,SulAmérica,Águia Saúde Sul
+C00702,P0019,Vanessa,Ferreira,76,M,São Bernardo,SP,10/03/2023,15:30,Ortopedia,Dr. Felipe Nunes,Raio-X,Não realizado,280,0,Falta,Não,Bradesco Saúde,Águia Saúde Sul
+C00703,P0006,Fernanda,Rocha,45,M,Belo Horizonte,SP,17/09/2024,08:30,Psiquiatria,Dra. Helena Duarte,Escala de Depressão,Em análise,350,6,Realizada,Não,Unimed,Águia Saúde Norte
+C00704,P0026,Guilherme,Gomes,83,F,Belo Horizonte,SP,13/10/2025,09:45,  ginecologia  ,Dra. Bianca Vieira,Mamografia,Não realizado,230,0,Falta,Não,Amil,Águia Saúde Centro
+C00705,P0151,Wesley,Silva,88,M,São Bernardo,SP,27/11/2022,09:45,Endocrinologia,Dra. Sofia Ramos,Glicemia,Alterado,290,34,Realizada,Sim,Particular,Águia Saúde Sul
+C00706,P0042,Rafael,Almeida,11,M,Santo André,SP,26/09/2022,11:30,Oftalmologia,Dra. Natália Castro,Tonometria,Não se aplica,300,92,Realizada,Sim,Particular,Águia Saúde Centro
+C00707,P0157,Lucas,Souza,53,F,Santo André,SP,31/01/2022,09:30,Ortopedia,Dra. Amanda Torres,Raio-X,Não realizado,250,0,Cancelada,Não,Bradesco Saúde,Águia Saúde Norte
+C00708,P0019,Vanessa,Ferreira,76,M,São Bernardo,SP,26/03/2025,11:00,Ortopedia,Dr. Felipe Nunes,Ressonância,Não se aplica,250,95,Realizada,Não,Bradesco Saúde,Águia Saúde Norte
+C00709,P0066,Eduardo,Almeida,22,F,Guarulhos,SP,10/03/2025,14:30,Endocrinologia,Dra. Sofia Ramos,TSH,Não realizado,340,,Cancelada,Não,Particular,Águia Saúde Sul
+C00710,P0024,Igor,Ribeiro,16,M,Guarulhos,SP,20/06/2022,15:45,Oftalmologia,Dra. Natália Castro,Tonometria,Normal,270,84,Realizada,Sim,Unimed,Águia Saúde Sul
+C00711,P0007,Lucas,Souza,13,M,Rio de Janeiro,SP,13/03/2025,11:00,Dermatologia,Dr. Caio Martins,Biópsia de Pele,Não realizado,300,,Cancelada,Não,Amil,Águia Saúde Sul
+C00712,P0024,Igor,Ribeiro,16,M,Guarulhos,SP,25/06/2022,10:00,Endocrinologia,Dr. André Teixeira,TSH,Não realizado,-100,0,Cancelada,Não,Unimed,Águia Saúde Norte
+C00713,P0022,Carlos,Carvalho,50,M,Santo André,SP,09/12/2025,16:00,Psiquiatria,Dr. Samuel Brito,Avaliação Psiquiátrica,Não realizado,400,0,Cancelada,Não,Amil,Águia Saúde Sul
+C00714,P0040,Camila,Ribeiro,15,F,Curitiba,SP,09/03/2025,08:45,Ortopedia,Dr. Felipe Nunes,Ressonância,Não se aplica,250,60,Realizada,Sim,Unimed,Águia Saúde Centro
+C00715,P0055,Mariana,Gomes,22,M,Santo André,SP,25/07/2025,10:15,Neurologia,Dra. Isabela Moura,Ressonância,Normal,390,56,Realizada,Não,Hapvida,Águia Saúde Sul
+C00716,P0116,Rafael,Lima,57,F,Santo André,SP,16/06/2023,10:00,Oftalmologia,Dr. Vinicius Reis,Acuidade Visual,Não realizado,220,,Cancelada,Não,Hapvida,Águia Saúde Norte
+C00717,P0027,Fernanda,Silva,78,M,Osasco,SP,11/11/2025,16:45,Endocrinologia,Dr. André Teixeira,Insulina,Não realizado,340,,Falta,Não,Particular,Águia Saúde Centro
+C00718,P0144,Rafael,Oliveira,89,F,Salvador,SP,20/01/2026,15:15,Psiquiatria,Dra. Helena Duarte,Avaliação Psiquiátrica,Alterado,400,6,Realizada,Não,NotreDame,Águia Saúde Centro
+C00719,P0128,Camila,Costa,42,F,Santo André,SP,02/12/2024,16:45,Cardiologia,Dra. Renata Alves,Ecocardiograma,Não realizado,350,0,Cancelada,Não,NotreDame,Águia Saúde Centro
+C00720,P0056,Juliana,Silva,87,M,Rio de Janeiro,SP,23/01/2025,16:45,Pediatria,Dr. João Pedro,Teste Alérgico,Alterado,220,31,Realizada,Sim,Unimed,Águia Saúde Norte
+C00721,P0020,Mariana,Almeida,19,M,Rio de Janeiro,SP,19/10/2024,15:45,Oftalmologia,Dr. Vinicius Reis,Acuidade Visual,Não realizado,300,,Cancelada,Não,NotreDame,Águia Saúde Norte
+C00722,P0139,Juliana,Rocha,41,F,São Bernardo,SP,28/07/2024,11:15,Ginecologia,Dra. Bianca Vieira,Preventivo,Não realizado,260,,Falta,Não,Hapvida,Águia Saúde Norte
+C00723,P0073,Bruno,Souza,78,M,Campinas,SP,24/06/2025,17:00,Neurologia,Dra. Isabela Moura,Tomografia,Normal,390,16,Realizada,Não,Hapvida,Águia Saúde Centro
+C00724,P0128,Camila,Costa,42,F,Santo André,SP,28/06/2024,14:00,Psiquiatria,Dra. Helena Duarte,Escala de Depressão,Não realizado,400,0,Cancelada,Não,NotreDame,Águia Saúde Centro
+C00725,P0117,Igor,Moura,61,M,São Bernardo,SP,12/09/2022,11:45,Cardiologia,Dr. Roberto Cardoso,Ecocardiograma,Não realizado,400,0,Cancelada,Não,Amil,Águia Saúde Norte
+C00726,P0058,Yasmin,Costa,45,F,Salvador,SP,29/04/2024,15:00,Dermatologia,Dr. Caio Martins,Dermatoscopia,Normal,350,6,Realizada,Sim,SulAmérica,Águia Saúde Norte
+C00727,P0133,Sabrina,Souza,3,M,Osasco,SP,16/12/2022,18:45,Psiquiatria,Dr. Samuel Brito,Escala de Ansiedade,Não realizado,380,,Falta,Não,Bradesco Saúde,Águia Saúde Centro
+C00728,P0158,Patricia,Santos,26,M,São Bernardo,SP,27/07/2025,11:15,Clínico Geral,Dra. Paula Rocha,Hemograma,Alterado,230,71,Realizada,Não,NotreDame,Águia Saúde Centro
+C00729,P0026,Guilherme,Gomes,83,F,Belo Horizonte,SP,27/03/2025,16:30,Ortopedia,Dr. Felipe Nunes,Ultrassom Articular,Normal,280,31,Realizada,Sim,Amil,Águia Saúde Centro
+C00730,P0038,Daniela,Rocha,47,M,Guarulhos,SP,20/12/2025,14:00,Ortopedia,Dr. Felipe Nunes,Ultrassom Articular,Não se aplica,330,21,Realizada,Não,Bradesco Saúde,Águia Saúde Centro
+C00731,P0062,Daniela,Oliveira,21,F,Campinas,SP,01/01/2025,16:45,Pediatria,Dr. João Pedro,Hemograma Infantil,Normal,240,40,Realizada,Sim,SulAmérica,Águia Saúde Sul
+C00732,P0006,Fernanda,Rocha,45,M,,SP,29/07/2024,17:00,Psiquiatria,Dra. Helena Duarte,Avaliação Psiquiátrica,Em análise,350,41,Realizada,Sim,Unimed,Águia Saúde Centro
+C00733,P0020,Mariana,Almeida,19,M,Rio de Janeiro,SP,26/07/2022,14:00,Ginecologia,Dra. Bianca Vieira,Ultrassom Transvaginal,Normal,310,67,Realizada,Sim,,Águia Saúde Sul
+C00734,P0108,Ana,Lima,32,F,Osasco,SP,01/04/2023,10:15,Ginecologia,Dra. Tatiane Costa,Preventivo,,230,48,Realizada,Não,Hapvida,Águia Saúde Sul
+C00735,P0154,Mariana,Rocha,44,M,Rio de Janeiro,SP,30/01/2023,15:00,Ortopedia,Dra. Amanda Torres,Raio-X,Normal,280,51,Realizada,Sim,NotreDame,Águia Saúde Centro
+C00736,P0006,Fernanda,Rocha,45,M,Belo Horizonte,SP,13/09/2024,10:00,Ortopedia,Dra. Amanda Torres,Ressonância,Não realizado,300,,Falta,Não,Unimed,Águia Saúde Norte
+C00737,P0127,Rafael,Ferreira,41,M,Curitiba,SP,21/12/2022,10:30,Neurologia,Dr. Henrique Lopes,Ressonância,Em análise,470,79,Realizada,Sim,Particular,Águia Saúde Centro
+C00738,P0125,Helena,Gomes,86,M,Osasco,SP,11/03/2026,10:30,Endocrinologia,Dr. André Teixeira,Insulina,Não realizado,290,,Falta,Não,SulAmérica,Águia Saúde Norte
+C00739,P0052,Igor,Carvalho,18,M,Osasco,SP,09/12/2022,17:30,Ginecologia,Dra. Bianca Vieira,Ultrassom Transvaginal,Em análise,310,82,Realizada,Não,Amil,Águia Saúde Centro
+C00740,P0021,Bruno,Souza,21,F,Guarulhos,SP,18/05/2023,08:30,Neurologia,Dr. Henrique Lopes,Ressonância,Normal,440,,Realizada,Sim,SulAmérica,Águia Saúde Norte
+C00741,P0022,Carlos,Carvalho,50,M,Santo André,SP,21/10/2023,17:00,Pediatria,Dr. João Pedro,Teste Alérgico,Alterado,270,82,Realizada,Sim,Amil,Águia Saúde Centro
+C00742,P0039,Camila,Santos,88,F,São Paulo,SP,29/03/2026,11:30,Cardiologia,Dra. Renata Alves,Teste Ergométrico,Não se aplica,350,11,Realizada,Não,Bradesco Saúde,Águia Saúde Centro
+C00743,P0071,Carlos,Ferreira,46,M,Santo André,SP,16/05/2025,11:45,Cardiologia,Dra. Renata Alves,Eletrocardiograma,Não realizado,350,0,Falta,Não,Amil,Águia Saúde Norte
+C00744,P0005,Helena,Barbosa,77,M,,SP,06/08/2023,09:45,Psiquiatria,Dra. Helena Duarte,Escala de Ansiedade,Não realizado,350,0,Falta,Não,NotreDame,Águia Saúde Norte
+C00745,P0031,Igor,Rocha,29,F,Salvador,SP,09/09/2023,10:30,Cardiologia,Dra. Renata Alves,Teste Ergométrico,Em análise,400,76,Realizada,Não,Bradesco Saúde,Águia Saúde Sul
+C00746,P0013,Beatriz,Ferreira,89,F,São Bernardo,SP,06/09/2022,16:00,Endocrinologia,Dr. André Teixeira,Insulina,Normal,290,11,Realizada,Sim,Hapvida,Águia Saúde Centro
+C00747,P0083,Carlos,Gomes,67,M,Rio de Janeiro,SP,30/06/2022,10:30,Neurologia,Dr. Henrique Lopes,Eletroencefalograma,Normal,390,38,Realizada,Sim,NotreDame,Águia Saúde Centro
+C00748,P0022,Carlos,Carvalho,50,M,Santo André,SP,01/12/2025,09:15,Psiquiatria,Dr. Samuel Brito,Escala de Ansiedade,Em análise,430,21,Realizada,Sim,Amil,Águia Saúde Sul
+C00749,P0106,Vanessa,Santos,46,F,Rio de Janeiro,SP,05/09/2024,15:30,Cardiologia,Dr. Roberto Cardoso,Teste Ergométrico,Não realizado,370,0,Cancelada,Não,NotreDame,Águia Saúde Centro
+C00750,P0068,Matheus,Souza,50,F,Osasco,SP,12/05/2023,15:15,Cardiologia,Dra. Renata Alves,Teste Ergométrico,Normal,320,68,Realizada,Sim,Unimed,Águia Saúde Centro
+C00751,P0025,Rafael,Silva,35,F,Santo André,SP,29/11/2023,10:30,Pediatria,Dr. João Pedro,Hemograma Infantil,Não realizado,240,0,Cancelada,Não,Particular,Águia Saúde Sul
+C00752,P0028,Daniela,Martins,41,F,São Paulo,SP,15/07/2024,17:15,Pediatria,Dr. João Pedro,Exame de Rotina,Em análise,270,13,Realizada,Não,Unimed,Águia Saúde Centro
+C00753,P0176,Lucas,Carvalho,42,M,Santo André,SP,02/08/2024,17:00,Psiquiatria,Dra. Helena Duarte,Avaliação Psiquiátrica,Alterado,380,63,Realizada,Não,Particular,Águia Saúde Centro
+C00754,P0122,Thiago,Costa,12,F,Guarulhos,SP,31/08/2022,17:00,Endocrinologia,Dr. André Teixeira,Glicemia,Não realizado,340,0,Cancelada,Não,Bradesco Saúde,Águia Saúde Centro
+C00755,P0102,Wesley,Silva,12,M,Belo Horizonte,SP,22/06/2024,10:00,Oftalmologia,Dra. Natália Castro,Mapeamento de Retina,Não realizado,220,,Cancelada,Não,NotreDame,Águia Saúde Centro
+C00756,P0012,Rafael,Martins,22,M,Campinas,SP,29/05/2025,14:45,Psiquiatria,Dr. Samuel Brito,Escala de Depressão,Alterado,350,87,Realizada,Sim,Unimed,Águia Saúde Centro
+C00757,P0003,Bruno,Silva,13,F,Curitiba,SP,15/05/2022,14:30,Psiquiatria,Dr. Samuel Brito,Avaliação Psiquiátrica,Não realizado,380,,Falta,Não,SulAmérica,Águia Saúde Norte
+C00758,P0045,Nicolas,Silva,51,M,Osasco,SP,17/12/2022,16:30,Dermatologia,Dr. Caio Martins,Biópsia de Pele,Não realizado,320,,Falta,Não,Amil,Águia Saúde Sul
+C00759,P0033,Helena,Oliveira,45,F,São Bernardo,SP,18/09/2023,17:15,Psiquiatria,Dr. Samuel Brito,Escala de Depressão,Normal,380,92,Realizada,Sim,SulAmérica,Águia Saúde Centro
+C00760,P0086,Guilherme,Costa,51,M,Guarulhos,SP,29/08/2024,11:00,Ortopedia,Dr. Felipe Nunes,Ultrassom Articular,Alterado,280,14,Realizada,Sim,Unimed,Águia Saúde Sul
+C00761,P0091,Sabrina,Barbosa,35,F,Salvador,SP,22/05/2023,14:00,Psiquiatria,Dra. Helena Duarte,Escala de Ansiedade,Não realizado,350,,Falta,Não,NotreDame,Águia Saúde Centro
+C00762,P0135,Sabrina,Souza,10,M,Osasco,SP,16/09/2023,16:30,Ortopedia,Dr. Felipe Nunes,Raio-X,Não realizado,"R$ 250,00",,Cancelada,Não,Particular,Águia Saúde Sul
+C00763,P0066,Eduardo,Almeida,22,F,Guarulhos,SP,28/01/2022,16:30,Dermatologia,Dr. Caio Martins,Dermatoscopia,Não realizado,320,,Falta,Não,Particular,Águia Saúde Centro
+C00764,P0070,Ana,Costa,53,M,Salvador,SP,28/03/2023,15:15,Clínico Geral,Dr. Marcos Lima,Glicemia,Não realizado,200,0,Cancelada,Não,NotreDame,Águia Saúde Centro
+C00765,P0148,Rafael,Gomes,53,M,Santo André,SP,05/03/2026,09:45,Neurologia,Dra. Isabela Moura,Eletroencefalograma,Não se aplica,390,85,Realizada,Sim,SulAmérica,Águia Saúde Norte
+C00766,P0174,Rafael,Silva,20,M,Belo Horizonte,SP,04/05/2024,18:30,Ginecologia,Dra. Tatiane Costa,Mamografia,Em análise,280,10,Realizada,Sim,Particular,Águia Saúde Norte
+C00767,P0117,Igor,Moura,,M,São Bernardo,SP,18/01/2022,14:15,Ginecologia,Dra. Tatiane Costa,Preventivo,Em análise,310,71,Realizada,Sim,Amil,Águia Saúde Norte
+C00768,P0019,Vanessa,Ferreira,76,M,São Bernardo,SP,22/03/2023,10:00,Clínico Geral,Dra. Paula Rocha,Hemograma,Não realizado,150,,Cancelada,Não,Bradesco Saúde,Águia Saúde Centro
+C00769,P0111,Ana,Gomes,75,M,Guarulhos,SP,10/10/2022,11:30,Clínico Geral,Dr. Marcos Lima,Glicemia,Alterado,180,39,Realizada,Sim,Hapvida,Águia Saúde Norte
+C00770,P0150,Lucas,Ferreira,5,F,Curitiba,SP,27/08/2024,17:15,Dermatologia,  dra. larissa mendes  ,Biópsia de Pele,Não realizado,350,,Cancelada,Não,Hapvida,Águia Saúde Centro
+C00771,P0067,Fernanda,Ribeiro,54,F,Salvador,SP,28/02/2025,11:30,Psiquiatria,Dr. Samuel Brito,Avaliação Psiquiátrica,Alterado,380,37,Realizada,Não,Unimed,Águia Saúde Sul
+C00772,P0052,Igor,Carvalho,18,M,Osasco,SP,10/07/2025,11:15,Cardiologia,Dra. Renata Alves,Teste Ergométrico,Não realizado,400,0,Cancelada,Não,Amil,Águia Saúde Centro
+C00773,P0135,Sabrina,Souza,10,M,Osasco,SP,27/12/2023,11:45,Ginecologia,Dra. Tatiane Costa,Ultrassom Transvaginal,Não realizado,310,0,Cancelada,Não,Particular,Águia Saúde Sul
+C00774,P0007,Lucas,Souza,13,M,Rio de Janeiro,SP,13/06/2025,17:15,Neurologia,Dr. Henrique Lopes,Eletroencefalograma,Em análise,440,84,Realizada,Sim,Amil,Águia Saúde Norte
+C00775,P0033,Helena,Oliveira,45,F,São Bernardo,SP,31/07/2024,16:00,  clínico geral  ,Dra. Paula Rocha,Check-up Geral,Normal,150,88,Realizada,Não,SulAmérica,Águia Saúde Sul
+C00776,P0025,Rafael,Silva,35,F,Santo André,SP,10/11/2023,17:00,Psiquiatria,Dr. Samuel Brito,Escala de Depressão,Alterado,350,71,Realizada,Não,Particular,Águia Saúde Centro
+C00777,P0058,Yasmin,Costa,45,F,Salvador,SP,29/09/2023,16:00,Ortopedia,Dra. Amanda Torres,Ultrassom Articular,Não realizado,330,0,Falta,Não,SulAmérica,Águia Saúde Centro
+C00778,P0039,Camila,Santos,88,F,São Paulo,SP,23/02/2023,09:00,Cardiologia,Dr. Roberto Cardoso,Eletrocardiograma,Não realizado,400,0,Cancelada,Não,Bradesco Saúde,Águia Saúde Centro
+C00779,P0077,Lucas,Ribeiro,86,F,Salvador,SP,18/06/2023,16:45,Ortopedia,Dr. Felipe Nunes,Ultrassom Articular,Não realizado,250,0,Cancelada,Não,SulAmérica,Águia Saúde Sul
+C00780,P0043,Bruno,Silva,13,F,Belo Horizonte,SP,02/27/2026,16:15,Pediatria,Dra. Camila Freitas,Teste Alérgico,Não realizado,270,,Cancelada,Não,Bradesco Saúde,Águia Saúde Norte
+C00781,P0038,  daniela  ,Rocha,47,M,Guarulhos,SP,18/07/2023,11:00,Endocrinologia,Dr. André Teixeira,Insulina,Não realizado,370,,Cancelada,Não,Bradesco Saúde,Águia Saúde Centro
+C00782,P0008,Mariana,  ferreira  ,7,M,Santo André,SP,03/04/2025,10:45,Psiquiatria,Dr. Samuel Brito,Avaliação Psiquiátrica,Não se aplica,350,22,Realizada,Não,Particular,Águia Saúde Norte
+C00783,P0003,Bruno,Silva,13,F,Curitiba,SP,17/12/2025,14:00,Ginecologia,Dra. Bianca Vieira,Ultrassom Transvaginal,Em análise,260,50,Realizada,Não,SulAmérica,Águia Saúde Sul
+C00784,P0043,Bruno,Silva,13,F,Belo Horizonte,SP,14/08/2025,14:45,Dermatologia,Dr. Caio Martins,Biópsia de Pele,Não realizado,300,,Falta,Não,Bradesco Saúde,Águia Saúde Centro
+C00785,P0179,Matheus,Gomes,5,F,Campinas,SP,18/06/2025,16:00,Psiquiatria,Dr. Samuel Brito,Escala de Depressão,Alterado,350,25,Realizada,Sim,NotreDame,Águia Saúde Sul
+C00786,P0028,Daniela,Martins,41,F,São Paulo,SP,30/04/2026,16:15,Endocrinologia,Dr. André Teixeira,TSH,Não se aplica,290,54,Realizada,Sim,Unimed,Águia Saúde Centro
+C00787,P0003,Bruno,Silva,13,F,Curitiba,SP,27/05/2025,15:00,Cardiologia,Dra. Renata Alves,Ecocardiograma,Não se aplica,350,18,Realizada,Não,SulAmérica,Águia Saúde Centro
+C00788,P0164,Igor,Rocha,63,M,Curitiba,SP,02/10/2024,11:30,Pediatria,Dra. Camila Freitas,Exame de Rotina,Não se aplica,220,25,Realizada,Sim,Bradesco Saúde,Águia Saúde Centro
+C00789,P0043,Bruno,Silva,13,F,Belo Horizonte,SP,15/10/2022,17:30,Cardiologia,  dr. roberto cardoso  ,Eletrocardiograma,Não realizado,400,0,Falta,Não,Bradesco Saúde,Águia Saúde Norte
+C00790,P0048,Sabrina,Pereira,9,F,Belo Horizonte,SP,01/03/2023,15:45,Oftalmologia,Dra. Natália Castro,Mapeamento de Retina,Alterado,270,84,Realizada,Sim,Particular,Águia Saúde Norte
+C00791,P0110,Yasmin,Souza,22,M,Rio de Janeiro,SP,25/11/2024,10:00,Cardiologia,Dr. Roberto Cardoso,Eletrocardiograma,Em análise,400,11,Realizada,Sim,SulAmérica,Águia Saúde Centro
+C00792,P0075,Gabriel,Ferreira,7,M,São Paulo,SP,03/01/2024,08:15,Dermatologia,Dr. Caio Martins,Teste Alérgico,Alterado,320,73,Realizada,Não,SulAmérica,Águia Saúde Norte
+C00793,P0045,Nicolas,Silva,51,M,Osasco,SP,30/08/2025,08:30,Cardiologia,Dra. Renata Alves,Ecocardiograma,Em análise,400,30,Realizada,Sim,Amil,Águia Saúde Centro
+C00794,P0053,Carlos,Silva,60,F,Rio de Janeiro,SP,07/10/2024,08:00,Ginecologia,Dra. Bianca Vieira,Preventivo,Normal,280,58,Realizada,Não,SulAmérica,Águia Saúde Centro
+C00795,P0070,Ana,Costa,53,M,Salvador,SP,05/11/2024,10:30,Cardiologia,Dr. Roberto Cardoso,Ecocardiograma,Não realizado,400,,Cancelada,Não,NotreDame,Águia Saúde Centro
+C00796,P0006,Fernanda,Rocha,45,M,Belo Horizonte,SP,30/05/2025,17:00,Clínico Geral,Dr. Marcos Lima,Check-up Geral,Não se aplica,230,,Realizada,Sim,Unimed,Águia Saúde Norte
+C00797,P0180,Bruno,Gomes,idade_desconhecida,M,Guarulhos,SP,30/08/2022,17:30,Ortopedia,Dr. Felipe Nunes,Ressonância,Não se aplica,300,48,Realizada,Sim,Unimed,Águia Saúde Centro
+C00798,P0001,Guilherme,Souza,5,M,Curitiba,SP,22/03/2026,17:00,Pediatria,Dr. João Pedro,Teste Alérgico,Normal,190,12,Realizada,Sim,Unimed,Águia Saúde Centro
+C00799,P0003,Bruno,Silva,13,F,Curitiba,SP,03/09/2025,17:30,Ginecologia,Dra. Tatiane Costa,Mamografia,Não realizado,260,,Falta,Não,SulAmérica,Águia Saúde Norte
+C00800,P0005,Helena,Barbosa,77,M,São Paulo,SP,26/02/2023,14:30,Cardiologia,Dra. Renata Alves,Teste Ergométrico,Não realizado,350,,Cancelada,Não,NotreDame,Águia Saúde Norte
+C00801,P0042,Rafael,Almeida,11,M,Santo André,SP,30/11/2025,14:00,Pediatria,Dr. João Pedro,Exame de Rotina,Não se aplica,190,57,Realizada,Não,Particular,Águia Saúde Centro
+C00802,P0053,Carlos,Silva,60,F,,SP,28/02/2026,14:00,Oftalmologia,Dr. Vinicius Reis,Tonometria,Alterado,270,9,Realizada,Não,SulAmérica,Águia Saúde Sul
+C00803,P0117,Igor,Moura,61,M,São Bernardo,SP,08/07/2023,10:45,Clínico Geral,Dra. Paula Rocha,Hemograma,Em análise,200,12,Realizada,Não,Amil,Águia Saúde Norte
+C00804,P0005,Helena,Barbosa,77,M,São Paulo,SP,05/04/2023,10:15,Neurologia,Dra. Isabela Moura,Eletroencefalograma,Não realizado,470,0,Falta,Não,NotreDame,Águia Saúde Sul
+C00805,P0023,Vanessa,Silva,89,F,Santo André,SP,23/03/2026,15:00,Clínico Geral,Dra. Paula Rocha,Glicemia,Não realizado,200,,Falta,Não,NotreDame,Águia Saúde Norte
+C00806,P0015,Guilherme,Almeida,89,M,São Paulo,SP,20/10/2025,10:45,Oftalmologia,Dra. Natália Castro,Acuidade Visual,Não realizado,300,,Falta,Não,Unimed,Águia Saúde Centro
+C00807,P0098,Sabrina,Silva,47,M,Guarulhos,SP,29/07/2023,16:30,Pediatria,Dra. Camila Freitas,Hemograma Infantil,Em análise,190,74,Realizada,Não,NotreDame,Águia Saúde Sul
+C00808,P0018,Rafael,Lima,35,F,Curitiba,SP,29/05/2023,16:00,Ginecologia,Dra. Tatiane Costa,Mamografia,Em análise,230,77,Realizada,Não,Hapvida,Águia Saúde Centro
+C00809,P0114,Patricia,Martins,10,M,São Paulo,SP,17/03/2022,18:45,Endocrinologia,Dra. Sofia Ramos,Glicemia,Não realizado,320,0,Cancelada,Não,NotreDame,Águia Saúde Sul
+C00810,P0040,Camila,Ribeiro,15,F,Curitiba,SP,21/06/2024,10:30,Oftalmologia,Dra. Natália Castro,Mapeamento de Retina,Não realizado,270,0,Cancelada,Não,Unimed,Águia Saúde Centro
+C00811,P0040,Camila,Ribeiro,15,F,Curitiba,SP,02/09/2025,08:45,Clínico Geral,Dr. Marcos Lima,Hemograma,Alterado,200,75,Realizada,Sim,Unimed,Águia Saúde Sul
+C00812,P0067,Fernanda,Ribeiro,54,F,Salvador,SP,11/01/2026,08:15,Clínico Geral,Dra. Paula Rocha,Check-up Geral,Não se aplica,200,14,Realizada,Sim,Unimed,Águia Saúde Sul
+C00813,P0021,Bruno,Souza,21,F,Guarulhos,SP,01/05/2024,08:45,Psiquiatria,Dr. Samuel Brito,Escala de Depressão,Em análise,400,8,Realizada,Não,SulAmérica,Águia Saúde Norte
+C00814,P0105,Patricia,Ferreira,12,M,São Paulo,SP,27/06/2025,08:30,Ginecologia,Dra. Tatiane Costa,Ultrassom Transvaginal,Normal,230,24,Realizada,Sim,Hapvida,Águia Saúde Sul
+C00815,P0055,Mariana,Gomes,22,M,Santo André,SP,15/02/2024,16:00,Oftalmologia,Dra. Natália Castro,Mapeamento de Retina,Não realizado,250,0,Cancelada,Não,Hapvida,Águia Saúde Centro
+C00816,P0058,Yasmin,Costa,45,F,Salvador,SP,10/02/2026,09:00,Psiquiatria,Dr. Samuel Brito,Escala de Depressão,Não realizado,430,,Falta,Não,SulAmérica,Águia Saúde Norte
+C00817,P0037,Sabrina,Almeida,62,M,Curitiba,SP,13/05/2023,16:30,Dermatologia,Dra. Larissa Mendes,Dermatoscopia,Não realizado,300,,Cancelada,Não,Particular,Águia Saúde Sul
+C00818,P0030,Vanessa,Lima,18,M,Santo André,SP,13/06/2022,11:00,Endocrinologia,Dr. André Teixeira,Glicemia,Não realizado,340,0,Cancelada,Não,Unimed,Águia Saúde Norte
+C00819,P0009,Nicolas,Oliveira,72,M,São Bernardo,SP,12/10/2025,15:15,Oftalmologia,Dr. Vinicius Reis,Tonometria,Em análise,270,48,Realizada,Sim,NotreDame,Águia Saúde Centro
+C00820,P0105,Patricia,Ferreira,12,M,São Paulo,SP,10/02/2023,17:45,Ortopedia,Dra. Amanda Torres,Ultrassom Articular,Não se aplica,250,20,Realizada,Não,Hapvida,Águia Saúde Sul
+C00821,P0121,Igor,Ribeiro,37,M,Santo André,SP,19/02/2022,15:00,Ortopedia,Dr. Felipe Nunes,Ressonância,Não realizado,280,,Falta,Não,Particular,Águia Saúde Norte
+C00822,P0045,Nicolas,Silva,51,M,Osasco,SP,24/08/2023,09:30,Oftalmologia,Dr. Vinicius Reis,Acuidade Visual,Em análise,220,14,Realizada,Não,Amil,Águia Saúde Norte
+C00823,P0162,Vanessa,Rocha,13,F,Rio de Janeiro,SP,04/12/2025,09:15,Neurologia,Dra. Isabela Moura,Ressonância,Em análise,390,5,Realizada,Não,Bradesco Saúde,Águia Saúde Norte
+C00824,P0083,Carlos,Gomes,67,M,Rio de Janeiro,SP,21/04/2023,10:30,Oftalmologia,Dra. Natália Castro,Mapeamento de Retina,Não realizado,220,,Falta,Não,NotreDame,Águia Saúde Norte
+C00825,P0083,Carlos,Gomes,67,M,Rio de Janeiro,SP,13/02/2026,17:15,Ortopedia,Dr. Felipe Nunes,Raio-X,Não realizado,-100,,Falta,Não,NotreDame,Águia Saúde Sul
+C00826,P0158,Patricia,Santos,26,M,São Bernardo,SP,31/08/2022,10:45,Ginecologia,Dra. Tatiane Costa,Preventivo,Em análise,310,26,Realizada,Não,NotreDame,Águia Saúde Sul
+C00827,P0028,Daniela,Martins,41,F,São Paulo,SP,28/02/2023,14:15,Dermatologia,Dra. Larissa Mendes,Biópsia de Pele,Não realizado,270,0,Falta,Não,Unimed,Águia Saúde Sul
+C00828,P0138,Yasmin,Almeida,68,M,Osasco,SP,27/01/2024,10:45,Clínico Geral,Dra. Paula Rocha,Hemograma,Não realizado,230,0,Falta,Não,Bradesco Saúde,Águia Saúde Norte
+C00829,P0076,Vanessa,Costa,48,M,Rio de Janeiro,SP,07/10/2024,10:15,Cardiologia,Dra. Renata Alves,Ecocardiograma,Normal,370,50,Realizada,Sim,Hapvida,Águia Saúde Sul
+C00830,P0020,Mariana,Almeida,19,M,Rio de Janeiro,SP,17/07/2024,15:00,Oftalmologia,Dra. Natália Castro,Tonometria,Normal,270,60,Realizada,Não,NotreDame,Águia Saúde Centro
+C00831,P0143,Juliana,Santos,31,M,Salvador,SP,08/10/2022,15:15,Clínico Geral,Dr. Marcos Lima,Hemograma,Alterado,180,65,Realizada,Não,Hapvida,Águia Saúde Centro
+C00832,P0013,Beatriz,Ferreira,89,F,São Bernardo,SP,08/06/2024,08:15,Cardiologia,Dr. Roberto Cardoso,Eletrocardiograma,Em análise,350,58,Realizada,Não,,Águia Saúde Sul
+C00833,P0023,Vanessa,Silva,89,F,Santo André,SP,20/04/2023,17:45,Endocrinologia,Dra. Sofia Ramos,Glicemia,Não realizado,370,,Cancelada,Não,NotreDame,Águia Saúde Sul
+C00834,P0015,Guilherme,Almeida,89,M,São Paulo,SP,04/07/2024,11:45,Cardiologia,Dra. Renata Alves,Ecocardiograma,Em análise,320,64,Realizada,Sim,Unimed,Águia Saúde Norte
+C00835,P0179,Matheus,Gomes,5,F,Campinas,SP,15/05/2025,11:15,Ortopedia,Dra. Amanda Torres,Ressonância,Alterado,250,39,Realizada,Não,NotreDame,Águia Saúde Centro
+C00836,P0144,Rafael,Oliveira,89,F,Salvador,SP,12/03/2024,16:45,Dermatologia,Dr. Caio Martins,Dermatoscopia,Em análise,350,11,Realizada,Não,NotreDame,Águia Saúde Sul
+C00837,P0057,Igor,Souza,15,F,Salvador,SP,19/04/2024,10:15,Clínico Geral,Dra. Paula Rocha,Glicemia,Em análise,180,83,Realizada,Sim,Amil,Águia Saúde Sul
+C00838,P0002,Eduardo,Souza,88,F,São Bernardo,SP,14/11/2023,17:00,Neurologia,Dr. Henrique Lopes,Tomografia,Não realizado,390,0,Falta,Não,Bradesco Saúde,Águia Saúde Norte
+C00839,P0011,Juliana,Oliveira,31,F,Guarulhos,SP,15/04/2023,10:15,Oftalmologia,Dra. Natália Castro,Acuidade Visual,Alterado,270,57,Realizada,Sim,Amil,Águia Saúde Centro
+C00840,P0010,Mariana,Costa,10,F,Curitiba,SP,25/03/2024,16:00,Oftalmologia,Dr. Vinicius Reis,Acuidade Visual,Normal,250,43,Realizada,Sim,NotreDame,Águia Saúde Sul
+C00841,P0018,Rafael,Lima,35,F,Curitiba,SP,31/03/2024,09:30,Cardiologia,Dra. Renata Alves,Teste Ergométrico,Não se aplica,320,14,Realizada,Sim,Hapvida,Águia Saúde Centro
+C00842,P0139,Juliana,Rocha,41,F,São Bernardo,SP,19/04/2025,16:15,Ortopedia,Dr. Felipe Nunes,Ultrassom Articular,Normal,300,59,Realizada,Não,Hapvida,Águia Saúde Norte
+C00843,P0017,Wesley,Ribeiro,29,M,Guarulhos,SP,20/08/2023,11:15,Psiquiatria,Dr. Samuel Brito,Escala de Ansiedade,Não realizado,430,,Falta,Não,Hapvida,Águia Saúde Norte
+C00844,P0073,Bruno,Souza,78,M,Campinas,SP,05/02/2022,18:45,Oftalmologia,Dr. Vinicius Reis,Tonometria,Não realizado,270,0,Falta,Não,Hapvida,Águia Saúde Norte
+C00845,P0058,Yasmin,Costa,45,F,Salvador,SP,04/07/2024,11:00,Clínico Geral,Dra. Paula Rocha,Hemograma,Normal,200,23,Realizada,Sim,SulAmérica,Águia Saúde Sul
+C00846,P0032,Beatriz,  martins  ,58,M,Rio de Janeiro,SP,17/10/2022,11:45,Psiquiatria,Dra. Helena Duarte,Avaliação Psiquiátrica,Em análise,380,68,Realizada,Não,Unimed,Águia Saúde Norte
+C00847,P0087,Eduardo,Silva,15,M,Curitiba,SP,03/03/2025,15:00,Clínico Geral,Dra. Paula Rocha,Check-up Geral,Não se aplica,200,76,Realizada,Não,Unimed,Águia Saúde Norte
+C00848,P0030,Vanessa,Lima,18,M,Santo André,SP,21/05/2024,16:45,Endocrinologia,Dra. Sofia Ramos,TSH,Normal,320,25,Realizada,Sim,,Águia Saúde Centro
+C00849,P0113,Juliana,Souza,74,F,Campinas,SP,11/10/2024,09:45,Cardiologia,Dr. Roberto Cardoso,Ecocardiograma,Não realizado,350,,Falta,Não,SulAmérica,Águia Saúde Norte
+C00850,P0028,  daniela  ,Martins,41,F,São Paulo,SP,23/10/2023,15:30,Dermatologia,Dr. Caio Martins,Teste Alérgico,Alterado,300,42,Realizada,Não,Unimed,Águia Saúde Sul
+C00851,P0030,Vanessa,Lima,18,M,Santo André,SP,14/01/2026,18:15,Pediatria,Dr. João Pedro,Teste Alérgico,Não realizado,220,,Falta,Não,Unimed,Águia Saúde Centro
+C00852,P0082,Rafael,Costa,67,M,Belo Horizonte,SP,12/01/2022,11:15,Ortopedia,Dra. Amanda Torres,Raio-X,Não se aplica,280,73,Realizada,Não,Hapvida,Águia Saúde Centro
+C00853,P0016,Bruno,Ribeiro,53,M,Rio de Janeiro,SP,19/12/2023,15:15,Psiquiatria,Dra. Helena Duarte,Avaliação Psiquiátrica,Em análise,400,29,Realizada,Não,Unimed,Águia Saúde Norte
+C00854,P0150,Lucas,Ferreira,5,F,Curitiba,SP,23/02/2025,14:15,Ginecologia,Dra. Tatiane Costa,Ultrassom Transvaginal,Não realizado,230,0,Falta,Não,Hapvida,Águia Saúde Centro
+C00855,P0017,Wesley,Ribeiro,29,M,Guarulhos,SP,05/12/2024,15:45,Psiquiatria,Dra. Helena Duarte,Avaliação Psiquiátrica,Não realizado,400,,Falta,Não,Hapvida,Águia Saúde Sul
+C00856,P0158,Patricia,Santos,26,M,São Bernardo,SP,06/01/2022,16:15,Endocrinologia,Dra. Sofia Ramos,TSH,Não realizado,290,0,Falta,Não,NotreDame,Águia Saúde Centro
+C00857,P0043,Bruno,Silva,13,F,Belo Horizonte,SP,17/04/2022,09:45,Clínico Geral,Dra. Paula Rocha,Hemograma,Não realizado,230,,Cancelada,Não,Bradesco Saúde,Águia Saúde Norte
+C00858,P0129,Matheus,Pereira,26,F,Osasco,SP,29/02/2024,16:30,Pediatria,Dr. João Pedro,Exame de Rotina,Não realizado,240,,Falta,Não,Amil,Águia Saúde Sul
+C00859,P0021,Bruno,Souza,21,F,Guarulhos,SP,23/07/2023,16:45,Pediatria,Dra. Camila Freitas,Teste Alérgico,Não realizado,270,,Cancelada,Não,SulAmérica,Águia Saúde Sul
+C00860,P0031,Igor,Rocha,29,F,Salvador,SP,21/02/2022,17:45,Neurologia,Dra. Isabela Moura,Eletroencefalograma,Não realizado,440,0,Cancelada,Não,Bradesco Saúde,Águia Saúde Sul
+C00861,P0144,Rafael,Oliveira,89,F,Salvador,SP,02/01/2023,17:00,Pediatria,Dr. João Pedro,Exame de Rotina,Não realizado,220,,Cancelada,Não,NotreDame,Águia Saúde Sul
+C00862,P0020,Mariana,Almeida,19,M,Rio de Janeiro,SP,04/06/2023,14:00,Ginecologia,Dra. Bianca Vieira,Ultrassom Transvaginal,Em análise,280,87,Realizada,Não,NotreDame,Águia Saúde Norte
+C00863,P0012,Rafael,Martins,22,M,Campinas,SP,28/04/2022,18:00,Dermatologia,Dr. Caio Martins,Teste Alérgico,Não realizado,350,,Falta,Não,Unimed,Águia Saúde Norte
+C00864,P0045,Nicolas,Silva,51,M,Osasco,SP,27/01/2024,08:15,Oftalmologia,Dr. Vinicius Reis,Mapeamento de Retina,Não se aplica,250,15,Realizada,Sim,Amil,Águia Saúde Centro
+C00865,P0114,Patricia,Martins,10,M,São Paulo,SP,19/01/2025,10:15,Clínico Geral,Dra. Paula Rocha,Hemograma,Em análise,150,91,Realizada,Sim,NotreDame,Águia Saúde Sul
+C00866,P0094,Vanessa,Oliveira,19,F,Curitiba,SP,03/10/2025,08:15,Neurologia,Dra. Isabela Moura,Tomografia,Alterado,420,15,Realizada,Não,Bradesco Saúde,Águia Saúde Centro
+C00867,P0071,Carlos,Ferreira,46,M,Santo André,SP,25/07/2025,16:00,Oftalmologia,Dra. Natália Castro,Mapeamento de Retina,Em análise,270,76,Realizada,Sim,Amil,Águia Saúde Norte
+C00868,P0120,Lucas,Pereira,64,F,Campinas,SP,27/08/2022,17:15,Cardiologia,Dra. Renata Alves,Eletrocardiograma,Normal,320,45,Realizada,Sim,NotreDame,Águia Saúde Centro
+C00869,P0056,Juliana,Silva,87,M,Rio de Janeiro,SP,21/05/2023,11:15,Endocrinologia,Dra. Sofia Ramos,Insulina,Não se aplica,320,11,Realizada,Não,Unimed,Águia Saúde Centro
+C00870,P0021,Bruno,Souza,21,F,Guarulhos,SP,13/07/2023,17:15,Neurologia,Dr. Henrique Lopes,Eletroencefalograma,Não se aplica,440,94,Realizada,Não,SulAmérica,Águia Saúde Centro
+C00871,P0126,Thiago,Martins,56,M,Campinas,SP,07/12/2024,11:15,Ginecologia,Dra. Tatiane Costa,Mamografia,Não realizado,230,,Falta,Não,Hapvida,Águia Saúde Centro
+C00872,P0138,Yasmin,Almeida,68,M,Osasco,SP,28/10/2025,16:15,Neurologia,Dra. Isabela Moura,Tomografia,Não realizado,erro,,Falta,Não,Bradesco Saúde,Águia Saúde Centro
+C00873,P0132,Igor,Santos,8,M,Belo Horizonte,SP,19/06/2023,08:00,Dermatologia,Dra. Larissa Mendes,Dermatoscopia,Não realizado,300,0,Cancelada,Não,Hapvida,Águia Saúde Norte
+C00874,P0151,Wesley,Silva,88,M,São Bernardo,SP,20/04/2025,17:30,Psiquiatria,Dr. Samuel Brito,Escala de Depressão,Alterado,350,6,Realizada,Não,Particular,Águia Saúde Norte
+C00875,P0086,Guilherme,Costa,51,M,Guarulhos,SP,20/09/2023,09:15,Cardiologia,Dr. Roberto Cardoso,Ecocardiograma,Não realizado,320,,Cancelada,Não,Unimed,Águia Saúde Sul
+C00876,P0148,Rafael,Gomes,53,M,Santo André,SP,02/06/2023,16:30,Neurologia,Dra. Isabela Moura,Eletroencefalograma,Não realizado,470,,Cancelada,Não,SulAmérica,Águia Saúde Centro
+C00877,P0060,Igor,Santos,2,M,Belo Horizonte,SP,22/05/2024,16:45,Oftalmologia,Dr. Vinicius Reis,Tonometria,Alterado,220,70,Realizada,Não,Hapvida,Águia Saúde Sul
+C00878,P0179,Matheus,Gomes,5,F,Campinas,SP,20/09/2025,11:00,Pediatria,Dra. Camila Freitas,Hemograma Infantil,Em análise,190,23,Realizada,Não,NotreDame,Águia Saúde Norte
+C00879,P0043,Bruno,Silva,13,F,Belo Horizonte,SP,10/09/2023,10:15,Ortopedia,Dr. Felipe Nunes,Raio-X,Normal,280,60,Realizada,Sim,Bradesco Saúde,Águia Saúde Centro
+C00880,P0176,Lucas,Carvalho,42,M,Santo André,SP,23/11/2022,11:45,Ginecologia,  dra. bianca vieira  ,Ultrassom Transvaginal,Não se aplica,"300,50",65,Realizada,Não,Particular,Águia Saúde Sul
+C00881,P0063,Vanessa,Lima,57,F,São Paulo,SP,14/10/2023,16:15,Cardiologia,Dra. Renata Alves,Eletrocardiograma,Não se aplica,400,41,Realizada,Não,Amil,Águia Saúde Sul
+C00882,P0019,Vanessa,Ferreira,76,M,São Bernardo,SP,31/05/2025,10:15,Psiquiatria,Dra. Helena Duarte,Avaliação Psiquiátrica,Normal,400,48,Realizada,Não,Bradesco Saúde,Águia Saúde Centro
+C00883,P0032,Beatriz,Martins,58,M,Rio de Janeiro,SP,11/09/2023,11:30,Pediatria,Dra. Camila Freitas,Hemograma Infantil,Alterado,270,,Realizada,Não,Unimed,Águia Saúde Norte
+C00884,P0100,Sabrina,Silva,51,M,Guarulhos,SP,13/05/2024,10:45,Endocrinologia,Dra. Sofia Ramos,Glicemia,Não realizado,290,0,Cancelada,Não,Hapvida,Águia Saúde Norte
+C00885,P0176,Lucas,Carvalho,42,M,Santo André,SP,16/10/2023,09:45,Neurologia,Dr. Henrique Lopes,Eletroencefalograma,Não se aplica,470,67,Realizada,Não,Particular,Águia Saúde Centro
+C00886,P0078,Juliana,Rocha,43,M,Salvador,SP,03/02/2024,16:30,Cardiologia,Dra. Renata Alves,Teste Ergométrico,Não se aplica,370,27,Realizada,Não,SulAmérica,Águia Saúde Sul
+C00887,P0022,Carlos,Carvalho,50,M,Santo André,SP,20/11/2024,16:45,Psiquiatria,Dr. Samuel Brito,Avaliação Psiquiátrica,Em análise,430,64,Realizada,Sim,Amil,Águia Saúde Centro
+C00888,P0126,Thiago,Martins,56,M,Campinas,SP,21/05/2024,11:30,Clínico Geral,Dra. Paula Rocha,Glicemia,,150,,Falta,Não,Hapvida,Águia Saúde Centro
+C00889,P0076,Vanessa,Costa,48,M,Rio de Janeiro,SP,02/09/2023,15:00,Clínico Geral,Dra. Paula Rocha,Glicemia,Não se aplica,200,73,Realizada,Sim,Hapvida,Águia Saúde Centro
+C00890,P0022,Carlos,Carvalho,50,M,Santo André,SP,07/10/2024,11:30,Ortopedia,Dr. Felipe Nunes,Ultrassom Articular,Não realizado,300,0,Cancelada,Não,Amil,Águia Saúde Sul
+C00891,P0135,Sabrina,Souza,10,M,Osasco,SP,03/02/2024,08:00,Clínico Geral,Dr. Marcos Lima,Glicemia,Não realizado,230,0,Falta,Não,Particular,Águia Saúde Norte
+C00892,P0164,Igor,Rocha,63,M,Curitiba,SP,12/01/2023,18:30,Neurologia,Dra. Isabela Moura,Eletroencefalograma,Não realizado,390,0,Cancelada,Não,Bradesco Saúde,Águia Saúde Centro
+C00893,P0020,Mariana,Almeida,19,M,Rio de Janeiro,SP,11/04/2022,11:45,Psiquiatria,Dra. Helena Duarte,Escala de Depressão,Não realizado,380,,Cancelada,Não,NotreDame,Águia Saúde Sul
+C00894,P0177,Yasmin,Oliveira,32,M,Curitiba,SP,27/03/2024,17:30,Dermatologia,Dra. Larissa Mendes,Teste Alérgico,Alterado,320,57,Realizada,Sim,Hapvida,Águia Saúde Norte
+C00895,P0018,Rafael,Lima,35,F,Curitiba,SP,30/03/2023,10:30,Endocrinologia,Dr. André Teixeira,TSH,Em análise,320,83,Realizada,Não,  hapvida  ,Águia Saúde Sul
+C00896,P0108,Ana,Lima,32,F,Osasco,SP,16/02/2025,08:30,Ginecologia,Dra. Tatiane Costa,Ultrassom Transvaginal,Alterado,280,61,Realizada,Não,Hapvida,Águia Saúde Sul
+C00897,P0045,Nicolas,Silva,51,M,Osasco,SP,05/04/2024,08:00,Ortopedia,Dra. Amanda Torres,Ressonância,Não realizado,330,,Falta,Não,Amil,Águia Saúde Centro
+C00898,P0054,Gabriel,Ferreira,18,M,Rio de Janeiro,SP,21/08/2023,16:45,Oftalmologia,Dra. Natália Castro,Tonometria,Alterado,300,24,Realizada,Não,Unimed,Águia Saúde Sul
+C00899,P0111,Ana,Gomes,75,M,Guarulhos,SP,04/03/2026,14:15,Clínico Geral,Dra. Paula Rocha,Check-up Geral,Não realizado,230,0,Falta,Não,Hapvida,Águia Saúde Norte
+C00900,P0156,Nicolas,Santos,60,F,Campinas,SP,24/03/2023,10:00,Cardiologia,Dr. Roberto Cardoso,Ecocardiograma,Não se aplica,370,25,Realizada,Não,Amil,Águia Saúde Norte
+C00234,P0026,Guilherme,Gomes,83,F,Belo Horizonte,SP,07/01/2026,11:45,Pediatria,Dr. João Pedro,Hemograma Infantil,Não realizado,erro,0,Falta,Não,Amil,Águia Saúde Norte
+C00760,P0086,Guilherme,Costa,51,M,Guarulhos,SP,29/08/2024,11:00,Ortopedia,Dr. Felipe Nunes,Ultrassom Articular,Alterado,280,14,Realizada,Sim,Unimed,Águia Saúde Sul
+C00208,P0010,Mariana,Costa,10,F,Curitiba,SP,27/01/2026,16:45,Psiquiatria,Dra. Helena Duarte,Escala de Ansiedade,Não realizado,400,,Falta,Não,NotreDame,Águia Saúde Centro
+C00373,P0171,Patricia,Santos,42,M,Guarulhos,SP,03/03/2022,08:00,Ginecologia,Dra. Tatiane Costa,Ultrassom Transvaginal,Não realizado,280,,Cancelada,Não,Bradesco Saúde,Águia Saúde Centro
+C00681,P0066,Eduardo,Almeida,22,F,Guarulhos,SP,28/03/2023,11:15,Psiquiatria,Dra. Helena Duarte,Escala de Ansiedade,Alterado,430,62,Realizada,Não,  particular  ,Águia Saúde Norte
+C00034,P0033,Helena,Oliveira,45,F,,SP,14/07/2024,08:30,Cardiologia,Dra. Renata Alves,Ecocardiograma,Normal,370,87,Realizada,Não,SulAmérica,Águia Saúde Norte
+C00409,P0017,Wesley,Ribeiro,29,M,Guarulhos,SP,03/05/2025,16:15,Cardiologia,Dr. Roberto Cardoso,Ecocardiograma,Em análise,320,59,Realizada,Não,Hapvida,Águia Saúde Norte
+C00642,P0178,Carlos,Rocha,14,F,Osasco,SP,18/09/2024,18:45,Psiquiatria,Dra. Helena Duarte,Escala de Ansiedade,Não realizado,400,0,Falta,Não,Unimed,Águia Saúde Centro
+C00102,P0138,Yasmin,Almeida,68,M,Osasco,SP,12/02/2024,15:00,Pediatria,Dra. Camila Freitas,Exame de Rotina,Alterado,190,80,Realizada,Não,Bradesco Saúde,Águia Saúde Centro
+C00338,P0034,Helena,Almeida,2,F,São Paulo,SP,16/03/2024,16:00,Dermatologia,Dr. Caio Martins,Dermatoscopia,Em análise,320,50,Realizada,Sim,Unimed,Águia Saúde Sul
+C00520,P0027,Fernanda,Silva,78,M,Osasco,SP,05/03/2023,14:00,Endocrinologia,Dr. André Teixeira,TSH,Alterado,340,50,Realizada,Sim,Particular,Águia Saúde Sul
+C00069,P0079,Eduardo,Costa,55,M,Belo Horizonte,SP,25/07/2024,18:15,Cardiologia,Dra. Renata Alves,Teste Ergométrico,Em análise,370,11,Realizada,Não,SulAmérica,Águia Saúde Sul
+C00278,P0141,Carlos,Pereira,32,F,Santo André,SP,26/07/2025,08:00,Clínico Geral,Dr. Marcos Lima,Glicemia,Não realizado,180,,Cancelada,Não,Particular,Águia Saúde Centro
+C00567,P0121,Igor,Ribeiro,37,M,Santo André,SP,17/01/2022,14:15,Ginecologia,Dra. Tatiane Costa,Ultrassom Transvaginal,Normal,230,69,Realizada,Não,Particular,Águia Saúde Norte
+C00548,P0109,Daniela,Costa,61,M,Campinas,SP,03/01/2022,16:30,Oftalmologia,Dra. Natália Castro,Mapeamento de Retina,Não se aplica,250,12,Realizada,Não,Unimed,Águia Saúde Sul
+C00867,P0071,Carlos,Ferreira,46,M,Santo André,SP,25/07/2025,16:00,Oftalmologia,Dra. Natália Castro,Mapeamento de Retina,Em análise,270,76,Realizada,Sim,Amil,Águia Saúde Norte
+C00551,P0170,Gabriel,Almeida,75,M,,SP,12/05/2025,11:15,Ginecologia,Dra. Bianca Vieira,Ultrassom Transvaginal,Não realizado,230,,Falta,Não,NotreDame,Águia Saúde Centro
+C00894,P0177,Yasmin,Oliveira,32,M,Curitiba,SP,27/03/2024,17:30,Dermatologia,Dra. Larissa Mendes,Teste Alérgico,Alterado,320,57,Realizada,Sim,Hapvida,Águia Saúde Norte
+C00082,P0172,Beatriz,Lima,65,F,Belo Horizonte,SP,25/07/2022,11:45,Pediatria,Dra. Camila Freitas,Hemograma Infantil,Alterado,190,5,Realizada,Não,SulAmérica,Águia Saúde Sul
+C00818,P0030,Vanessa,Lima,18,M,Santo André,SP,13/06/2022,11:00,Endocrinologia,Dr. André Teixeira,Glicemia,Não realizado,340,0,Cancelada,Não,Unimed,Águia Saúde Norte
+C00058,P0067,Fernanda,Ribeiro,54,F,Salvador,SP,02/10/2024,10:15,Pediatria,Dr. João Pedro,Teste Alérgico,Não realizado,190,0,Cancelada,Não,Unimed,Águia Saúde Sul
+C00458,P0122,Thiago,Costa,12,F,Guarulhos,SP,12/10/2025,14:00,Ginecologia,Dra. Bianca Vieira,Preventivo,Não realizado,310,0,Cancelada,Não,Bradesco Saúde,Águia Saúde Centro
+C00581,P0173,Wesley,Ribeiro,14,M,Rio de Janeiro,SP,16/12/2025,15:15,Dermatologia,Dr. Caio Martins,Biópsia de Pele,Em análise,320,43,Realizada,Não,SulAmérica,Águia Saúde Norte
+C00536,P0041,Vanessa,Barbosa,19,M,Belo Horizonte,SP,16/04/2024,09:30,Ginecologia,Dra. Bianca Vieira,Mamografia,Alterado,280,71,Realizada,Sim,Amil,Águia Saúde Norte
+C00254,P0039,Camila,Santos,88,F,São Paulo,SP,07/03/2023,16:30,Neurologia,Dr. Henrique Lopes,Ressonância,Não realizado,420,0,Cancelada,Não,Bradesco Saúde,Águia Saúde Centro

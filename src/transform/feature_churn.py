@@ -1,0 +1,4 @@
+"""Ativo
+Atenção
+Risco
+Inativo"""
