@@ -46,21 +46,56 @@ O projeto tambem esta sendo pensado para incluir modelos de machine learning apl
 
 ## Estrutura Planejada
 
-```text
-data/
-  raw/
-  processed/
-notebooks/
-src/
-  extract/
-  transform/
-  analytics/
-  ml/
-  dashboard/
-README.md
-.gitignore
-requirements.txt
-app.py
+```hospital-analytics/
+│
+├── data/
+│   ├── raw/
+│   ├── processed/
+│   └── output/
+│
+├── src/
+│   ├── extract/
+│   │   └── extract.py
+│   │
+│   ├── transform/
+│   │   ├── limpeza.py
+│   │   ├── features.py
+│   │   ├── feature_paciente.py
+│   │   ├── feature_tempo.py
+│   │   └── validacao.py
+│   │
+│   ├── analytics/
+│   │   ├── metricas.py
+│   │   └── indicadores.py
+│   │
+│   ├── pipeline/
+│   │   └── pipeline.py
+│   │
+│   ├── dashboard/
+│   │   ├── app.py
+│   │   ├── pages/
+│   │   └── components/
+│   │
+│   ├── auth/
+│   │   ├── login.py
+│   │   └── session.py
+│   │
+│   ├── load/
+│   │   └── salvar.py
+│   │
+│   ├── utils/
+│   │   ├── logger.py
+│   │   └── helpers.py
+│   │
+│   └── config/
+│       ├── paths.py
+│       └── settings.py
+│
+├── logs/
+├── requirements.txt
+├── README.md
+└── main.py
+
 ```
 
 ## Tecnologias Planejadas
